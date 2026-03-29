@@ -3,3 +3,7 @@ __pycache__/
 data/tennis_atp/
 
 logs/
+
+__pycache__/
+
+*.pyc
