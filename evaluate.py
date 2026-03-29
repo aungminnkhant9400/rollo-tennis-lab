@@ -26,7 +26,7 @@ FEATURE_NAMES = [
     "p1_recent_win_rate",
     "p2_recent_win_rate",
     "recent_win_rate_diff",
-    "rank_gap_abs",
+    "p1_is_favorite",
 ]
 
 
@@ -120,7 +120,7 @@ def create_features(
     p2_rank = df["p2_rank"].astype(float)
     p1_recent_win_rate = df["player_1"].map(recent_win_rate_map).fillna(0.5).astype(float)
     p2_recent_win_rate = df["player_2"].map(recent_win_rate_map).fillna(0.5).astype(float)
-    rank_gap_abs = (p1_rank - p2_rank).abs()
+    p1_is_favorite = (p1_rank < p2_rank).astype(float)
 
     features = pd.DataFrame(
         {
@@ -136,7 +136,7 @@ def create_features(
             "p1_recent_win_rate": p1_recent_win_rate,
             "p2_recent_win_rate": p2_recent_win_rate,
             "recent_win_rate_diff": p1_recent_win_rate - p2_recent_win_rate,
-            "rank_gap_abs": rank_gap_abs,
+            "p1_is_favorite": p1_is_favorite,
         }
     )
     return features[FEATURE_NAMES]
