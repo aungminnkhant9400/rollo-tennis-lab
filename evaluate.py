@@ -26,6 +26,9 @@ FEATURE_NAMES = [
     "p1_recent_win_rate",
     "p2_recent_win_rate",
     "recent_win_rate_diff",
+    "p1_rank_recent_interaction",
+    "p2_rank_recent_interaction",
+    "rank_recent_interaction_diff",
 ]
 
 
@@ -119,6 +122,8 @@ def create_features(
     p2_rank = df["p2_rank"].astype(float)
     p1_recent_win_rate = df["player_1"].map(recent_win_rate_map).fillna(0.5).astype(float)
     p2_recent_win_rate = df["player_2"].map(recent_win_rate_map).fillna(0.5).astype(float)
+    p1_rank_recent_interaction = p1_recent_win_rate / p1_rank
+    p2_rank_recent_interaction = p2_recent_win_rate / p2_rank
 
     features = pd.DataFrame(
         {
@@ -134,6 +139,9 @@ def create_features(
             "p1_recent_win_rate": p1_recent_win_rate,
             "p2_recent_win_rate": p2_recent_win_rate,
             "recent_win_rate_diff": p1_recent_win_rate - p2_recent_win_rate,
+            "p1_rank_recent_interaction": p1_rank_recent_interaction,
+            "p2_rank_recent_interaction": p2_rank_recent_interaction,
+            "rank_recent_interaction_diff": p1_rank_recent_interaction - p2_rank_recent_interaction,
         }
     )
     return features[FEATURE_NAMES]
