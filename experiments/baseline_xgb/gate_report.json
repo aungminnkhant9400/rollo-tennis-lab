@@ -54,17 +54,17 @@
     {
       "name": "metric:validation:log_loss",
       "passed": true,
-      "detail": "log_loss=0.8485004654919464"
+      "detail": "log_loss=0.8377671796802622"
     },
     {
       "name": "metric:validation:accuracy",
       "passed": true,
-      "detail": "accuracy=0.5484581497797357"
+      "detail": "accuracy=0.5352422907488987"
     },
     {
       "name": "metric:validation:feature_names",
       "passed": true,
-      "detail": "feature_names count=9"
+      "detail": "feature_names count=12"
     },
     {
       "name": "required_keys:test",
@@ -79,21 +79,21 @@
     {
       "name": "metric:test:log_loss",
       "passed": true,
-      "detail": "log_loss=0.7739230054158979"
+      "detail": "log_loss=0.7648468766315133"
     },
     {
       "name": "metric:test:accuracy",
       "passed": true,
-      "detail": "accuracy=0.5978021978021978"
+      "detail": "accuracy=0.5934065934065934"
     },
     {
       "name": "metric:test:feature_names",
       "passed": true,
-      "detail": "feature_names count=9"
+      "detail": "feature_names count=12"
     }
   ],
-  "val_log_loss": 0.8485004654919464,
-  "val_accuracy": 0.5484581497797357,
-  "test_log_loss": 0.7739230054158979,
-  "test_accuracy": 0.5978021978021978
+  "val_log_loss": 0.8377671796802622,
+  "val_accuracy": 0.5352422907488987,
+  "test_log_loss": 0.7648468766315133,
+  "test_accuracy": 0.5934065934065934
 }

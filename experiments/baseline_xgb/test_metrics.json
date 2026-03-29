@@ -1,8 +1,8 @@
 {
   "model_name": "baseline_xgb",
   "n_test_rows": 455,
-  "log_loss": 0.7739230054158979,
-  "accuracy": 0.5978021978021978,
+  "log_loss": 0.7648468766315133,
+  "accuracy": 0.5934065934065934,
   "feature_names": [
     "p1_win_rate",
     "p2_win_rate",
@@ -12,6 +12,9 @@
     "matches_diff",
     "p1_rank",
     "p2_rank",
-    "rank_diff"
+    "rank_diff",
+    "p1_recent_win_rate",
+    "p2_recent_win_rate",
+    "recent_win_rate_diff"
   ]
 }

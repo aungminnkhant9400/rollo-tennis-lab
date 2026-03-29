@@ -12,6 +12,7 @@ MODEL_PATH = Path("experiments/baseline_xgb/model.joblib")
 OUTPUT_DIR = Path("experiments/baseline_xgb")
 REQUIRED_COLUMNS = ["date", "player_1", "player_2", "target", "p1_rank", "p2_rank"]
 ALPHA = 10.0
+RECENT_ALPHA = 5.0
 FEATURE_NAMES = [
     "p1_win_rate",
     "p2_win_rate",
@@ -22,6 +23,9 @@ FEATURE_NAMES = [
     "p1_rank",
     "p2_rank",
     "rank_diff",
+    "p1_recent_win_rate",
+    "p2_recent_win_rate",
+    "recent_win_rate_diff",
 ]
 
 
@@ -72,9 +76,40 @@ def build_player_stats(train_df: pd.DataFrame) -> pd.DataFrame:
     return player_stats
 
 
-def create_features(df: pd.DataFrame, player_stats: pd.DataFrame) -> pd.DataFrame:
+def build_recent_player_stats(train_df: pd.DataFrame) -> pd.DataFrame:
+    sorted_train_df = train_df.sort_values("date", ascending=True, kind="mergesort")
+    player_1_stats = pd.DataFrame(
+        {
+            "player": sorted_train_df["player_1"],
+            "date": sorted_train_df["date"],
+            "win": sorted_train_df["target"],
+        }
+    )
+    player_2_stats = pd.DataFrame(
+        {
+            "player": sorted_train_df["player_2"],
+            "date": sorted_train_df["date"],
+            "win": 1 - sorted_train_df["target"],
+        }
+    )
+
+    recent_history = pd.concat([player_1_stats, player_2_stats], ignore_index=True)
+    recent_history = recent_history.sort_values(["player", "date"], ascending=True, kind="mergesort")
+    recent_history = recent_history.groupby("player", group_keys=False).tail(10)
+
+    recent_stats = recent_history.groupby("player", as_index=True)["win"].agg(matches="size", wins="sum")
+    recent_stats["win_rate"] = (recent_stats["wins"] + RECENT_ALPHA * 0.5) / (recent_stats["matches"] + RECENT_ALPHA)
+    return recent_stats
+
+
+def create_features(
+    df: pd.DataFrame,
+    player_stats: pd.DataFrame,
+    recent_player_stats: pd.DataFrame,
+) -> pd.DataFrame:
     matches_map = player_stats["matches"].to_dict()
     win_rate_map = player_stats["win_rate"].to_dict()
+    recent_win_rate_map = recent_player_stats["win_rate"].to_dict()
 
     p1_matches = df["player_1"].map(matches_map).fillna(0).astype(float)
     p2_matches = df["player_2"].map(matches_map).fillna(0).astype(float)
@@ -82,6 +117,8 @@ def create_features(df: pd.DataFrame, player_stats: pd.DataFrame) -> pd.DataFram
     p2_win_rate = df["player_2"].map(win_rate_map).fillna(0.5).astype(float)
     p1_rank = df["p1_rank"].astype(float)
     p2_rank = df["p2_rank"].astype(float)
+    p1_recent_win_rate = df["player_1"].map(recent_win_rate_map).fillna(0.5).astype(float)
+    p2_recent_win_rate = df["player_2"].map(recent_win_rate_map).fillna(0.5).astype(float)
 
     features = pd.DataFrame(
         {
@@ -94,6 +131,9 @@ def create_features(df: pd.DataFrame, player_stats: pd.DataFrame) -> pd.DataFram
             "p1_rank": p1_rank,
             "p2_rank": p2_rank,
             "rank_diff": p2_rank - p1_rank,
+            "p1_recent_win_rate": p1_recent_win_rate,
+            "p2_recent_win_rate": p2_recent_win_rate,
+            "recent_win_rate_diff": p1_recent_win_rate - p2_recent_win_rate,
         }
     )
     return features[FEATURE_NAMES]
@@ -141,7 +181,8 @@ def main() -> None:
     validate_target(test_df, "test")
 
     player_stats = build_player_stats(train_df)
-    test_features = create_features(test_df, player_stats)
+    recent_player_stats = build_recent_player_stats(train_df)
+    test_features = create_features(test_df, player_stats, recent_player_stats)
 
     metrics, predictions = evaluate_model(model, test_df, test_features)
     save_outputs(metrics, predictions)
