@@ -13,7 +13,6 @@ OUTPUT_DIR = Path("experiments/baseline_xgb")
 REQUIRED_COLUMNS = ["date", "player_1", "player_2", "target", "p1_rank", "p2_rank"]
 ALPHA = 10.0
 RECENT_ALPHA = 5.0
-ADJ_RECENT_ALPHA = 1.0
 FEATURE_NAMES = [
     "p1_win_rate",
     "p2_win_rate",
@@ -27,12 +26,7 @@ FEATURE_NAMES = [
     "p1_recent_win_rate",
     "p2_recent_win_rate",
     "recent_win_rate_diff",
-    "p1_rank_recent_interaction",
-    "p2_rank_recent_interaction",
-    "rank_recent_interaction_diff",
-    "p1_adj_recent_win_rate",
-    "p2_adj_recent_win_rate",
-    "adj_recent_win_rate_diff",
+    "rank_gap_abs",
 ]
 
 
@@ -103,51 +97,14 @@ def build_recent_player_stats(train_df: pd.DataFrame) -> pd.DataFrame:
     return recent_stats
 
 
-def build_adjusted_recent_player_stats(train_df: pd.DataFrame) -> pd.DataFrame:
-    sorted_train_df = train_df.sort_values("date", ascending=True, kind="mergesort")
-    player_1_stats = pd.DataFrame(
-        {
-            "player": sorted_train_df["player_1"],
-            "date": sorted_train_df["date"],
-            "win": sorted_train_df["target"],
-            "opponent_rank": sorted_train_df["p2_rank"].astype(float),
-        }
-    )
-    player_2_stats = pd.DataFrame(
-        {
-            "player": sorted_train_df["player_2"],
-            "date": sorted_train_df["date"],
-            "win": 1 - sorted_train_df["target"],
-            "opponent_rank": sorted_train_df["p1_rank"].astype(float),
-        }
-    )
-
-    recent_history = pd.concat([player_1_stats, player_2_stats], ignore_index=True)
-    recent_history = recent_history.sort_values(["player", "date"], ascending=True, kind="mergesort")
-    recent_history = recent_history.groupby("player", group_keys=False).tail(10)
-    recent_history["opponent_weight"] = 1.0 / recent_history["opponent_rank"]
-    recent_history["weighted_win"] = recent_history["win"] * recent_history["opponent_weight"]
-
-    recent_stats = recent_history.groupby("player", as_index=True).agg(
-        weighted_wins=("weighted_win", "sum"),
-        weighted_total=("opponent_weight", "sum"),
-    )
-    recent_stats["win_rate"] = (
-        recent_stats["weighted_wins"] + ADJ_RECENT_ALPHA * 0.5
-    ) / (recent_stats["weighted_total"] + ADJ_RECENT_ALPHA)
-    return recent_stats
-
-
 def create_features(
     df: pd.DataFrame,
     player_stats: pd.DataFrame,
     recent_player_stats: pd.DataFrame,
-    adjusted_recent_player_stats: pd.DataFrame,
 ) -> pd.DataFrame:
     matches_map = player_stats["matches"].to_dict()
     win_rate_map = player_stats["win_rate"].to_dict()
     recent_win_rate_map = recent_player_stats["win_rate"].to_dict()
-    adjusted_recent_win_rate_map = adjusted_recent_player_stats["win_rate"].to_dict()
 
     p1_matches = df["player_1"].map(matches_map).fillna(0).astype(float)
     p2_matches = df["player_2"].map(matches_map).fillna(0).astype(float)
@@ -157,10 +114,7 @@ def create_features(
     p2_rank = df["p2_rank"].astype(float)
     p1_recent_win_rate = df["player_1"].map(recent_win_rate_map).fillna(0.5).astype(float)
     p2_recent_win_rate = df["player_2"].map(recent_win_rate_map).fillna(0.5).astype(float)
-    p1_rank_recent_interaction = p1_recent_win_rate / p1_rank
-    p2_rank_recent_interaction = p2_recent_win_rate / p2_rank
-    p1_adj_recent_win_rate = df["player_1"].map(adjusted_recent_win_rate_map).fillna(0.5).astype(float)
-    p2_adj_recent_win_rate = df["player_2"].map(adjusted_recent_win_rate_map).fillna(0.5).astype(float)
+    rank_gap_abs = (p1_rank - p2_rank).abs()
 
     features = pd.DataFrame(
         {
@@ -176,12 +130,7 @@ def create_features(
             "p1_recent_win_rate": p1_recent_win_rate,
             "p2_recent_win_rate": p2_recent_win_rate,
             "recent_win_rate_diff": p1_recent_win_rate - p2_recent_win_rate,
-            "p1_rank_recent_interaction": p1_rank_recent_interaction,
-            "p2_rank_recent_interaction": p2_rank_recent_interaction,
-            "rank_recent_interaction_diff": p1_rank_recent_interaction - p2_rank_recent_interaction,
-            "p1_adj_recent_win_rate": p1_adj_recent_win_rate,
-            "p2_adj_recent_win_rate": p2_adj_recent_win_rate,
-            "adj_recent_win_rate_diff": p1_adj_recent_win_rate - p2_adj_recent_win_rate,
+            "rank_gap_abs": rank_gap_abs,
         }
     )
     return features[FEATURE_NAMES]
@@ -248,9 +197,8 @@ def main() -> None:
 
     player_stats = build_player_stats(train_df)
     recent_player_stats = build_recent_player_stats(train_df)
-    adjusted_recent_player_stats = build_adjusted_recent_player_stats(train_df)
-    train_features = create_features(train_df, player_stats, recent_player_stats, adjusted_recent_player_stats)
-    val_features = create_features(val_df, player_stats, recent_player_stats, adjusted_recent_player_stats)
+    train_features = create_features(train_df, player_stats, recent_player_stats)
+    val_features = create_features(val_df, player_stats, recent_player_stats)
 
     model = train_model(train_features, train_df["target"])
     metrics, predictions = evaluate_model(model, val_df, val_features)
