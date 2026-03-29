@@ -144,6 +144,7 @@ def train_model(features: pd.DataFrame, target: pd.Series) -> XGBClassifier:
         colsample_bytree=1.0,
         n_jobs=1,
         objective="binary:logistic",
+        tree_method="gpu_hist",
     )
     model.fit(features, target)
     return model
