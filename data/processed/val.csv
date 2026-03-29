@@ -1,13 +1,462 @@
 date,player_1,player_2,winner,target
-2024-02-26,Novak Djokovic,Taylor Fritz,Taylor Fritz,0
-2024-02-27,Carlos Alcaraz,Casper Ruud,Carlos Alcaraz,1
-2024-02-28,Jannik Sinner,Stefanos Tsitsipas,Stefanos Tsitsipas,0
-2024-02-29,Daniil Medvedev,Alexander Zverev,Daniil Medvedev,1
-2024-03-01,Novak Djokovic,Casper Ruud,Novak Djokovic,1
-2024-03-02,Carlos Alcaraz,Taylor Fritz,Taylor Fritz,0
-2024-03-03,Jannik Sinner,Alexander Zverev,Jannik Sinner,1
-2024-03-04,Daniil Medvedev,Stefanos Tsitsipas,Daniil Medvedev,1
-2024-03-05,Novak Djokovic,Carlos Alcaraz,Novak Djokovic,1
-2024-03-06,Jannik Sinner,Daniil Medvedev,Jannik Sinner,1
-2024-03-07,Alexander Zverev,Casper Ruud,Alexander Zverev,1
-2024-03-08,Stefanos Tsitsipas,Taylor Fritz,Taylor Fritz,0
+2024-08-05,Hubert Hurkacz,Alexei Popyrin,Alexei Popyrin,0
+2024-08-05,Sebastian Korda,Alexander Zverev,Sebastian Korda,1
+2024-08-05,Alejandro Tabilo,Jannik Sinner,Jannik Sinner,0
+2024-08-05,Andrey Rublev,Brandon Nakashima,Andrey Rublev,1
+2024-08-05,Alejandro Davidovich Fokina,Matteo Arnaldi,Matteo Arnaldi,0
+2024-08-05,Kei Nishikori,Nuno Borges,Kei Nishikori,1
+2024-08-05,Grigor Dimitrov,Alexei Popyrin,Alexei Popyrin,0
+2024-08-05,Hubert Hurkacz,Arthur Rinderknech,Hubert Hurkacz,1
+2024-08-05,Casper Ruud,Sebastian Korda,Sebastian Korda,0
+2024-08-05,Alexander Zverev,Holger Rune,Alexander Zverev,1
+2024-08-05,Borna Coric,Jannik Sinner,Jannik Sinner,0
+2024-08-05,Alejandro Tabilo,Lorenzo Sonego,Alejandro Tabilo,1
+2024-08-05,Tommy Paul,Brandon Nakashima,Brandon Nakashima,0
+2024-08-05,Andrey Rublev,Tomas Martin Etcheverry,Andrey Rublev,1
+2024-08-05,Daniil Medvedev,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,0
+2024-08-05,Matteo Arnaldi,Karen Khachanov,Matteo Arnaldi,1
+2024-08-05,Ugo Humbert,Nuno Borges,Nuno Borges,0
+2024-08-05,Kei Nishikori,Stefanos Tsitsipas,Kei Nishikori,1
+2024-08-05,Rinky Hijikata,Grigor Dimitrov,Grigor Dimitrov,0
+2024-08-05,Alexei Popyrin,Ben Shelton,Alexei Popyrin,1
+2024-08-05,Flavio Cobolli,Arthur Rinderknech,Arthur Rinderknech,0
+2024-08-05,Hubert Hurkacz,Thanasi Kokkinakis,Hubert Hurkacz,1
+2024-08-05,James Duckworth,Casper Ruud,Casper Ruud,0
+2024-08-05,Sebastian Korda,Taylor Fritz,Sebastian Korda,1
+2024-08-05,Pablo Carreno Busta,Holger Rune,Holger Rune,0
+2024-08-05,Alexander Zverev,Jordan Thompson,Alexander Zverev,1
+2024-08-05,Pedro Martinez,Borna Coric,Borna Coric,0
+2024-08-05,Lorenzo Sonego,Tallon Griekspoor,Lorenzo Sonego,1
+2024-08-05,Frances Tiafoe,Alejandro Tabilo,Alejandro Tabilo,0
+2024-08-05,Tommy Paul,Luciano Darderi,Tommy Paul,1
+2024-08-05,Denis Shapovalov,Brandon Nakashima,Brandon Nakashima,0
+2024-08-05,Tomas Martin Etcheverry,Nicolas Jarry,Tomas Martin Etcheverry,1
+2024-08-05,Roman Safiullin,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,0
+2024-08-05,Matteo Arnaldi,Mackenzie Mcdonald,Matteo Arnaldi,1
+2024-08-05,Gabriel Diallo,Karen Khachanov,Karen Khachanov,0
+2024-08-05,Ugo Humbert,Arthur Fils,Ugo Humbert,1
+2024-08-05,Miomir Kecmanovic,Nuno Borges,Nuno Borges,0
+2024-08-05,Kei Nishikori,Alex Michelsen,Kei Nishikori,1
+2024-08-05,Taro Daniel,Rinky Hijikata,Rinky Hijikata,0
+2024-08-05,Alexei Popyrin,Tomas Machac,Alexei Popyrin,1
+2024-08-05,Alexander Bublik,Ben Shelton,Ben Shelton,0
+2024-08-05,Flavio Cobolli,Felix Auger Aliassime,Flavio Cobolli,1
+2024-08-05,Adrian Mannarino,Arthur Rinderknech,Arthur Rinderknech,0
+2024-08-05,Thanasi Kokkinakis,Gael Monfils,Thanasi Kokkinakis,1
+2024-08-05,Marcos Giron,James Duckworth,James Duckworth,0
+2024-08-05,Sebastian Korda,Vasek Pospisil,Sebastian Korda,1
+2024-08-05,Mariano Navone,Taylor Fritz,Taylor Fritz,0
+2024-08-05,Holger Rune,Roberto Bautista Agut,Holger Rune,1
+2024-08-05,Fabian Marozsan,Pablo Carreno Busta,Pablo Carreno Busta,0
+2024-08-05,Jordan Thompson,Jack Draper,Jordan Thompson,1
+2024-08-12,Frances Tiafoe,Jannik Sinner,Jannik Sinner,0
+2024-08-12,Jannik Sinner,Alexander Zverev,Jannik Sinner,1
+2024-08-12,Holger Rune,Frances Tiafoe,Frances Tiafoe,0
+2024-08-12,Jannik Sinner,Andrey Rublev,Jannik Sinner,1
+2024-08-12,Ben Shelton,Alexander Zverev,Alexander Zverev,0
+2024-08-12,Frances Tiafoe,Hubert Hurkacz,Frances Tiafoe,1
+2024-08-12,Jack Draper,Holger Rune,Holger Rune,0
+2024-08-12,Jannik Sinner,Jordan Thompson,Jannik Sinner,1
+2024-08-12,Brandon Nakashima,Andrey Rublev,Andrey Rublev,0
+2024-08-12,Alexander Zverev,Pablo Carreno Busta,Alexander Zverev,1
+2024-08-12,Fabian Marozsan,Ben Shelton,Ben Shelton,0
+2024-08-12,Hubert Hurkacz,Flavio Cobolli,Hubert Hurkacz,1
+2024-08-12,Jiri Lehecka,Frances Tiafoe,Frances Tiafoe,0
+2024-08-12,Jack Draper,Felix Auger Aliassime,Jack Draper,1
+2024-08-12,Gael Monfils,Holger Rune,Holger Rune,0
+2024-08-12,Jannik Sinner,Alex Michelsen,Jannik Sinner,1
+2024-08-12,Sebastian Baez,Jordan Thompson,Jordan Thompson,0
+2024-08-12,Brandon Nakashima,Arthur Fils,Brandon Nakashima,1
+2024-08-12,Zhizhen Zhang,Andrey Rublev,Andrey Rublev,0
+2024-08-12,Alexander Zverev,Karen Khachanov,Alexander Zverev,1
+2024-08-12,Max Purcell,Pablo Carreno Busta,Pablo Carreno Busta,0
+2024-08-12,Ben Shelton,Tomas Martin Etcheverry,Ben Shelton,1
+2024-08-12,Grigor Dimitrov,Fabian Marozsan,Fabian Marozsan,0
+2024-08-12,Hubert Hurkacz,Yoshihito Nishioka,Hubert Hurkacz,1
+2024-08-12,Luciano Darderi,Flavio Cobolli,Flavio Cobolli,0
+2024-08-12,Frances Tiafoe,Lorenzo Musetti,Frances Tiafoe,1
+2024-08-12,Daniil Medvedev,Jiri Lehecka,Jiri Lehecka,0
+2024-08-12,Felix Auger Aliassime,Casper Ruud,Felix Auger Aliassime,1
+2024-08-12,Stefanos Tsitsipas,Jack Draper,Jack Draper,0
+2024-08-12,Holger Rune,Nuno Borges,Holger Rune,1
+2024-08-12,Carlos Alcaraz,Gael Monfils,Gael Monfils,0
+2024-08-12,Alex Michelsen,Tallon Griekspoor,Alex Michelsen,1
+2024-08-12,Marcos Giron,Sebastian Baez,Sebastian Baez,0
+2024-08-12,Jordan Thompson,Ugo Humbert,Jordan Thompson,1
+2024-08-12,Taylor Fritz,Brandon Nakashima,Brandon Nakashima,0
+2024-08-12,Arthur Fils,Brandon Holt,Arthur Fils,1
+2024-08-12,Giovanni Mpetshi Perricard,Zhizhen Zhang,Zhizhen Zhang,0
+2024-08-12,Karen Khachanov,Francisco Cerundolo,Karen Khachanov,1
+2024-08-12,Tomas Machac,Max Purcell,Max Purcell,0
+2024-08-12,Pablo Carreno Busta,Sebastian Korda,Pablo Carreno Busta,1
+2024-08-12,Reilly Opelka,Ben Shelton,Ben Shelton,0
+2024-08-12,Tomas Martin Etcheverry,Matteo Arnaldi,Tomas Martin Etcheverry,1
+2024-08-12,Corentin Moutet,Fabian Marozsan,Fabian Marozsan,0
+2024-08-12,Yoshihito Nishioka,Miomir Kecmanovic,Yoshihito Nishioka,1
+2024-08-12,Alejandro Tabilo,Luciano Darderi,Luciano Darderi,0
+2024-08-12,Flavio Cobolli,Tommy Paul,Flavio Cobolli,1
+2024-08-12,Nicolas Jarry,Lorenzo Musetti,Lorenzo Musetti,0
+2024-08-12,Frances Tiafoe,Alejandro Davidovich Fokina,Frances Tiafoe,1
+2024-08-12,Mariano Navone,Jiri Lehecka,Jiri Lehecka,0
+2024-08-12,Felix Auger Aliassime,Aleksandar Kovacevic,Felix Auger Aliassime,1
+2024-08-12,Jaume Munar,Jack Draper,Jack Draper,0
+2024-08-12,Stefanos Tsitsipas,Jan Lennard Struff,Stefanos Tsitsipas,1
+2024-08-12,Matteo Berrettini,Holger Rune,Holger Rune,0
+2024-08-12,Nuno Borges,Adrian Mannarino,Nuno Borges,1
+2024-08-12,Alexei Popyrin,Gael Monfils,Gael Monfils,0
+2024-08-19,Lorenzo Sonego,Alex Michelsen,Lorenzo Sonego,1
+2024-08-19,David Goffin,Lorenzo Sonego,Lorenzo Sonego,0
+2024-08-19,Alex Michelsen,Pablo Carreno Busta,Alex Michelsen,1
+2024-08-19,Rinky Hijikata,David Goffin,David Goffin,0
+2024-08-19,Lorenzo Sonego,Pavel Kotov,Lorenzo Sonego,1
+2024-08-19,Learner Tien,Pablo Carreno Busta,Pablo Carreno Busta,0
+2024-08-19,Alex Michelsen,Christopher Eubanks,Alex Michelsen,1
+2024-08-19,Borna Coric,Rinky Hijikata,Rinky Hijikata,0
+2024-08-19,David Goffin,Arthur Rinderknech,David Goffin,1
+2024-08-19,Zachary Svajda,Pavel Kotov,Pavel Kotov,0
+2024-08-19,Lorenzo Sonego,Juncheng Shang,Lorenzo Sonego,1
+2024-08-19,Thiago Seyboth Wild,Learner Tien,Learner Tien,0
+2024-08-19,Pablo Carreno Busta,Aleksandar Vukic,Pablo Carreno Busta,1
+2024-08-19,Zizou Bergs,Alex Michelsen,Alex Michelsen,0
+2024-08-19,Christopher Eubanks,Roman Safiullin,Christopher Eubanks,1
+2024-08-19,Sebastian Baez,Borna Coric,Borna Coric,0
+2024-08-19,Rinky Hijikata,Arthur Cazaux,Rinky Hijikata,1
+2024-08-19,Christopher Oconnell,Arthur Rinderknech,Arthur Rinderknech,0
+2024-08-19,David Goffin,Luciano Darderi,David Goffin,1
+2024-08-19,Francisco Cerundolo,Zachary Svajda,Zachary Svajda,0
+2024-08-19,Pavel Kotov,Alexandre Muller,Pavel Kotov,1
+2024-08-19,Dominic Stricker,Lorenzo Sonego,Lorenzo Sonego,0
+2024-08-19,Juncheng Shang,Mariano Navone,Juncheng Shang,1
+2024-08-19,Nuno Borges,Thiago Seyboth Wild,Thiago Seyboth Wild,0
+2024-08-19,Learner Tien,Fabian Marozsan,Learner Tien,1
+2024-08-19,Alexander Shevchenko,Pablo Carreno Busta,Pablo Carreno Busta,0
+2024-08-19,Aleksandar Vukic,Adrian Mannarino,Aleksandar Vukic,1
+2024-08-19,Tomas Martin Etcheverry,Zizou Bergs,Zizou Bergs,0
+2024-08-19,Alex Michelsen,Marton Fucsovics,Alex Michelsen,1
+2024-08-19,Hugo Gaston,Christopher Eubanks,Christopher Eubanks,0
+2024-08-19,Roman Safiullin,Corentin Moutet,Roman Safiullin,1
+2024-08-19,Sumit Nagal,Borna Coric,Borna Coric,0
+2024-08-19,Arthur Cazaux,Botic Van De Zandschulp,Arthur Cazaux,1
+2024-08-19,Strong Kirchheimer,Christopher Oconnell,Christopher Oconnell,0
+2024-08-19,David Goffin,Jaume Munar,David Goffin,1
+2024-08-19,Laslo Djere,Zachary Svajda,Zachary Svajda,0
+2024-08-19,Alexandre Muller,Constant Lestienne,Alexandre Muller,1
+2024-08-19,Federico Coria,Dominic Stricker,Dominic Stricker,0
+2024-08-19,Juncheng Shang,Francisco Comesana,Juncheng Shang,1
+2024-08-19,James Duckworth,Thiago Seyboth Wild,Thiago Seyboth Wild,0
+2024-08-19,Learner Tien,Tristan Schoolkate,Learner Tien,1
+2024-08-19,Omni Kumar,Pablo Carreno Busta,Pablo Carreno Busta,0
+2024-08-19,Aleksandar Vukic,Daniel Evans,Aleksandar Vukic,1
+2024-08-19,Reilly Opelka,Zizou Bergs,Zizou Bergs,0
+2024-08-19,Marton Fucsovics,Taro Daniel,Marton Fucsovics,1
+2024-08-19,Adam Walton,Christopher Eubanks,Christopher Eubanks,0
+2024-08-19,Corentin Moutet,Nicolas Mejia,Corentin Moutet,1
+2024-08-26,Mackenzie Mcdonald,Jannik Sinner,Jannik Sinner,0
+2024-08-26,Alex Michelsen,Eliot Spizzirri,Alex Michelsen,1
+2024-08-26,Stan Wawrinka,Mattia Bellucci,Mattia Bellucci,0
+2024-08-26,Christopher Oconnell,Nicolas Jarry,Christopher Oconnell,1
+2024-08-26,Learner Tien,Arthur Fils,Arthur Fils,0
+2024-08-26,Gabriel Diallo,Jaume Munar,Gabriel Diallo,1
+2024-08-26,Aleksandar Vukic,Max Purcell,Max Purcell,0
+2024-08-26,Tommy Paul,Lorenzo Sonego,Tommy Paul,1
+2024-08-26,Stefanos Tsitsipas,Thanasi Kokkinakis,Thanasi Kokkinakis,0
+2024-08-26,Nuno Borges,Federico Coria,Nuno Borges,1
+2024-08-26,Taro Daniel,Tristan Schoolkate,Tristan Schoolkate,0
+2024-08-26,Jakub Mensik,Felix Auger Aliassime,Jakub Mensik,1
+2024-08-26,James Duckworth,Flavio Cobolli,Flavio Cobolli,0
+2024-08-26,Zizou Bergs,Pavel Kotov,Zizou Bergs,1
+2024-08-26,Hamad Medjedovic,Fabian Marozsan,Fabian Marozsan,0
+2024-08-26,Daniil Medvedev,Dusan Lajovic,Daniil Medvedev,1
+2024-08-26,Li Tu,Carlos Alcaraz,Carlos Alcaraz,0
+2024-08-26,Botic Van De Zandschulp,Denis Shapovalov,Botic Van De Zandschulp,1
+2024-08-26,Hugo Gaston,Facundo Diaz Acosta,Facundo Diaz Acosta,0
+2024-08-26,Jack Draper,Zhizhen Zhang,Jack Draper,1
+2024-08-26,Alejandro Tabilo,David Goffin,David Goffin,0
+2024-08-26,Adrian Mannarino,Borna Coric,Adrian Mannarino,1
+2024-08-26,Fabio Fognini,Tomas Machac,Tomas Machac,0
+2024-08-26,Sebastian Korda,Corentin Moutet,Sebastian Korda,1
+2024-08-26,Marcos Giron,Alex De Minaur,Alex De Minaur,0
+2024-08-26,Otto Virtanen,Quentin Halys,Otto Virtanen,1
+2024-08-26,Daniel Altmaier,Mariano Navone,Mariano Navone,0
+2024-08-26,Daniel Evans,Karen Khachanov,Daniel Evans,1
+2024-08-26,Zachary Svajda,Matteo Arnaldi,Matteo Arnaldi,0
+2024-08-26,Roman Safiullin,Matthew Forbes,Roman Safiullin,1
+2024-08-26,Constant Lestienne,Jordan Thompson,Jordan Thompson,0
+2024-08-26,Hubert Hurkacz,Timofey Skatov,Hubert Hurkacz,1
+2024-08-26,Bu Yunchaokete,Casper Ruud,Casper Ruud,0
+2024-08-26,Gael Monfils,Diego Schwartzman,Gael Monfils,1
+2024-08-26,Jan Choinski,Roberto Carballes Baena,Roberto Carballes Baena,0
+2024-08-26,Juncheng Shang,Alexander Bublik,Juncheng Shang,1
+2024-08-26,Thiago Monteiro,Ugo Humbert,Ugo Humbert,0
+2024-08-26,Francisco Comesana,Dominic Stricker,Francisco Comesana,1
+2024-08-26,Albert Ramos,Matteo Berrettini,Matteo Berrettini,0
+2024-08-26,Taylor Fritz,Camilo Ugo Carabelli,Taylor Fritz,1
+2024-08-26,Holger Rune,Brandon Nakashima,Brandon Nakashima,0
+2024-08-26,Arthur Cazaux,Pablo Carreno Busta,Arthur Cazaux,1
+2024-08-26,Yoshihito Nishioka,Miomir Kecmanovic,Miomir Kecmanovic,0
+2024-08-26,Lorenzo Musetti,Reilly Opelka,Lorenzo Musetti,1
+2024-08-26,Sebastian Ofner,Francisco Cerundolo,Francisco Cerundolo,0
+2024-08-26,Tomas Martin Etcheverry,Giovanni Mpetshi Perricard,Tomas Martin Etcheverry,1
+2024-08-26,Adam Walton,Alexandre Muller,Alexandre Muller,0
+2024-08-26,Alexander Zverev,Maximilian Marterer,Alexander Zverev,1
+2024-08-26,Thiago Seyboth Wild,Andrey Rublev,Andrey Rublev,0
+2024-08-26,Arthur Rinderknech,Christopher Eubanks,Arthur Rinderknech,1
+2024-08-26,Hugo Grenier,Mitchell Krueger,Mitchell Krueger,0
+2024-08-26,Jiri Lehecka,Marton Fucsovics,Jiri Lehecka,1
+2024-08-26,Luciano Darderi,Sebastian Baez,Sebastian Baez,0
+2024-08-26,Tallon Griekspoor,Sumit Nagal,Tallon Griekspoor,1
+2024-08-26,Alejandro Davidovich Fokina,Rinky Hijikata,Rinky Hijikata,0
+2024-08-26,Grigor Dimitrov,Kyrian Jacquet,Grigor Dimitrov,1
+2024-08-26,Dominic Thiem,Ben Shelton,Ben Shelton,0
+2024-08-26,Roberto Bautista Agut,Luca Nardi,Roberto Bautista Agut,1
+2024-08-26,Dominik Koepfer,Alexander Shevchenko,Alexander Shevchenko,0
+2024-08-26,Frances Tiafoe,Aleksandar Kovacevic,Frances Tiafoe,1
+2024-08-26,Soon Woo Kwon,Alexei Popyrin,Alexei Popyrin,0
+2024-08-26,Pedro Martinez,Maks Kasnikowski,Pedro Martinez,1
+2024-08-26,Jan Lennard Struff,Laslo Djere,Laslo Djere,0
+2024-08-26,Novak Djokovic,Radu Albot,Novak Djokovic,1
+2024-08-26,Alex Michelsen,Jannik Sinner,Jannik Sinner,0
+2024-08-26,Christopher Oconnell,Mattia Bellucci,Christopher Oconnell,1
+2024-08-26,Arthur Fils,Gabriel Diallo,Gabriel Diallo,0
+2024-08-26,Tommy Paul,Max Purcell,Tommy Paul,1
+2024-08-26,Thanasi Kokkinakis,Nuno Borges,Nuno Borges,0
+2024-08-26,Jakub Mensik,Tristan Schoolkate,Jakub Mensik,1
+2024-08-26,Zizou Bergs,Flavio Cobolli,Flavio Cobolli,0
+2024-08-26,Daniil Medvedev,Fabian Marozsan,Daniil Medvedev,1
+2024-08-26,Carlos Alcaraz,Botic Van De Zandschulp,Botic Van De Zandschulp,0
+2024-08-26,Jack Draper,Facundo Diaz Acosta,Jack Draper,1
+2024-08-26,Adrian Mannarino,David Goffin,David Goffin,0
+2024-08-26,Tomas Machac,Sebastian Korda,Tomas Machac,1
+2024-08-26,Otto Virtanen,Alex De Minaur,Alex De Minaur,0
+2024-08-26,Daniel Evans,Mariano Navone,Daniel Evans,1
+2024-08-26,Roman Safiullin,Matteo Arnaldi,Matteo Arnaldi,0
+2024-08-26,Jordan Thompson,Hubert Hurkacz,Jordan Thompson,1
+2024-08-26,Gael Monfils,Casper Ruud,Casper Ruud,0
+2024-08-26,Juncheng Shang,Roberto Carballes Baena,Juncheng Shang,1
+2024-08-26,Ugo Humbert,Francisco Comesana,Francisco Comesana,0
+2024-08-26,Taylor Fritz,Matteo Berrettini,Taylor Fritz,1
+2024-08-26,Arthur Cazaux,Brandon Nakashima,Brandon Nakashima,0
+2024-08-26,Lorenzo Musetti,Miomir Kecmanovic,Lorenzo Musetti,1
+2024-08-26,Francisco Cerundolo,Tomas Martin Etcheverry,Tomas Martin Etcheverry,0
+2024-08-26,Alexander Zverev,Alexandre Muller,Alexander Zverev,1
+2024-08-26,Arthur Rinderknech,Andrey Rublev,Andrey Rublev,0
+2024-08-26,Jiri Lehecka,Mitchell Krueger,Jiri Lehecka,1
+2024-08-26,Sebastian Baez,Tallon Griekspoor,Tallon Griekspoor,0
+2024-08-26,Grigor Dimitrov,Rinky Hijikata,Grigor Dimitrov,1
+2024-08-26,Roberto Bautista Agut,Ben Shelton,Ben Shelton,0
+2024-08-26,Frances Tiafoe,Alexander Shevchenko,Frances Tiafoe,1
+2024-08-26,Pedro Martinez,Alexei Popyrin,Alexei Popyrin,0
+2024-08-26,Novak Djokovic,Laslo Djere,Novak Djokovic,1
+2024-08-26,Christopher Oconnell,Jannik Sinner,Jannik Sinner,0
+2024-08-26,Tommy Paul,Gabriel Diallo,Tommy Paul,1
+2024-08-26,Jakub Mensik,Nuno Borges,Nuno Borges,0
+2024-08-26,Daniil Medvedev,Flavio Cobolli,Daniil Medvedev,1
+2024-08-26,Botic Van De Zandschulp,Jack Draper,Jack Draper,0
+2024-08-26,Tomas Machac,David Goffin,Tomas Machac,1
+2024-08-26,Daniel Evans,Alex De Minaur,Alex De Minaur,0
+2024-08-26,Jordan Thompson,Matteo Arnaldi,Jordan Thompson,1
+2024-08-26,Juncheng Shang,Casper Ruud,Casper Ruud,0
+2024-08-26,Taylor Fritz,Francisco Comesana,Taylor Fritz,1
+2024-08-26,Lorenzo Musetti,Brandon Nakashima,Brandon Nakashima,0
+2024-08-26,Alexander Zverev,Tomas Martin Etcheverry,Alexander Zverev,1
+2024-08-26,Jiri Lehecka,Andrey Rublev,Andrey Rublev,0
+2024-08-26,Grigor Dimitrov,Tallon Griekspoor,Grigor Dimitrov,1
+2024-08-26,Ben Shelton,Frances Tiafoe,Frances Tiafoe,0
+2024-08-26,Alexei Popyrin,Novak Djokovic,Alexei Popyrin,1
+2024-08-26,Tommy Paul,Jannik Sinner,Jannik Sinner,0
+2024-08-26,Daniil Medvedev,Nuno Borges,Daniil Medvedev,1
+2024-08-26,Tomas Machac,Jack Draper,Jack Draper,0
+2024-08-26,Alex De Minaur,Jordan Thompson,Alex De Minaur,1
+2024-08-26,Casper Ruud,Taylor Fritz,Taylor Fritz,0
+2024-08-26,Alexander Zverev,Brandon Nakashima,Alexander Zverev,1
+2024-08-26,Andrey Rublev,Grigor Dimitrov,Grigor Dimitrov,0
+2024-08-26,Frances Tiafoe,Alexei Popyrin,Frances Tiafoe,1
+2024-08-26,Daniil Medvedev,Jannik Sinner,Jannik Sinner,0
+2024-08-26,Jack Draper,Alex De Minaur,Jack Draper,1
+2024-08-26,Alexander Zverev,Taylor Fritz,Taylor Fritz,0
+2024-08-26,Frances Tiafoe,Grigor Dimitrov,Frances Tiafoe,1
+2024-08-26,Jack Draper,Jannik Sinner,Jannik Sinner,0
+2024-08-26,Taylor Fritz,Frances Tiafoe,Taylor Fritz,1
+2024-08-26,Taylor Fritz,Jannik Sinner,Jannik Sinner,0
+2024-09-10,Botic Van De Zandschulp,Raphael Collignon,Botic Van De Zandschulp,1
+2024-09-10,Tallon Griekspoor,Zizou Bergs,Zizou Bergs,0
+2024-09-10,Thanasi Kokkinakis,Arthur Fils,Thanasi Kokkinakis,1
+2024-09-10,Alexei Popyrin,Ugo Humbert,Ugo Humbert,0
+2024-09-10,Maximilian Marterer,Lukas Klein,Maximilian Marterer,1
+2024-09-10,Jozef Kovalik,Yannick Hanfmann,Yannick Hanfmann,0
+2024-09-10,Denis Shapovalov,Francisco Cerundolo,Denis Shapovalov,1
+2024-09-10,Sebastian Baez,Felix Auger Aliassime,Felix Auger Aliassime,0
+2024-09-11,Matteo Berrettini,Joao Fonseca,Matteo Berrettini,1
+2024-09-11,Thiago Monteiro,Matteo Arnaldi,Matteo Arnaldi,0
+2024-09-11,Roberto Bautista Agut,Jiri Lehecka,Roberto Bautista Agut,1
+2024-09-11,Tomas Machac,Carlos Alcaraz,Carlos Alcaraz,0
+2024-09-11,Reilly Opelka,Cristian Garin,Reilly Opelka,1
+2024-09-11,Alejandro Tabilo,Brandon Nakashima,Brandon Nakashima,0
+2024-09-11,Daniel Evans,Eero Vasa,Daniel Evans,1
+2024-09-11,Otto Virtanen,Billy Harris,Billy Harris,0
+2024-09-12,Joao Fonseca,Botic Van De Zandschulp,Joao Fonseca,1
+2024-09-12,Thiago Monteiro,Tallon Griekspoor,Tallon Griekspoor,0
+2024-09-12,Thanasi Kokkinakis,Jakub Mensik,Thanasi Kokkinakis,1
+2024-09-12,Tomas Machac,Alexei Popyrin,Alexei Popyrin,0
+2024-09-12,Maximilian Marterer,Tomas Barrios Vera,Maximilian Marterer,1
+2024-09-12,Alejandro Tabilo,Yannick Hanfmann,Yannick Hanfmann,0
+2024-09-12,Denis Shapovalov,Eero Vasa,Denis Shapovalov,1
+2024-09-12,Otto Virtanen,Felix Auger Aliassime,Felix Auger Aliassime,0
+2024-09-13,Matteo Berrettini,Alexander Blockx,Matteo Berrettini,1
+2024-09-13,Flavio Cobolli,Zizou Bergs,Zizou Bergs,0
+2024-09-13,Roberto Bautista Agut,Arthur Fils,Roberto Bautista Agut,1
+2024-09-13,Ugo Humbert,Carlos Alcaraz,Carlos Alcaraz,0
+2024-09-13,Mackenzie Mcdonald,Lukas Klein,Mackenzie Mcdonald,1
+2024-09-13,Jozef Kovalik,Brandon Nakashima,Brandon Nakashima,0
+2024-09-13,Tomas Martin Etcheverry,Daniel Evans,Tomas Martin Etcheverry,1
+2024-09-13,Jack Draper,Francisco Cerundolo,Francisco Cerundolo,0
+2024-09-13,Jurij Rodionov,Yanki Erel,Jurij Rodionov,1
+2024-09-13,Cem Ilkel,Lukas Neumayer,Lukas Neumayer,0
+2024-09-13,Lukas Neumayer,Cem Ilkel,Lukas Neumayer,1
+2024-09-13,Vilius Gaubas,Borna Gojo,Borna Gojo,0
+2024-09-13,Duje Ajdukovic,Edas Butvilas,Duje Ajdukovic,1
+2024-09-13,Vilius Gaubas,Matej Dodig,Matej Dodig,0
+2024-09-13,Zsombor Piros,Amr Elsayed Abdou Ahmed Mohamed,Zsombor Piros,1
+2024-09-13,Mate Valkusz,Mohamed Safwat,Mohamed Safwat,0
+2024-09-13,Zsombor Piros,Mohamed Safwat,Zsombor Piros,1
+2024-09-13,Faris Zakaryia,Mate Valkusz,Mate Valkusz,0
+2024-09-13,Yshai Oliel,Oleksandr Ovcharenko,Yshai Oliel,1
+2024-09-13,Vitaliy Sachko,Daniel Cukierman,Daniel Cukierman,0
+2024-09-13,Yshai Oliel,Oleksii Krutykh,Yshai Oliel,1
+2024-09-13,Jaime Faria,Nicolai Budkov Kjaer,Nicolai Budkov Kjaer,0
+2024-09-13,Henrique Rocha,Casper Ruud,Henrique Rocha,1
+2024-09-13,Jaime Faria,Casper Ruud,Casper Ruud,0
+2024-09-13,Seong Chan Hong,Maks Kasnikowski,Seong Chan Hong,1
+2024-09-13,Kamil Majchrzak,Soon Woo Kwon,Soon Woo Kwon,0
+2024-09-13,Martyn Pawelski,Min Kyu Song,Martyn Pawelski,1
+2024-09-13,Jerome Kym,Ignacio Buse,Jerome Kym,1
+2024-09-13,Juan Pablo Varillas,Marc Andrea Huesler,Marc Andrea Huesler,0
+2024-09-13,Remy Bertola,Gonzalo Bueno,Remy Bertola,1
+2024-09-13,Joaquin  Aguilar Cardozo ,Hugo Dellien,Hugo Dellien,0
+2024-09-13,Franco Roncadelli,Murkel Alejandro Dellien Velasco,Franco Roncadelli,1
+2024-09-13,Hugo Dellien,Franco Roncadelli,Franco Roncadelli,0
+2024-09-13,Cezar Cretu,Bu Yunchaokete,Cezar Cretu,1
+2024-09-13,Yi Zhou,Gabi Adrian Boitan,Gabi Adrian Boitan,0
+2024-09-13,Bu Yunchaokete,Gabi Adrian Boitan,Bu Yunchaokete,1
+2024-09-13,Rigele Te,Cezar Cretu,Cezar Cretu,0
+2024-09-13,Skander Mansouri,Michael Agwi,Michael Agwi,0
+2024-09-13,Aziz Dougaz,Conor Gannon,Aziz Dougaz,1
+2024-09-13,Aziz Dougaz,Michael Agwi,Michael Agwi,0
+2024-09-13,Skander Mansouri,Conor Gannon,Skander Mansouri,1
+2024-09-13,Sergey Fomin,Mark Lajal,Mark Lajal,0
+2024-09-13,Khumoun Sultanov,Kristjan Tamm,Khumoun Sultanov,1
+2024-09-13,Mark Lajal,Khumoun Sultanov,Khumoun Sultanov,0
+2024-09-14,Joao Fonseca,Raphael Collignon,Joao Fonseca,1
+2024-09-14,Zizou Bergs,Thiago Monteiro,Thiago Monteiro,0
+2024-09-14,Jakub Mensik,Arthur Rinderknech,Jakub Mensik,1
+2024-09-14,Jiri Lehecka,Arthur Fils,Arthur Fils,0
+2024-09-14,Reilly Opelka,Henri Squire,Reilly Opelka,1
+2024-09-14,Maximilian Marterer,Brandon Nakashima,Brandon Nakashima,0
+2024-09-14,Tomas Martin Etcheverry,Eero Vasa,Tomas Martin Etcheverry,1
+2024-09-14,Otto Virtanen,Francisco Cerundolo,Francisco Cerundolo,0
+2024-09-14,Adria Soriano Barrera,Yoshihito Nishioka,Yoshihito Nishioka,0
+2024-09-14,Kei Nishikori,Nicolas Mejia,Kei Nishikori,1
+2024-09-14,Nicolas Mejia,Yoshihito Nishioka,Yoshihito Nishioka,0
+2024-09-14,Elmer Moller,Alexander Bublik,Elmer Moller,1
+2024-09-14,Alexander Shevchenko,August Holmgren,August Holmgren,0
+2024-09-14,Beibit Zhukayev,Philip Hjorth,Beibit Zhukayev,1
+2024-09-14,Aristotelis Thanos,Miomir Kecmanovic,Miomir Kecmanovic,0
+2024-09-14,Novak Djokovic,Ioannis Xilas,Novak Djokovic,1
+2024-09-14,Dusan Lajovic,Demetris Azoides,Demetris Azoides,0
+2024-09-14,N Sriram Balaji,Elias Ymer,Elias Ymer,0
+2024-09-14,Leo Borg,Ramkumar Ramanathan,Leo Borg,1
+2024-09-14,Siddharth Vishwakarma,Elias Ymer,Elias Ymer,0
+2024-09-14,Mirza Basic,Chun Hsin Tseng,Mirza Basic,1
+2024-09-14,Damir Dzumhur,Tung Lin Wu,Tung Lin Wu,0
+2024-09-14,Damir Dzumhur,Chun Hsin Tseng,Damir Dzumhur,1
+2024-09-14,Mirza Basic,Tung Lin Wu,Tung Lin Wu,0
+2024-09-14,Darian King,Muhammad Shoaib,Darian King,1
+2024-09-14,Kaipo Marshall,Aqeel Khan,Aqeel Khan,0
+2024-09-14,Darian King,Yousaf Khalil,Darian King,1
+2024-09-14,Marcelo Arevalo,Petr Nesterov,Marcelo Arevalo,1
+2024-09-14,Cesar Cruz,Yanaki Milev,Yanaki Milev,0
+2024-09-14,Iliyan Radulov,Juan Carlos Fuentes Vasquez,Iliyan Radulov,1
+2024-09-14,Marcelo Arevalo,Yanaki Milev,Yanaki Milev,0
+2024-09-14,Alan Fernando Rubio Fierros,Saba Purtseladze,Alan Fernando Rubio Fierros,1
+2024-09-14,Rodrigo Pacheco Mendez,Aleksandre Bakshi,Aleksandre Bakshi,0
+2024-09-14,Rodrigo Pacheco Mendez,Saba Purtseladze,Rodrigo Pacheco Mendez,1
+2024-09-14,Alan Fernando Rubio Fierros,Aleksandre Bakshi,Aleksandre Bakshi,0
+2024-09-14,Andres Andrade,Jack Cheng,Andres Andrade,1
+2024-09-14,Marcos Lee Chan Baratau,Coleman Wong,Coleman Wong,0
+2024-09-14,Coleman Wong,Andres Andrade,Coleman Wong,1
+2024-09-14,Ki Lung Ng,Gonzalo Escobar,Gonzalo Escobar,0
+2024-09-14,Benjamin Hassan,Alec Beckley,Benjamin Hassan,1
+2024-09-14,Philip Henning,Hady Habib,Hady Habib,0
+2024-09-14,Benjamin Hassan,Philip Henning,Benjamin Hassan,1
+2024-09-14,Yassine Dlimi,Hugo Nys,Hugo Nys,0
+2024-09-14,Romain Arneodo,Elliot Benchetrit,Romain Arneodo,1
+2024-09-14,Younes Lalami Laaroussi,Benjamin Balleret,Benjamin Balleret,0
+2024-09-14,Alex Knaff,Kiranpal Pannu,Alex Knaff,1
+2024-09-14,Ajeet Rai,Chris Rodesch,Chris Rodesch,0
+2024-09-14,Jack Loutit,Chris Rodesch,Jack Loutit,1
+2024-09-14,Jose Rubin Statham,Alex Knaff,Alex Knaff,0
+2024-09-14,Thomas Yaka Kofi Setodji,Davis Rolis,Thomas Yaka Kofi Setodji,1
+2024-09-14,Daniels Tens,Liova Ayite Ajavon,Liova Ayite Ajavon,0
+2024-09-14,Thomas Yaka Kofi Setodji,Daniels Tens,Thomas Yaka Kofi Setodji,1
+2024-09-15,Matteo Berrettini,Botic Van De Zandschulp,Matteo Berrettini,1
+2024-09-15,Tallon Griekspoor,Flavio Cobolli,Flavio Cobolli,0
+2024-09-15,Pablo Carreno Busta,Jordan Thompson,Pablo Carreno Busta,1
+2024-09-15,Pedro Martinez,Alexei Popyrin,Alexei Popyrin,0
+2024-09-15,Cristian Garin,Norbert Gombos,Cristian Garin,1
+2024-09-15,Alejandro Tabilo,Jozef Kovalik,Jozef Kovalik,0
+2024-09-15,Denis Shapovalov,Daniel Evans,Denis Shapovalov,1
+2024-09-15,Jack Draper,Felix Auger Aliassime,Felix Auger Aliassime,0
+2024-09-18,Juncheng Shang,Lorenzo Musetti,Juncheng Shang,1
+2024-09-18,Alibek Kachmazov,Lorenzo Musetti,Lorenzo Musetti,0
+2024-09-18,Juncheng Shang,Yannick Hanfmann,Juncheng Shang,1
+2024-09-18,Adrian Mannarino,Lorenzo Musetti,Lorenzo Musetti,0
+2024-09-18,Juncheng Shang,Alexander Bublik,Juncheng Shang,1
+2024-09-18,Nicolas Jarry,Alibek Kachmazov,Alibek Kachmazov,0
+2024-09-18,Yannick Hanfmann,Pedro Martinez,Yannick Hanfmann,1
+2024-09-18,Christopher Oconnell,Lorenzo Musetti,Lorenzo Musetti,0
+2024-09-18,Alexander Bublik,Federico Agustin Gomez,Alexander Bublik,1
+2024-09-18,Lukas Klein,Nicolas Jarry,Nicolas Jarry,0
+2024-09-18,Pedro Martinez,Aleksandar Vukic,Pedro Martinez,1
+2024-09-18,Yi Zhou,Adrian Mannarino,Adrian Mannarino,0
+2024-09-18,Yannick Hanfmann,Giovanni Mpetshi Perricard,Yannick Hanfmann,1
+2024-09-18,Roman Safiullin,Juncheng Shang,Juncheng Shang,0
+2024-09-18,Alibek Kachmazov,Taro Daniel,Alibek Kachmazov,1
+2024-09-18,Terence Atmane,Adrian Mannarino,Adrian Mannarino,0
+2024-09-18,Taro Daniel,Lorenzo Sonego,Taro Daniel,1
+2024-09-18,Fajing Sun,Giovanni Mpetshi Perricard,Giovanni Mpetshi Perricard,0
+2024-09-18,Roman Safiullin,Fabio Fognini,Roman Safiullin,1
+2024-09-18,Alexandre Muller,Federico Agustin Gomez,Federico Agustin Gomez,0
+2024-09-18,Yannick Hanfmann,Shintaro Mochizuki,Yannick Hanfmann,1
+2024-09-18,Aleksandar Kovacevic,Alibek Kachmazov,Alibek Kachmazov,0
+2024-09-18,Lukas Klein,Adam Walton,Lukas Klein,1
+2024-09-18,Pavel Kotov,Christopher Oconnell,Christopher Oconnell,0
+2024-09-18,Juncheng Shang,Kei Nishikori,Juncheng Shang,1
+2024-09-18,Borna Coric,Aleksandar Vukic,Aleksandar Vukic,0
+2024-09-18,Yi Zhou,Chun Hsin Tseng,Yi Zhou,1
+2024-09-18,Zhizhen Zhang,Marin Cilic,Marin Cilic,0
+2024-09-18,Marin Cilic,Brandon Nakashima,Marin Cilic,1
+2024-09-18,Bu Yunchaokete,Zhizhen Zhang,Zhizhen Zhang,0
+2024-09-18,Brandon Nakashima,Rinky Hijikata,Brandon Nakashima,1
+2024-09-18,Roberto Carballes Baena,Zhizhen Zhang,Zhizhen Zhang,0
+2024-09-18,Bu Yunchaokete,Mikhail Kukushkin,Bu Yunchaokete,1
+2024-09-18,Yasutaka Uchiyama,Marin Cilic,Marin Cilic,0
+2024-09-18,Yasutaka Uchiyama,Holger Rune,Yasutaka Uchiyama,1
+2024-09-18,Karen Khachanov,Bu Yunchaokete,Bu Yunchaokete,0
+2024-09-18,Brandon Nakashima,Coleman Wong,Brandon Nakashima,1
+2024-09-18,Mattia Bellucci,Zhizhen Zhang,Zhizhen Zhang,0
+2024-09-18,Rinky Hijikata,Fabian Marozsan,Rinky Hijikata,1
+2024-09-18,Yoshihito Nishioka,Marin Cilic,Marin Cilic,0
+2024-09-18,Roberto Carballes Baena,Mitchell Krueger,Roberto Carballes Baena,1
+2024-09-18,Alexander Shevchenko,Mikhail Kukushkin,Mikhail Kukushkin,0
+2024-09-18,Mikhail Kukushkin,Luciano Darderi,Mikhail Kukushkin,1
+2024-09-18,Denis Yevseyev,Zhizhen Zhang,Zhizhen Zhang,0
+2024-09-18,Fabian Marozsan,Luca Nardi,Fabian Marozsan,1
+2024-09-18,Maximilian Marterer,Yoshihito Nishioka,Yoshihito Nishioka,0
+2024-09-18,Mattia Bellucci,Aslan Karatsev,Mattia Bellucci,1
+2024-09-18,Hugo Gaston,Bu Yunchaokete,Bu Yunchaokete,0
+2024-09-18,Roberto Carballes Baena,Corentin Moutet,Roberto Carballes Baena,1
+2024-09-18,Zachary Svajda,Marin Cilic,Marin Cilic,0
+2024-09-18,Rinky Hijikata,Damir Dzumhur,Rinky Hijikata,1
+2024-09-18,Marco Trungelliti,Alexander Shevchenko,Alexander Shevchenko,0
+2024-09-18,Yasutaka Uchiyama,James Mccabe,Yasutaka Uchiyama,1
+2024-09-18,Yibing Wu,Coleman Wong,Coleman Wong,0

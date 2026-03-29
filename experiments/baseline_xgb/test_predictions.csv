@@ -1,13 +1,463 @@
 date,player_1,player_2,target,pred_proba,pred_label
-2024-03-09,Novak Djokovic,Stefanos Tsitsipas,1,0.95815194,1
-2024-03-10,Carlos Alcaraz,Alexander Zverev,0,0.9664007,1
-2024-03-11,Jannik Sinner,Casper Ruud,1,0.94272006,1
-2024-03-12,Daniil Medvedev,Taylor Fritz,1,0.63156486,1
-2024-03-13,Novak Djokovic,Jannik Sinner,1,0.59835744,1
-2024-03-14,Carlos Alcaraz,Daniil Medvedev,0,0.92832536,1
-2024-03-15,Alexander Zverev,Stefanos Tsitsipas,1,0.69710493,1
-2024-03-16,Casper Ruud,Taylor Fritz,0,0.79913604,1
-2024-03-17,Novak Djokovic,Daniil Medvedev,1,0.9785492,1
-2024-03-18,Carlos Alcaraz,Stefanos Tsitsipas,1,0.8809331,1
-2024-03-19,Jannik Sinner,Taylor Fritz,1,0.60286283,1
-2024-03-20,Alexander Zverev,Casper Ruud,1,0.69710493,1
+2024-09-20,Carlos Alcaraz,Taylor Fritz,1,0.66284883,1
+2024-09-20,Daniil Medvedev,Ben Shelton,0,0.8035955,1
+2024-09-20,Alexander Zverev,Frances Tiafoe,1,0.8802604,1
+2024-09-20,Ben Shelton,Carlos Alcaraz,0,0.08093573,0
+2024-09-20,Taylor Fritz,Alexander Zverev,1,0.43236986,0
+2024-09-20,Daniil Medvedev,Frances Tiafoe,0,0.83380353,1
+2024-09-20,Francisco Cerundolo,Casper Ruud,1,0.28023556,0
+2024-09-20,Alejandro Tabilo,Grigor Dimitrov,0,0.28028047,0
+2024-09-20,Stefanos Tsitsipas,Thanasi Kokkinakis,1,0.7914018,1
+2024-09-25,Ugo Humbert,Arthur Fils,0,0.5354002,1
+2024-09-25,Arthur Fils,Holger Rune,1,0.3014449,0
+2024-09-25,Tomas Machac,Ugo Humbert,0,0.54534006,1
+2024-09-25,Holger Rune,Kei Nishikori,1,0.93384457,1
+2024-09-25,Ben Shelton,Arthur Fils,0,0.5354002,1
+2024-09-25,Ugo Humbert,Jack Draper,1,0.5401102,1
+2024-09-25,Alex Michelsen,Tomas Machac,0,0.34785563,0
+2024-09-25,Jack Draper,Hubert Hurkacz,1,0.33957323,0
+2024-09-25,Tommy Paul,Tomas Machac,0,0.6917626,1
+2024-09-25,Holger Rune,Yoshihito Nishioka,1,0.72724295,1
+2024-09-25,Mariano Navone,Ben Shelton,0,0.34690976,0
+2024-09-25,Arthur Fils,Matteo Berrettini,1,0.45586684,0
+2024-09-25,Brandon Nakashima,Ugo Humbert,0,0.37630266,0
+2024-09-25,Alex Michelsen,Christopher Oconnell,1,0.6083297,1
+2024-09-25,Jordan Thompson,Kei Nishikori,0,0.96862274,1
+2024-09-25,Arthur Fils,Taylor Fritz,1,0.259199,0
+2024-09-25,Marcos Giron,Hubert Hurkacz,0,0.27200747,0
+2024-09-25,Jordan Thompson,Casper Ruud,1,0.50303924,1
+2024-09-25,Stefanos Tsitsipas,Alex Michelsen,0,0.7971985,1
+2024-09-25,Tommy Paul,Matteo Arnaldi,1,0.78381085,1
+2024-09-25,Alejandro Tabilo,Holger Rune,0,0.49249625,0
+2024-09-25,Brandon Nakashima,Frances Tiafoe,1,0.54913354,1
+2024-09-25,Reilly Opelka,Ben Shelton,0,0.29712933,0
+2024-09-25,Matteo Berrettini,Botic Van De Zandschulp,1,0.98883396,1
+2024-09-25,Mattia Bellucci,Jack Draper,0,0.25371003,0
+2024-09-25,Ugo Humbert,Shintaro Mochizuki,1,0.9770183,1
+2024-09-25,Alexei Popyrin,Tomas Machac,0,0.3717943,0
+2024-09-25,Mariano Navone,Luciano Darderi,1,0.35346225,0
+2024-09-25,Marin Cilic,Kei Nishikori,0,0.26163828,0
+2024-09-25,Yoshihito Nishioka,Felix Auger Aliassime,1,0.40033597,0
+2024-09-25,Tomas Martin Etcheverry,Christopher Oconnell,0,0.69011694,1
+2024-09-26,Carlos Alcaraz,Jannik Sinner,1,0.22466932,0
+2024-09-26,Bu Yunchaokete,Jannik Sinner,0,0.03872822,0
+2024-09-26,Carlos Alcaraz,Daniil Medvedev,1,0.61103994,1
+2024-09-26,Jiri Lehecka,Jannik Sinner,0,0.1315748,0
+2024-09-26,Carlos Alcaraz,Karen Khachanov,1,0.7816931,1
+2024-09-26,Flavio Cobolli,Daniil Medvedev,0,0.26788127,0
+2024-09-26,Bu Yunchaokete,Andrey Rublev,1,0.054513246,0
+2024-09-26,Roman Safiullin,Jannik Sinner,0,0.03509248,0
+2024-09-26,Carlos Alcaraz,Tallon Griekspoor,1,0.83772486,1
+2024-09-26,Adrian Mannarino,Daniil Medvedev,0,0.045087896,0
+2024-09-26,Andrey Rublev,Alejandro Davidovich Fokina,1,0.7311106,1
+2024-09-26,Lorenzo Musetti,Bu Yunchaokete,0,0.95585877,1
+2024-09-26,Karen Khachanov,Francisco Cerundolo,1,0.6860328,1
+2024-09-26,Pavel Kotov,Flavio Cobolli,0,0.42599156,0
+2024-09-26,Jiri Lehecka,Roberto Bautista Agut,1,0.79079235,1
+2024-09-26,Nicolas Jarry,Jannik Sinner,0,0.0749292,0
+2024-09-26,Carlos Alcaraz,Giovanni Mpetshi Perricard,1,0.8744326,1
+2024-09-26,Gael Monfils,Daniil Medvedev,0,0.13571395,0
+2024-09-26,Andrey Rublev,Pablo Carreno Busta,1,0.90542805,1
+2024-09-26,Zizou Bergs,Lorenzo Musetti,0,0.2407028,0
+2024-09-26,Karen Khachanov,Roberto Carballes Baena,1,0.72981656,1
+2024-09-26,Alexander Bublik,Flavio Cobolli,0,0.5470719,1
+2024-09-26,Roberto Bautista Agut,Arthur Rinderknech,1,0.57532364,1
+2024-09-26,Juncheng Shang,Bu Yunchaokete,0,0.9751037,1
+2024-09-26,Francisco Cerundolo,Jakub Mensik,1,0.36385605,0
+2024-09-26,Zhizhen Zhang,Alejandro Davidovich Fokina,0,0.48244038,0
+2024-09-26,Tallon Griekspoor,Miomir Kecmanovic,1,0.651137,1
+2024-09-26,Yi Zhou,Pavel Kotov,0,0.65254325,1
+2024-09-26,Jiri Lehecka,Pedro Martinez,1,0.74633676,1
+2024-09-26,Lorenzo Sonego,Adrian Mannarino,0,0.5903241,1
+2024-09-26,Roman Safiullin,Stan Wawrinka,1,0.61952674,1
+2024-10-02,Novak Djokovic,Jannik Sinner,0,0.17874897,0
+2024-10-02,Jannik Sinner,Tomas Machac,1,0.9041858,1
+2024-10-02,Taylor Fritz,Novak Djokovic,0,0.32991847,0
+2024-10-02,Jannik Sinner,Daniil Medvedev,1,0.62736917,1
+2024-10-02,Carlos Alcaraz,Tomas Machac,0,0.7909911,1
+2024-10-02,Novak Djokovic,Jakub Mensik,1,0.82063705,1
+2024-10-02,David Goffin,Taylor Fritz,0,0.03960885,0
+2024-10-02,Jannik Sinner,Ben Shelton,1,0.78708845,1
+2024-10-02,Stefanos Tsitsipas,Daniil Medvedev,0,0.37718302,0
+2024-10-02,Carlos Alcaraz,Gael Monfils,1,0.9117958,1
+2024-10-02,Tommy Paul,Tomas Machac,0,0.6917626,1
+2024-10-02,Jakub Mensik,Grigor Dimitrov,1,0.2410233,0
+2024-10-02,Roman Safiullin,Novak Djokovic,0,0.10359662,0
+2024-10-02,Taylor Fritz,Holger Rune,1,0.67921174,1
+2024-10-02,Alexander Zverev,David Goffin,0,0.89749783,1
+2024-10-02,Jannik Sinner,Tomas Martin Etcheverry,1,0.9772699,1
+2024-10-02,Roberto Carballes Baena,Ben Shelton,0,0.33459732,0
+2024-10-02,Stefanos Tsitsipas,Alexandre Muller,1,0.7964102,1
+2024-10-02,Matteo Arnaldi,Daniil Medvedev,0,0.1301685,0
+2024-10-02,Carlos Alcaraz,Yibing Wu,1,0.98125994,1
+2024-10-02,Ugo Humbert,Gael Monfils,0,0.5703624,1
+2024-10-02,Tommy Paul,Alejandro Tabilo,1,0.6832845,1
+2024-10-02,Aleksandar Vukic,Tomas Machac,0,0.2900412,0
+2024-10-02,Jakub Mensik,Alexander Shevchenko,1,0.7235518,1
+2024-10-02,Alexei Popyrin,Grigor Dimitrov,0,0.12152688,0
+2024-10-02,Roman Safiullin,Frances Tiafoe,1,0.34235522,0
+2024-10-02,Flavio Cobolli,Novak Djokovic,0,0.14677384,0
+2024-10-02,Taylor Fritz,Yosuke Watanuki,1,0.980427,1
+2024-10-02,Jiri Lehecka,Holger Rune,0,0.5408922,1
+2024-10-02,David Goffin,Marcos Giron,1,0.12992817,0
+2024-10-02,Tallon Griekspoor,Alexander Zverev,0,0.11398948,0
+2024-10-02,Jannik Sinner,Taro Daniel,1,0.97803783,1
+2024-10-02,Botic Van De Zandschulp,Tomas Martin Etcheverry,0,0.3432005,0
+2024-10-02,Roberto Carballes Baena,Arthur Fils,1,0.36324415,0
+2024-10-02,Denis Shapovalov,Ben Shelton,0,0.33434948,0
+2024-10-02,Stefanos Tsitsipas,Kei Nishikori,1,0.96430457,1
+2024-10-02,Felix Auger Aliassime,Alexandre Muller,0,0.6317778,1
+2024-10-02,Matteo Arnaldi,Zachary Svajda,1,0.973565,1
+2024-10-02,Thiago Seyboth Wild,Daniil Medvedev,0,0.12098293,0
+2024-10-02,Carlos Alcaraz,Juncheng Shang,1,0.88689756,1
+2024-10-02,Nicolas Jarry,Yibing Wu,0,0.9934628,1
+2024-10-02,Gael Monfils,Sebastian Baez,1,0.455849,0
+2024-10-02,Arthur Cazaux,Ugo Humbert,0,0.17932554,0
+2024-10-02,Tommy Paul,Fabio Fognini,1,0.7513715,1
+2024-10-02,Arthur Rinderknech,Alejandro Tabilo,0,0.27059746,0
+2024-10-02,Tomas Machac,Alejandro Davidovich Fokina,1,0.7287276,1
+2024-10-02,Casper Ruud,Aleksandar Vukic,0,0.9791955,1
+2024-10-02,Jakub Mensik,Andrey Rublev,1,0.35292327,0
+2024-10-02,Francisco Cerundolo,Alexander Shevchenko,0,0.70527816,1
+2024-10-02,Alexei Popyrin,Miomir Kecmanovic,1,0.5221183,1
+2024-10-02,Zizou Bergs,Grigor Dimitrov,0,0.05945593,0
+2024-10-02,Frances Tiafoe,Yi Zhou,1,0.58481055,1
+2024-10-02,Alexander Bublik,Roman Safiullin,0,0.7193687,1
+2024-10-02,Flavio Cobolli,Stan Wawrinka,1,0.68636954,1
+2024-10-02,Alex Michelsen,Novak Djokovic,0,0.12078134,0
+2024-10-02,Taylor Fritz,Terence Atmane,1,0.9700856,1
+2024-10-02,Brandon Nakashima,Yosuke Watanuki,0,0.98722756,1
+2024-10-02,Jiri Lehecka,Jaume Munar,1,0.77917427,1
+2024-10-02,Matteo Berrettini,Holger Rune,0,0.76184994,1
+2024-10-02,David Goffin,Lorenzo Musetti,1,0.06596883,0
+2024-10-02,Karen Khachanov,Marcos Giron,0,0.6933997,1
+2024-10-02,Tallon Griekspoor,Jordan Thompson,1,0.38357818,0
+2024-10-02,Mattia Bellucci,Alexander Zverev,0,0.050138097,0
+2024-10-02,Taro Daniel,Egor Gerasimov,1,0.5899847,1
+2024-10-02,Pablo Carreno Busta,Botic Van De Zandschulp,0,0.03492197,0
+2024-10-02,Roberto Carballes Baena,Roberto Bautista Agut,1,0.50648445,1
+2024-10-02,Lorenzo Sonego,Denis Shapovalov,0,0.5193936,1
+2024-10-02,Kei Nishikori,Mariano Navone,1,0.071621366,0
+2024-10-02,Luca Nardi,Alexandre Muller,0,0.33636224,0
+2024-10-02,Zachary Svajda,Adrian Mannarino,1,0.38626242,0
+2024-10-02,Daniel Evans,Thiago Seyboth Wild,0,0.25426477,0
+2024-10-02,Juncheng Shang,Coleman Wong,1,0.933599,1
+2024-10-02,Sumit Nagal,Yibing Wu,0,0.9622707,1
+2024-10-02,Gael Monfils,Damir Dzumhur,1,0.789021,1
+2024-10-02,Marin Cilic,Arthur Cazaux,0,0.0944276,0
+2024-10-02,Fabio Fognini,Luciano Darderi,1,0.49936566,0
+2024-10-02,Reilly Opelka,Arthur Rinderknech,0,0.77088505,1
+2024-10-02,Alejandro Davidovich Fokina,Gabriel Diallo,1,0.70547694,1
+2024-10-02,Corentin Moutet,Aleksandar Vukic,0,0.6969033,1
+2024-10-02,Jakub Mensik,Pedro Martinez,1,0.61404973,1
+2024-10-02,Ramkumar Ramanathan,Alexander Shevchenko,0,0.49709615,0
+2024-10-02,Miomir Kecmanovic,Rinky Hijikata,1,0.69913197,1
+2024-10-02,Zhizhen Zhang,Zizou Bergs,0,0.70100844,1
+2024-10-02,Yi Zhou,Yoshihito Nishioka,1,0.62760335,1
+2024-10-02,Beibit Zhukayev,Roman Safiullin,0,0.5829012,1
+2024-10-02,Stan Wawrinka,Giovanni Mpetshi Perricard,1,0.052581944,0
+2024-10-02,Bu Yunchaokete,Alex Michelsen,0,0.28100163,0
+2024-10-02,Terence Atmane,Aleksandar Kovacevic,1,0.48105577,0
+2024-10-02,Pavel Kotov,Yosuke Watanuki,0,0.98164785,1
+2024-10-02,Jaume Munar,Hugo Gaston,1,0.37897044,0
+2024-10-02,Christopher Oconnell,Matteo Berrettini,0,0.09411747,0
+2024-10-02,David Goffin,James Duckworth,1,0.122464076,0
+2024-10-02,Li Tu,Marcos Giron,0,0.0070593716,0
+2024-10-02,Tallon Griekspoor,Facundo Diaz Acosta,1,0.51694876,1
+2024-10-02,Billy Harris,Mattia Bellucci,0,0.80437994,1
+2024-10-14,Karen Khachanov,Gabriel Diallo,1,0.94960904,1
+2024-10-14,Aleksandar Vukic,Karen Khachanov,0,0.2569199,0
+2024-10-14,Gabriel Diallo,Francisco Cerundolo,1,0.32524353,0
+2024-10-14,Frances Tiafoe,Aleksandar Vukic,0,0.69610304,1
+2024-10-14,Karen Khachanov,Beibit Zhukayev,1,0.9723485,1
+2024-10-14,Alexander Shevchenko,Francisco Cerundolo,0,0.35271773,0
+2024-10-14,Gabriel Diallo,Alejandro Tabilo,1,0.10037133,0
+2024-10-14,Daniel Evans,Frances Tiafoe,0,0.14297543,0
+2024-10-14,Aleksandar Vukic,Adrian Mannarino,1,0.6174588,1
+2024-10-14,Otto Virtanen,Karen Khachanov,0,0.4256105,0
+2024-10-14,Beibit Zhukayev,Tomas Machac,1,0.28699765,0
+2024-10-14,Aslan Karatsev,Alexander Shevchenko,0,0.2579344,0
+2024-10-14,Francisco Cerundolo,Justin Engel,1,0.8643408,1
+2024-10-14,Borna Coric,Gabriel Diallo,0,0.51765454,1
+2024-10-14,Alejandro Tabilo,Maximilian Marterer,1,0.9637016,1
+2024-10-14,Taro Daniel,Daniel Evans,0,0.7339132,1
+2024-10-14,Aleksandar Vukic,James Duckworth,1,0.45721167,0
+2024-10-14,Roman Safiullin,Adrian Mannarino,0,0.5338326,1
+2024-10-14,Otto Virtanen,Fabio Fognini,1,0.48296103,0
+2024-10-14,Benjamin Hassan,Beibit Zhukayev,0,0.7541947,1
+2024-10-14,Tomas Machac,Timofey Skatov,1,0.306567,0
+2024-10-14,Zhizhen Zhang,Aslan Karatsev,0,0.970746,1
+2024-10-14,Alexander Shevchenko,Mikhail Kukushkin,1,0.96784556,1
+2024-10-14,Coleman Wong,Justin Engel,0,0.7743689,1
+2024-10-14,Borna Coric,Fabian Marozsan,1,0.54091287,1
+2024-10-14,Christopher Oconnell,Gabriel Diallo,0,0.48529914,0
+2024-10-14,Maximilian Marterer,Damir Dzumhur,1,0.27922714,0
+2024-10-14,Jiri Lehecka,Roberto Bautista Agut,0,0.79079235,1
+2024-10-14,Roberto Bautista Agut,Hugo Gaston,1,0.56717,1
+2024-10-14,Marcos Giron,Jiri Lehecka,0,0.34494737,0
+2024-10-14,Hugo Gaston,Alex De Minaur,1,0.13003106,0
+2024-10-14,Felix Auger Aliassime,Roberto Bautista Agut,0,0.6120998,1
+2024-10-14,Marcos Giron,Zizou Bergs,1,0.70853305,1
+2024-10-14,Stefanos Tsitsipas,Jiri Lehecka,0,0.6955862,1
+2024-10-14,Alex De Minaur,Roberto Carballes Baena,1,0.85572124,1
+2024-10-14,Mariano Navone,Hugo Gaston,0,0.4954695,0
+2024-10-14,Felix Auger Aliassime,Marton Fucsovics,1,0.6037821,1
+2024-10-14,Tomas Martin Etcheverry,Roberto Bautista Agut,0,0.4490964,0
+2024-10-14,Marcos Giron,Arthur Rinderknech,1,0.55109525,1
+2024-10-14,Sebastian Baez,Zizou Bergs,0,0.8859236,1
+2024-10-14,Jiri Lehecka,Daniel Altmaier,1,0.779924,1
+2024-10-14,Thiago Seyboth Wild,Stefanos Tsitsipas,0,0.14580134,0
+2024-10-14,Roberto Carballes Baena,Dominik Koepfer,1,0.5244164,1
+2024-10-14,Alexey Vatutin,Hugo Gaston,0,0.19667931,0
+2024-10-14,Mariano Navone,Thiago Monteiro,1,0.44711685,0
+2024-10-14,Raphael Collignon,Marton Fucsovics,0,0.27814218,0
+2024-10-14,Roberto Bautista Agut,Luca Van Assche,1,0.67445165,1
+2024-10-14,Richard Gasquet,Tomas Martin Etcheverry,0,0.07514809,0
+2024-10-14,Marcos Giron,Botic Van De Zandschulp,1,0.6624439,1
+2024-10-14,Alexander Blockx,Arthur Rinderknech,0,0.35044995,0
+2024-10-14,Zizou Bergs,Facundo Diaz Acosta,1,0.33693936,0
+2024-10-14,Jaume Munar,Jiri Lehecka,0,0.17714131,0
+2024-10-14,Daniel Altmaier,Gilles Arnaud Bailly,1,0.8589073,1
+2024-10-14,Giovanni Mpetshi Perricard,Thiago Seyboth Wild,0,0.7922313,1
+2024-10-14,Tommy Paul,Grigor Dimitrov,1,0.50510514,1
+2024-10-14,Stan Wawrinka,Tommy Paul,0,0.039360248,0
+2024-10-14,Grigor Dimitrov,Tallon Griekspoor,1,0.5488178,1
+2024-10-14,Andrey Rublev,Stan Wawrinka,0,0.86903745,1
+2024-10-14,Tommy Paul,Miomir Kecmanovic,1,0.7497162,1
+2024-10-14,Dominic Stricker,Grigor Dimitrov,0,0.0054056332,0
+2024-10-14,Tallon Griekspoor,Casper Ruud,1,0.14459024,0
+2024-10-14,Alexandre Muller,Andrey Rublev,0,0.25849935,0
+2024-10-14,Stan Wawrinka,Alejandro Davidovich Fokina,1,0.3174463,0
+2024-10-14,Laslo Djere,Tommy Paul,0,0.046002366,0
+2024-10-14,Miomir Kecmanovic,Nicolas Jarry,1,0.37049845,0
+2024-10-14,Matteo Berrettini,Dominic Stricker,0,0.99514693,1
+2024-10-14,Grigor Dimitrov,Quentin Halys,1,0.64707565,1
+2024-10-14,Jacob Fearnley,Tallon Griekspoor,0,0.2717841,0
+2024-10-14,Casper Ruud,Lorenzo Sonego,1,0.9800029,1
+2024-10-14,Leo Borg,Alexandre Muller,0,0.01647702,0
+2024-10-14,Alejandro Davidovich Fokina,Thiago Agustin Tirante,1,0.3847189,0
+2024-10-14,Brandon Nakashima,Stan Wawrinka,0,0.7922357,1
+2024-10-14,Laslo Djere,Pedro Martinez,1,0.17513765,0
+2024-10-14,Cameron Norrie,Miomir Kecmanovic,0,0.536866,1
+2024-10-14,Nicolas Jarry,Elias Ymer,1,0.8903933,1
+2024-10-14,Luciano Darderi,Matteo Berrettini,0,0.3626485,0
+2024-10-14,Dominic Stricker,Aleksandar Kovacevic,1,0.03818181,0
+2024-10-14,Sumit Nagal,Quentin Halys,0,0.052581944,0
+2024-10-14,Tallon Griekspoor,Pavel Kotov,1,0.55959654,1
+2024-10-14,Corentin Moutet,Jacob Fearnley,0,0.7130013,1
+2024-10-14,Lorenzo Sonego,Marc Andrea Huesler,1,0.5372374,1
+2024-10-21,Ben Shelton,Giovanni Mpetshi Perricard,0,0.18612593,0
+2024-10-21,Ben Shelton,Arthur Fils,1,0.5354002,1
+2024-10-21,Holger Rune,Giovanni Mpetshi Perricard,0,0.48509982,0
+2024-10-21,Ben Shelton,Andrey Rublev,1,0.32753953,0
+2024-10-21,Stefanos Tsitsipas,Arthur Fils,0,0.70972645,1
+2024-10-21,Holger Rune,David Goffin,1,0.85335773,1
+2024-10-21,Denis Shapovalov,Giovanni Mpetshi Perricard,0,0.43661162,0
+2024-10-21,Andrey Rublev,Alejandro Tabilo,1,0.5087316,1
+2024-10-21,Stan Wawrinka,Ben Shelton,0,0.062053952,0
+2024-10-21,Stefanos Tsitsipas,Botic Van De Zandschulp,1,0.9263544,1
+2024-10-21,Pedro Martinez,Arthur Fils,0,0.44354722,0
+2024-10-21,David Goffin,Ugo Humbert,1,0.10802036,0
+2024-10-21,Dominic Stricker,Holger Rune,0,0.0064031873,0
+2024-10-21,Giovanni Mpetshi Perricard,Felix Auger Aliassime,1,0.626686,1
+2024-10-21,Roberto Bautista Agut,Denis Shapovalov,0,0.5630619,1
+2024-10-21,Andrey Rublev,Nuno Borges,1,0.7133317,1
+2024-10-21,Marin Cilic,Alejandro Tabilo,0,0.011920093,0
+2024-10-21,Stan Wawrinka,Adrian Mannarino,1,0.43062872,0
+2024-10-21,Tomas Martin Etcheverry,Ben Shelton,0,0.31885773,0
+2024-10-21,Stefanos Tsitsipas,Francisco Cerundolo,1,0.71789885,1
+2024-10-21,Alexander Bublik,Botic Van De Zandschulp,0,0.76008856,1
+2024-10-21,Pedro Martinez,Jiri Lehecka,1,0.3478048,0
+2024-10-21,Daniel Altmaier,Arthur Fils,0,0.27834278,0
+2024-10-21,Ugo Humbert,Jerome Kym,1,0.94428,1
+2024-10-21,Matteo Arnaldi,David Goffin,0,0.7989117,1
+2024-10-21,Dominic Stricker,Tallon Griekspoor,1,0.0090466635,0
+2024-10-21,Nicolas Jarry,Holger Rune,0,0.3314934,0
+2024-10-21,Felix Auger Aliassime,Sebastian Baez,1,0.5180127,1
+2024-10-21,James Duckworth,Giovanni Mpetshi Perricard,0,0.24814719,0
+2024-10-21,Denis Shapovalov,Juncheng Shang,1,0.36759567,0
+2024-10-21,Casper Ruud,Roberto Bautista Agut,0,0.9031468,1
+2024-10-21,Jack Draper,Karen Khachanov,1,0.5680987,1
+2024-10-21,Lorenzo Musetti,Jack Draper,0,0.5720663,1
+2024-10-21,Karen Khachanov,Alex De Minaur,1,0.33844662,0
+2024-10-21,Alexander Zverev,Lorenzo Musetti,0,0.68256557,1
+2024-10-21,Jack Draper,Tomas Machac,1,0.55585325,1
+2024-10-21,Matteo Berrettini,Karen Khachanov,0,0.85606706,1
+2024-10-21,Alex De Minaur,Jakub Mensik,1,0.815151,1
+2024-10-21,Marcos Giron,Alexander Zverev,0,0.10202507,0
+2024-10-21,Lorenzo Musetti,Gael Monfils,1,0.69017524,1
+2024-10-21,Grigor Dimitrov,Tomas Machac,0,0.6414421,1
+2024-10-21,Jack Draper,Luciano Darderi,1,0.5680987,1
+2024-10-21,Frances Tiafoe,Matteo Berrettini,0,0.14009579,0
+2024-10-21,Karen Khachanov,Brandon Nakashima,1,0.7146813,1
+2024-10-21,Miomir Kecmanovic,Jakub Mensik,0,0.37597296,0
+2024-10-21,Alex De Minaur,Flavio Cobolli,1,0.77926534,1
+2024-10-21,Joel Schwaerzler,Alexander Zverev,0,0.006185628,0
+2024-10-21,Marcos Giron,Alex Michelsen,1,0.5513147,1
+2024-10-21,Quentin Halys,Gael Monfils,0,0.75008774,1
+2024-10-21,Lorenzo Musetti,Lorenzo Sonego,1,0.65624124,1
+2024-10-21,Zhizhen Zhang,Grigor Dimitrov,0,0.12574987,0
+2024-10-21,Tomas Machac,Fabian Marozsan,1,0.77182674,1
+2024-10-21,Dominic Thiem,Luciano Darderi,0,0.046765756,0
+2024-10-21,Jack Draper,Kei Nishikori,1,0.9747276,1
+2024-10-21,Cameron Norrie,Frances Tiafoe,0,0.5176217,1
+2024-10-21,Matteo Berrettini,Marton Fucsovics,1,0.9005824,1
+2024-10-21,Thiago Seyboth Wild,Karen Khachanov,0,0.3238632,0
+2024-10-21,Brandon Nakashima,Tommy Paul,1,0.17144264,0
+2024-10-21,Alexei Popyrin,Jakub Mensik,0,0.40063456,0
+2024-10-21,Miomir Kecmanovic,Mariano Navone,1,0.35783362,0
+2024-10-21,Alejandro Davidovich Fokina,Flavio Cobolli,0,0.41679433,0
+2024-10-21,Alex De Minaur,Jan Lennard Struff,1,0.79212326,1
+2024-10-28,Ugo Humbert,Alexander Zverev,0,0.21577866,0
+2024-10-28,Alexander Zverev,Holger Rune,1,0.7473849,1
+2024-10-28,Karen Khachanov,Ugo Humbert,0,0.54534006,1
+2024-10-28,Holger Rune,Alex De Minaur,1,0.2993485,0
+2024-10-28,Stefanos Tsitsipas,Alexander Zverev,0,0.38455883,0
+2024-10-28,Karen Khachanov,Grigor Dimitrov,1,0.2858888,0
+2024-10-28,Jordan Thompson,Ugo Humbert,0,0.51165384,1
+2024-10-28,Holger Rune,Arthur Cazaux,1,0.74654055,1
+2024-10-28,Jack Draper,Alex De Minaur,0,0.28286695,0
+2024-10-28,Alexander Zverev,Arthur Fils,1,0.66589034,1
+2024-10-28,Francisco Cerundolo,Stefanos Tsitsipas,0,0.2667113,0
+2024-10-28,Grigor Dimitrov,Arthur Rinderknech,1,0.8173214,1
+2024-10-28,Alexei Popyrin,Karen Khachanov,0,0.34283626,0
+2024-10-28,Jordan Thompson,Adrian Mannarino,1,0.846544,1
+2024-10-28,Carlos Alcaraz,Ugo Humbert,0,0.6724043,1
+2024-10-28,Arthur Cazaux,Ben Shelton,1,0.17332864,0
+2024-10-28,Alexander Bublik,Holger Rune,0,0.34345943,0
+2024-10-28,Alex De Minaur,Miomir Kecmanovic,1,0.7021292,1
+2024-10-28,Taylor Fritz,Jack Draper,0,0.6906317,1
+2024-10-28,Alexander Zverev,Tallon Griekspoor,1,0.85306877,1
+2024-10-28,Jan Lennard Struff,Arthur Fils,0,0.5879333,1
+2024-10-28,Stefanos Tsitsipas,Alejandro Tabilo,1,0.67921174,1
+2024-10-28,Andrey Rublev,Francisco Cerundolo,0,0.6140115,1
+2024-10-28,Grigor Dimitrov,Tomas Martin Etcheverry,1,0.69542694,1
+2024-10-28,Alex Michelsen,Arthur Rinderknech,0,0.5485658,1
+2024-10-28,Karen Khachanov,Giovanni Mpetshi Perricard,1,0.3093574,0
+2024-10-28,Daniil Medvedev,Alexei Popyrin,0,0.8943344,1
+2024-10-28,Jordan Thompson,Casper Ruud,1,0.50303924,1
+2024-10-28,Zizou Bergs,Adrian Mannarino,0,0.55697316,1
+2024-10-28,Ugo Humbert,Marcos Giron,1,0.559982,1
+2024-10-28,Nicolas Jarry,Carlos Alcaraz,0,0.18757372,0
+2024-10-28,Ben Shelton,Corentin Moutet,1,0.76679635,1
+2024-10-28,Fabio Fognini,Alexander Bublik,0,0.63549006,1
+2024-10-28,Holger Rune,Matteo Arnaldi,1,0.66086465,1
+2024-10-28,Mariano Navone,Alex De Minaur,0,0.18310668,0
+2024-10-28,Miomir Kecmanovic,Sebastian Baez,1,0.332552,0
+2024-10-28,Jiri Lehecka,Jack Draper,0,0.6404689,1
+2024-10-28,Tallon Griekspoor,Luciano Darderi,1,0.39285773,0
+2024-10-28,Marin Cilic,Arthur Fils,0,0.0159163,0
+2024-10-28,Jan Lennard Struff,Lorenzo Musetti,1,0.49077633,0
+2024-10-28,Roberto Carballes Baena,Stefanos Tsitsipas,0,0.18490301,0
+2024-10-28,Alejandro Tabilo,Nuno Borges,1,0.7195449,1
+2024-10-28,Quentin Halys,Francisco Cerundolo,0,0.7324527,1
+2024-10-28,Tomas Martin Etcheverry,Zhizhen Zhang,1,0.45542482,0
+2024-10-28,Tomas Machac,Arthur Rinderknech,0,0.7620474,1
+2024-10-28,Alex Michelsen,Hubert Hurkacz,1,0.14623106,0
+2024-10-28,Frances Tiafoe,Giovanni Mpetshi Perricard,0,0.37065175,0
+2024-10-28,Karen Khachanov,Christopher Oconnell,1,0.7805835,1
+2024-10-28,Matteo Berrettini,Alexei Popyrin,0,0.86186725,1
+2024-10-28,Jordan Thompson,Pedro Martinez,1,0.61313045,1
+2024-10-28,Richard Gasquet,Zizou Bergs,0,0.3990805,0
+2024-10-28,Adrian Mannarino,Tommy Paul,1,0.045087896,0
+2024-10-28,Brandon Nakashima,Ugo Humbert,0,0.37630266,0
+2024-10-28,Marcos Giron,Juncheng Shang,1,0.40005562,0
+2024-10-28,Lorenzo Sonego,Nicolas Jarry,0,0.3352348,0
+2024-11-04,Denis Shapovalov,Hamad Medjedovic,1,0.5608614,1
+2024-11-04,Laslo Djere,Hamad Medjedovic,0,0.34999317,0
+2024-11-04,Denis Shapovalov,Jiri Lehecka,1,0.30992022,0
+2024-11-04,Fabian Marozsan,Laslo Djere,0,0.8458518,1
+2024-11-04,Hamad Medjedovic,Francisco Cerundolo,1,0.51856726,1
+2024-11-04,Lukas Klein,Jiri Lehecka,0,0.19934082,0
+2024-11-04,Denis Shapovalov,Christopher Oconnell,1,0.57819,1
+2024-11-04,Duje Ajdukovic,Laslo Djere,0,0.7716768,1
+2024-11-04,Fabian Marozsan,Dusan Lajovic,1,0.38490206,0
+2024-11-04,Roman Safiullin,Francisco Cerundolo,0,0.383664,0
+2024-11-04,Hamad Medjedovic,Aleksandar Kovacevic,1,0.59304655,1
+2024-11-04,Tomas Martin Etcheverry,Lukas Klein,0,0.5873153,1
+2024-11-04,Jiri Lehecka,Marin Cilic,1,0.9696574,1
+2024-11-04,Daniel Altmaier,Christopher Oconnell,0,0.48670828,0
+2024-11-04,Denis Shapovalov,Nuno Borges,1,0.4052304,0
+2024-11-04,Stan Wawrinka,Laslo Djere,0,0.4658361,0
+2024-11-04,Fabian Marozsan,Juncheng Shang,1,0.37597296,0
+2024-11-04,Mariano Navone,Dusan Lajovic,0,0.4973203,0
+2024-11-04,Roman Safiullin,Fabio Fognini,1,0.30436468,0
+2024-11-04,Branko Djuric,Aleksandar Kovacevic,0,0.4876938,0
+2024-11-04,Hamad Medjedovic,Brandon Nakashima,1,0.46289918,0
+2024-11-04,Pavel Kotov,Tomas Martin Etcheverry,0,0.44373816,0
+2024-11-04,Lukas Klein,James Duckworth,1,0.39676082,0
+2024-11-04,Alexandre Muller,Marin Cilic,0,0.96423554,1
+2024-11-04,Daniel Altmaier,Luciano Darderi,1,0.15250215,0
+2024-11-04,Miomir Kecmanovic,Christopher Oconnell,0,0.6083297,1
+2024-11-04,Denis Shapovalov,Marton Fucsovics,1,0.3833306,0
+2024-11-04,Cameron Norrie,Benjamin Bonzi,0,0.92649674,1
+2024-11-04,Cameron Norrie,Corentin Moutet,1,0.5426193,1
+2024-11-04,Alex Michelsen,Benjamin Bonzi,0,0.97173935,1
+2024-11-04,Corentin Moutet,Andrey Rublev,1,0.3028598,0
+2024-11-04,Zizou Bergs,Cameron Norrie,0,0.27318716,0
+2024-11-04,Alex Michelsen,Bu Yunchaokete,1,0.79945,1
+2024-11-04,Quentin Halys,Benjamin Bonzi,0,0.9743077,1
+2024-11-04,Andrey Rublev,Lorenzo Sonego,1,0.82598263,1
+2024-11-04,Jan Lennard Struff,Corentin Moutet,0,0.751613,1
+2024-11-04,Cameron Norrie,Luca Van Assche,1,0.69934225,1
+2024-11-04,Hugo Gaston,Zizou Bergs,0,0.64954704,1
+2024-11-04,Alex Michelsen,Richard Gasquet,1,0.9258527,1
+2024-11-04,Jesper De Jong,Bu Yunchaokete,0,0.723157,1
+2024-11-04,Quentin Halys,Pierre Hugues Herbert,1,0.9840778,1
+2024-11-04,Casper Ruud,Benjamin Bonzi,0,0.9627766,1
+2024-11-04,Lorenzo Sonego,Gregoire Barrere,1,0.5372374,1
+2024-11-04,Sumit Nagal,Corentin Moutet,0,0.26581222,0
+2024-11-04,Jan Lennard Struff,Alexander Shevchenko,1,0.638544,1
+2024-11-04,Roberto Carballes Baena,Cameron Norrie,0,0.50307935,1
+2024-11-04,Zizou Bergs,Manuel Guinard,1,0.91923213,1
+2024-11-04,Titouan Droguet,Hugo Gaston,0,0.014211787,0
+2024-11-04,Alex Michelsen,Harold Mayot,1,0.7156736,1
+2024-11-04,Thiago Monteiro,Richard Gasquet,0,0.909907,1
+2024-11-04,Bu Yunchaokete,Adrian Mannarino,1,0.6298822,1
+2024-11-04,Pedro Martinez,Pierre Hugues Herbert,0,0.9868259,1
+2024-11-04,Quentin Halys,Theo Papamalamis,1,0.9847073,1
+2024-11-04,Roberto Bautista Agut,Benjamin Bonzi,0,0.95031446,1
+2024-11-11,Jannik Sinner,Taylor Fritz,1,0.69598067,1
+2024-11-11,Casper Ruud,Jannik Sinner,0,0.29698944,0
+2024-11-11,Taylor Fritz,Alexander Zverev,1,0.43236986,0
+2024-11-11,Daniil Medvedev,Jannik Sinner,0,0.16517408,0
+2024-11-11,Jannik Sinner,Taylor Fritz,1,0.69598067,1
+2024-11-11,Alex De Minaur,Jannik Sinner,0,0.29026803,0
+2024-11-11,Taylor Fritz,Daniil Medvedev,1,0.3868236,0
+2024-11-11,Alex De Minaur,Daniil Medvedev,0,0.61147356,1
+2024-11-11,Taylor Fritz,Alex De Minaur,1,0.51747835,1
+2024-11-11,Carlos Alcaraz,Alexander Zverev,0,0.7626222,1
+2024-11-11,Alexander Zverev,Casper Ruud,1,0.6670211,1
+2024-11-11,Andrey Rublev,Alexander Zverev,0,0.4883133,0
+2024-11-11,Casper Ruud,Carlos Alcaraz,1,0.39476433,0
+2024-11-11,Andrey Rublev,Carlos Alcaraz,0,0.20442766,0
+2024-11-11,Casper Ruud,Andrey Rublev,1,0.7588647,1
+2024-11-19,Botic Van De Zandschulp,Rafael Nadal,1,0.2732894,0
+2024-11-19,Tallon Griekspoor,Carlos Alcaraz,0,0.07106714,0
+2024-11-20,Daniel Altmaier,Gabriel Diallo,1,0.44690168,0
+2024-11-20,Denis Shapovalov,Jan Lennard Struff,0,0.27320656,0
+2024-11-21,Francisco Cerundolo,Lorenzo Musetti,1,0.33718345,0
+2024-11-21,Sebastian Baez,Jannik Sinner,0,0.06860184,0
+2024-11-21,Thanasi Kokkinakis,Ben Shelton,1,0.2590451,0
+2024-11-21,Alex De Minaur,Taylor Fritz,0,0.60936725,1
+2024-11-22,Botic Van De Zandschulp,Daniel Altmaier,1,0.5180682,1
+2024-11-22,Jan Lennard Struff,Tallon Griekspoor,0,0.6371912,1
+2024-11-23,Matteo Berrettini,Thanasi Kokkinakis,1,0.9905702,1
+2024-11-23,Alex De Minaur,Jannik Sinner,0,0.29026803,0
+2024-11-24,Matteo Berrettini,Botic Van De Zandschulp,1,0.98883396,1
+2024-11-24,Tallon Griekspoor,Jannik Sinner,0,0.059463203,0
+2024-12-18,Learner Tien,Joao Fonseca,0,0.21191059,0
+2024-12-18,Joao Fonseca,Luca Van Assche,1,0.6378155,1
+2024-12-18,Alex Michelsen,Learner Tien,0,0.79945,1
+2024-12-18,Arthur Fils,Jakub Mensik,1,0.56799525,1
+2024-12-18,Arthur Fils,Learner Tien,0,0.9485571,1
+2024-12-18,Joao Fonseca,Arthur Fils,1,0.40936628,0
+2024-12-18,Jakub Mensik,Learner Tien,0,0.98146194,1
+2024-12-18,Joao Fonseca,Jakub Mensik,1,0.3904479,0
+2024-12-18,Learner Tien,Joao Fonseca,0,0.21191059,0
+2024-12-18,Alex Michelsen,Juncheng Shang,1,0.40600082,0
+2024-12-18,Luca Van Assche,Alex Michelsen,0,0.38022956,0
+2024-12-18,Alex Michelsen,Nishesh Basavareddy,1,0.79945,1
+2024-12-18,Juncheng Shang,Luca Van Assche,0,0.74417746,1
+2024-12-18,Nishesh Basavareddy,Juncheng Shang,1,0.26707992,0
+2024-12-18,Nishesh Basavareddy,Luca Van Assche,0,0.50922996,1

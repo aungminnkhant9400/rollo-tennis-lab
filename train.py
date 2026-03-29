@@ -11,6 +11,7 @@ TRAIN_PATH = Path("data/processed/train.csv")
 VAL_PATH = Path("data/processed/val.csv")
 OUTPUT_DIR = Path("experiments/baseline_xgb")
 REQUIRED_COLUMNS = ["date", "player_1", "player_2", "target"]
+ALPHA = 10.0
 FEATURE_NAMES = [
     "p1_win_rate",
     "p2_win_rate",
@@ -58,7 +59,7 @@ def build_player_stats(train_df: pd.DataFrame) -> pd.DataFrame:
 
     player_stats = pd.concat([player_1_stats, player_2_stats], ignore_index=True)
     player_stats = player_stats.groupby("player", as_index=True)[["matches", "wins"]].sum()
-    player_stats["win_rate"] = player_stats["wins"] / player_stats["matches"]
+    player_stats["win_rate"] = (player_stats["wins"] + ALPHA * 0.5) / (player_stats["matches"] + ALPHA)
     return player_stats
 
 

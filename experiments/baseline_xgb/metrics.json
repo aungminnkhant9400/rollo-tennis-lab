@@ -1,9 +1,9 @@
 {
   "model_name": "baseline_xgb",
-  "n_train_rows": 56,
-  "n_val_rows": 12,
-  "log_loss": 1.075735333374486,
-  "accuracy": 0.5833333333333334,
+  "n_train_rows": 2153,
+  "n_val_rows": 461,
+  "log_loss": 0.91004785598109,
+  "accuracy": 0.5509761388286334,
   "feature_names": [
     "p1_win_rate",
     "p2_win_rate",
