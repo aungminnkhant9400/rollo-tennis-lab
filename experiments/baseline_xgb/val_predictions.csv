@@ -1,0 +1,13 @@
+date,player_1,player_2,target,pred_proba,pred_label
+2024-02-26,Novak Djokovic,Taylor Fritz,0,0.95815194,1
+2024-02-27,Carlos Alcaraz,Casper Ruud,1,0.8809331,1
+2024-02-28,Jannik Sinner,Stefanos Tsitsipas,0,0.94272006,1
+2024-02-29,Daniil Medvedev,Alexander Zverev,1,0.5053289,1
+2024-03-01,Novak Djokovic,Casper Ruud,1,0.95815194,1
+2024-03-02,Carlos Alcaraz,Taylor Fritz,0,0.8805268,1
+2024-03-03,Jannik Sinner,Alexander Zverev,1,0.66981345,1
+2024-03-04,Daniil Medvedev,Stefanos Tsitsipas,1,0.9077133,1
+2024-03-05,Novak Djokovic,Carlos Alcaraz,1,0.50726074,1
+2024-03-06,Jannik Sinner,Daniil Medvedev,1,0.4693913,0
+2024-03-07,Alexander Zverev,Casper Ruud,1,0.69710493,1
+2024-03-08,Stefanos Tsitsipas,Taylor Fritz,0,0.79913604,1

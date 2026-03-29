@@ -1,0 +1,99 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "name": "file_exists:model.joblib",
+      "passed": true,
+      "detail": "found"
+    },
+    {
+      "name": "file_exists:val_predictions.csv",
+      "passed": true,
+      "detail": "found"
+    },
+    {
+      "name": "file_exists:test_predictions.csv",
+      "passed": true,
+      "detail": "found"
+    },
+    {
+      "name": "file_exists:metrics.json",
+      "passed": true,
+      "detail": "found"
+    },
+    {
+      "name": "file_exists:test_metrics.json",
+      "passed": true,
+      "detail": "found"
+    },
+    {
+      "name": "json_parse:metrics.json",
+      "passed": true,
+      "detail": "parsed successfully"
+    },
+    {
+      "name": "json_parse:test_metrics.json",
+      "passed": true,
+      "detail": "parsed successfully"
+    },
+    {
+      "name": "required_keys:validation",
+      "passed": true,
+      "detail": "all required keys present"
+    },
+    {
+      "name": "metric:validation:n_train_rows",
+      "passed": true,
+      "detail": "n_train_rows=56"
+    },
+    {
+      "name": "metric:validation:n_val_rows",
+      "passed": true,
+      "detail": "n_val_rows=12"
+    },
+    {
+      "name": "metric:validation:log_loss",
+      "passed": true,
+      "detail": "log_loss=1.075735333374486"
+    },
+    {
+      "name": "metric:validation:accuracy",
+      "passed": true,
+      "detail": "accuracy=0.5833333333333334"
+    },
+    {
+      "name": "metric:validation:feature_names",
+      "passed": true,
+      "detail": "feature_names count=6"
+    },
+    {
+      "name": "required_keys:test",
+      "passed": true,
+      "detail": "all required keys present"
+    },
+    {
+      "name": "metric:test:n_test_rows",
+      "passed": true,
+      "detail": "n_test_rows=12"
+    },
+    {
+      "name": "metric:test:log_loss",
+      "passed": true,
+      "detail": "log_loss=0.8404178076491237"
+    },
+    {
+      "name": "metric:test:accuracy",
+      "passed": true,
+      "detail": "accuracy=0.75"
+    },
+    {
+      "name": "metric:test:feature_names",
+      "passed": true,
+      "detail": "feature_names count=6"
+    }
+  ],
+  "val_log_loss": 1.075735333374486,
+  "val_accuracy": 0.5833333333333334,
+  "test_log_loss": 0.8404178076491237,
+  "test_accuracy": 0.75
+}
