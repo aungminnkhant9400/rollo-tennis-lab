@@ -1,463 +1,456 @@
-date,player_1,player_2,winner,target
-2024-09-20,Carlos Alcaraz,Taylor Fritz,Carlos Alcaraz,1
-2024-09-20,Daniil Medvedev,Ben Shelton,Ben Shelton,0
-2024-09-20,Alexander Zverev,Frances Tiafoe,Alexander Zverev,1
-2024-09-20,Ben Shelton,Carlos Alcaraz,Carlos Alcaraz,0
-2024-09-20,Taylor Fritz,Alexander Zverev,Taylor Fritz,1
-2024-09-20,Daniil Medvedev,Frances Tiafoe,Frances Tiafoe,0
-2024-09-20,Francisco Cerundolo,Casper Ruud,Francisco Cerundolo,1
-2024-09-20,Alejandro Tabilo,Grigor Dimitrov,Grigor Dimitrov,0
-2024-09-20,Stefanos Tsitsipas,Thanasi Kokkinakis,Stefanos Tsitsipas,1
-2024-09-25,Ugo Humbert,Arthur Fils,Arthur Fils,0
-2024-09-25,Arthur Fils,Holger Rune,Arthur Fils,1
-2024-09-25,Tomas Machac,Ugo Humbert,Ugo Humbert,0
-2024-09-25,Holger Rune,Kei Nishikori,Holger Rune,1
-2024-09-25,Ben Shelton,Arthur Fils,Arthur Fils,0
-2024-09-25,Ugo Humbert,Jack Draper,Ugo Humbert,1
-2024-09-25,Alex Michelsen,Tomas Machac,Tomas Machac,0
-2024-09-25,Jack Draper,Hubert Hurkacz,Jack Draper,1
-2024-09-25,Tommy Paul,Tomas Machac,Tomas Machac,0
-2024-09-25,Holger Rune,Yoshihito Nishioka,Holger Rune,1
-2024-09-25,Mariano Navone,Ben Shelton,Ben Shelton,0
-2024-09-25,Arthur Fils,Matteo Berrettini,Arthur Fils,1
-2024-09-25,Brandon Nakashima,Ugo Humbert,Ugo Humbert,0
-2024-09-25,Alex Michelsen,Christopher Oconnell,Alex Michelsen,1
-2024-09-25,Jordan Thompson,Kei Nishikori,Kei Nishikori,0
-2024-09-25,Arthur Fils,Taylor Fritz,Arthur Fils,1
-2024-09-25,Marcos Giron,Hubert Hurkacz,Hubert Hurkacz,0
-2024-09-25,Jordan Thompson,Casper Ruud,Jordan Thompson,1
-2024-09-25,Stefanos Tsitsipas,Alex Michelsen,Alex Michelsen,0
-2024-09-25,Tommy Paul,Matteo Arnaldi,Tommy Paul,1
-2024-09-25,Alejandro Tabilo,Holger Rune,Holger Rune,0
-2024-09-25,Brandon Nakashima,Frances Tiafoe,Brandon Nakashima,1
-2024-09-25,Reilly Opelka,Ben Shelton,Ben Shelton,0
-2024-09-25,Matteo Berrettini,Botic Van De Zandschulp,Matteo Berrettini,1
-2024-09-25,Mattia Bellucci,Jack Draper,Jack Draper,0
-2024-09-25,Ugo Humbert,Shintaro Mochizuki,Ugo Humbert,1
-2024-09-25,Alexei Popyrin,Tomas Machac,Tomas Machac,0
-2024-09-25,Mariano Navone,Luciano Darderi,Mariano Navone,1
-2024-09-25,Marin Cilic,Kei Nishikori,Kei Nishikori,0
-2024-09-25,Yoshihito Nishioka,Felix Auger Aliassime,Yoshihito Nishioka,1
-2024-09-25,Tomas Martin Etcheverry,Christopher Oconnell,Christopher Oconnell,0
-2024-09-26,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,1
-2024-09-26,Bu Yunchaokete,Jannik Sinner,Jannik Sinner,0
-2024-09-26,Carlos Alcaraz,Daniil Medvedev,Carlos Alcaraz,1
-2024-09-26,Jiri Lehecka,Jannik Sinner,Jannik Sinner,0
-2024-09-26,Carlos Alcaraz,Karen Khachanov,Carlos Alcaraz,1
-2024-09-26,Flavio Cobolli,Daniil Medvedev,Daniil Medvedev,0
-2024-09-26,Bu Yunchaokete,Andrey Rublev,Bu Yunchaokete,1
-2024-09-26,Roman Safiullin,Jannik Sinner,Jannik Sinner,0
-2024-09-26,Carlos Alcaraz,Tallon Griekspoor,Carlos Alcaraz,1
-2024-09-26,Adrian Mannarino,Daniil Medvedev,Daniil Medvedev,0
-2024-09-26,Andrey Rublev,Alejandro Davidovich Fokina,Andrey Rublev,1
-2024-09-26,Lorenzo Musetti,Bu Yunchaokete,Bu Yunchaokete,0
-2024-09-26,Karen Khachanov,Francisco Cerundolo,Karen Khachanov,1
-2024-09-26,Pavel Kotov,Flavio Cobolli,Flavio Cobolli,0
-2024-09-26,Jiri Lehecka,Roberto Bautista Agut,Jiri Lehecka,1
-2024-09-26,Nicolas Jarry,Jannik Sinner,Jannik Sinner,0
-2024-09-26,Carlos Alcaraz,Giovanni Mpetshi Perricard,Carlos Alcaraz,1
-2024-09-26,Gael Monfils,Daniil Medvedev,Daniil Medvedev,0
-2024-09-26,Andrey Rublev,Pablo Carreno Busta,Andrey Rublev,1
-2024-09-26,Zizou Bergs,Lorenzo Musetti,Lorenzo Musetti,0
-2024-09-26,Karen Khachanov,Roberto Carballes Baena,Karen Khachanov,1
-2024-09-26,Alexander Bublik,Flavio Cobolli,Flavio Cobolli,0
-2024-09-26,Roberto Bautista Agut,Arthur Rinderknech,Roberto Bautista Agut,1
-2024-09-26,Juncheng Shang,Bu Yunchaokete,Bu Yunchaokete,0
-2024-09-26,Francisco Cerundolo,Jakub Mensik,Francisco Cerundolo,1
-2024-09-26,Zhizhen Zhang,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,0
-2024-09-26,Tallon Griekspoor,Miomir Kecmanovic,Tallon Griekspoor,1
-2024-09-26,Yi Zhou,Pavel Kotov,Pavel Kotov,0
-2024-09-26,Jiri Lehecka,Pedro Martinez,Jiri Lehecka,1
-2024-09-26,Lorenzo Sonego,Adrian Mannarino,Adrian Mannarino,0
-2024-09-26,Roman Safiullin,Stan Wawrinka,Roman Safiullin,1
-2024-10-02,Novak Djokovic,Jannik Sinner,Jannik Sinner,0
-2024-10-02,Jannik Sinner,Tomas Machac,Jannik Sinner,1
-2024-10-02,Taylor Fritz,Novak Djokovic,Novak Djokovic,0
-2024-10-02,Jannik Sinner,Daniil Medvedev,Jannik Sinner,1
-2024-10-02,Carlos Alcaraz,Tomas Machac,Tomas Machac,0
-2024-10-02,Novak Djokovic,Jakub Mensik,Novak Djokovic,1
-2024-10-02,David Goffin,Taylor Fritz,Taylor Fritz,0
-2024-10-02,Jannik Sinner,Ben Shelton,Jannik Sinner,1
-2024-10-02,Stefanos Tsitsipas,Daniil Medvedev,Daniil Medvedev,0
-2024-10-02,Carlos Alcaraz,Gael Monfils,Carlos Alcaraz,1
-2024-10-02,Tommy Paul,Tomas Machac,Tomas Machac,0
-2024-10-02,Jakub Mensik,Grigor Dimitrov,Jakub Mensik,1
-2024-10-02,Roman Safiullin,Novak Djokovic,Novak Djokovic,0
-2024-10-02,Taylor Fritz,Holger Rune,Taylor Fritz,1
-2024-10-02,Alexander Zverev,David Goffin,David Goffin,0
-2024-10-02,Jannik Sinner,Tomas Martin Etcheverry,Jannik Sinner,1
-2024-10-02,Roberto Carballes Baena,Ben Shelton,Ben Shelton,0
-2024-10-02,Stefanos Tsitsipas,Alexandre Muller,Stefanos Tsitsipas,1
-2024-10-02,Matteo Arnaldi,Daniil Medvedev,Daniil Medvedev,0
-2024-10-02,Carlos Alcaraz,Yibing Wu,Carlos Alcaraz,1
-2024-10-02,Ugo Humbert,Gael Monfils,Gael Monfils,0
-2024-10-02,Tommy Paul,Alejandro Tabilo,Tommy Paul,1
-2024-10-02,Aleksandar Vukic,Tomas Machac,Tomas Machac,0
-2024-10-02,Jakub Mensik,Alexander Shevchenko,Jakub Mensik,1
-2024-10-02,Alexei Popyrin,Grigor Dimitrov,Grigor Dimitrov,0
-2024-10-02,Roman Safiullin,Frances Tiafoe,Roman Safiullin,1
-2024-10-02,Flavio Cobolli,Novak Djokovic,Novak Djokovic,0
-2024-10-02,Taylor Fritz,Yosuke Watanuki,Taylor Fritz,1
-2024-10-02,Jiri Lehecka,Holger Rune,Holger Rune,0
-2024-10-02,David Goffin,Marcos Giron,David Goffin,1
-2024-10-02,Tallon Griekspoor,Alexander Zverev,Alexander Zverev,0
-2024-10-02,Jannik Sinner,Taro Daniel,Jannik Sinner,1
-2024-10-02,Botic Van De Zandschulp,Tomas Martin Etcheverry,Tomas Martin Etcheverry,0
-2024-10-02,Roberto Carballes Baena,Arthur Fils,Roberto Carballes Baena,1
-2024-10-02,Denis Shapovalov,Ben Shelton,Ben Shelton,0
-2024-10-02,Stefanos Tsitsipas,Kei Nishikori,Stefanos Tsitsipas,1
-2024-10-02,Felix Auger Aliassime,Alexandre Muller,Alexandre Muller,0
-2024-10-02,Matteo Arnaldi,Zachary Svajda,Matteo Arnaldi,1
-2024-10-02,Thiago Seyboth Wild,Daniil Medvedev,Daniil Medvedev,0
-2024-10-02,Carlos Alcaraz,Juncheng Shang,Carlos Alcaraz,1
-2024-10-02,Nicolas Jarry,Yibing Wu,Yibing Wu,0
-2024-10-02,Gael Monfils,Sebastian Baez,Gael Monfils,1
-2024-10-02,Arthur Cazaux,Ugo Humbert,Ugo Humbert,0
-2024-10-02,Tommy Paul,Fabio Fognini,Tommy Paul,1
-2024-10-02,Arthur Rinderknech,Alejandro Tabilo,Alejandro Tabilo,0
-2024-10-02,Tomas Machac,Alejandro Davidovich Fokina,Tomas Machac,1
-2024-10-02,Casper Ruud,Aleksandar Vukic,Aleksandar Vukic,0
-2024-10-02,Jakub Mensik,Andrey Rublev,Jakub Mensik,1
-2024-10-02,Francisco Cerundolo,Alexander Shevchenko,Alexander Shevchenko,0
-2024-10-02,Alexei Popyrin,Miomir Kecmanovic,Alexei Popyrin,1
-2024-10-02,Zizou Bergs,Grigor Dimitrov,Grigor Dimitrov,0
-2024-10-02,Frances Tiafoe,Yi Zhou,Frances Tiafoe,1
-2024-10-02,Alexander Bublik,Roman Safiullin,Roman Safiullin,0
-2024-10-02,Flavio Cobolli,Stan Wawrinka,Flavio Cobolli,1
-2024-10-02,Alex Michelsen,Novak Djokovic,Novak Djokovic,0
-2024-10-02,Taylor Fritz,Terence Atmane,Taylor Fritz,1
-2024-10-02,Brandon Nakashima,Yosuke Watanuki,Yosuke Watanuki,0
-2024-10-02,Jiri Lehecka,Jaume Munar,Jiri Lehecka,1
-2024-10-02,Matteo Berrettini,Holger Rune,Holger Rune,0
-2024-10-02,David Goffin,Lorenzo Musetti,David Goffin,1
-2024-10-02,Karen Khachanov,Marcos Giron,Marcos Giron,0
-2024-10-02,Tallon Griekspoor,Jordan Thompson,Tallon Griekspoor,1
-2024-10-02,Mattia Bellucci,Alexander Zverev,Alexander Zverev,0
-2024-10-02,Taro Daniel,Egor Gerasimov,Taro Daniel,1
-2024-10-02,Pablo Carreno Busta,Botic Van De Zandschulp,Botic Van De Zandschulp,0
-2024-10-02,Roberto Carballes Baena,Roberto Bautista Agut,Roberto Carballes Baena,1
-2024-10-02,Lorenzo Sonego,Denis Shapovalov,Denis Shapovalov,0
-2024-10-02,Kei Nishikori,Mariano Navone,Kei Nishikori,1
-2024-10-02,Luca Nardi,Alexandre Muller,Alexandre Muller,0
-2024-10-02,Zachary Svajda,Adrian Mannarino,Zachary Svajda,1
-2024-10-02,Daniel Evans,Thiago Seyboth Wild,Thiago Seyboth Wild,0
-2024-10-02,Juncheng Shang,Coleman Wong,Juncheng Shang,1
-2024-10-02,Sumit Nagal,Yibing Wu,Yibing Wu,0
-2024-10-02,Gael Monfils,Damir Dzumhur,Gael Monfils,1
-2024-10-02,Marin Cilic,Arthur Cazaux,Arthur Cazaux,0
-2024-10-02,Fabio Fognini,Luciano Darderi,Fabio Fognini,1
-2024-10-02,Reilly Opelka,Arthur Rinderknech,Arthur Rinderknech,0
-2024-10-02,Alejandro Davidovich Fokina,Gabriel Diallo,Alejandro Davidovich Fokina,1
-2024-10-02,Corentin Moutet,Aleksandar Vukic,Aleksandar Vukic,0
-2024-10-02,Jakub Mensik,Pedro Martinez,Jakub Mensik,1
-2024-10-02,Ramkumar Ramanathan,Alexander Shevchenko,Alexander Shevchenko,0
-2024-10-02,Miomir Kecmanovic,Rinky Hijikata,Miomir Kecmanovic,1
-2024-10-02,Zhizhen Zhang,Zizou Bergs,Zizou Bergs,0
-2024-10-02,Yi Zhou,Yoshihito Nishioka,Yi Zhou,1
-2024-10-02,Beibit Zhukayev,Roman Safiullin,Roman Safiullin,0
-2024-10-02,Stan Wawrinka,Giovanni Mpetshi Perricard,Stan Wawrinka,1
-2024-10-02,Bu Yunchaokete,Alex Michelsen,Alex Michelsen,0
-2024-10-02,Terence Atmane,Aleksandar Kovacevic,Terence Atmane,1
-2024-10-02,Pavel Kotov,Yosuke Watanuki,Yosuke Watanuki,0
-2024-10-02,Jaume Munar,Hugo Gaston,Jaume Munar,1
-2024-10-02,Christopher Oconnell,Matteo Berrettini,Matteo Berrettini,0
-2024-10-02,David Goffin,James Duckworth,David Goffin,1
-2024-10-02,Li Tu,Marcos Giron,Marcos Giron,0
-2024-10-02,Tallon Griekspoor,Facundo Diaz Acosta,Tallon Griekspoor,1
-2024-10-02,Billy Harris,Mattia Bellucci,Mattia Bellucci,0
-2024-10-14,Karen Khachanov,Gabriel Diallo,Karen Khachanov,1
-2024-10-14,Aleksandar Vukic,Karen Khachanov,Karen Khachanov,0
-2024-10-14,Gabriel Diallo,Francisco Cerundolo,Gabriel Diallo,1
-2024-10-14,Frances Tiafoe,Aleksandar Vukic,Aleksandar Vukic,0
-2024-10-14,Karen Khachanov,Beibit Zhukayev,Karen Khachanov,1
-2024-10-14,Alexander Shevchenko,Francisco Cerundolo,Francisco Cerundolo,0
-2024-10-14,Gabriel Diallo,Alejandro Tabilo,Gabriel Diallo,1
-2024-10-14,Daniel Evans,Frances Tiafoe,Frances Tiafoe,0
-2024-10-14,Aleksandar Vukic,Adrian Mannarino,Aleksandar Vukic,1
-2024-10-14,Otto Virtanen,Karen Khachanov,Karen Khachanov,0
-2024-10-14,Beibit Zhukayev,Tomas Machac,Beibit Zhukayev,1
-2024-10-14,Aslan Karatsev,Alexander Shevchenko,Alexander Shevchenko,0
-2024-10-14,Francisco Cerundolo,Justin Engel,Francisco Cerundolo,1
-2024-10-14,Borna Coric,Gabriel Diallo,Gabriel Diallo,0
-2024-10-14,Alejandro Tabilo,Maximilian Marterer,Alejandro Tabilo,1
-2024-10-14,Taro Daniel,Daniel Evans,Daniel Evans,0
-2024-10-14,Aleksandar Vukic,James Duckworth,Aleksandar Vukic,1
-2024-10-14,Roman Safiullin,Adrian Mannarino,Adrian Mannarino,0
-2024-10-14,Otto Virtanen,Fabio Fognini,Otto Virtanen,1
-2024-10-14,Benjamin Hassan,Beibit Zhukayev,Beibit Zhukayev,0
-2024-10-14,Tomas Machac,Timofey Skatov,Tomas Machac,1
-2024-10-14,Zhizhen Zhang,Aslan Karatsev,Aslan Karatsev,0
-2024-10-14,Alexander Shevchenko,Mikhail Kukushkin,Alexander Shevchenko,1
-2024-10-14,Coleman Wong,Justin Engel,Justin Engel,0
-2024-10-14,Borna Coric,Fabian Marozsan,Borna Coric,1
-2024-10-14,Christopher Oconnell,Gabriel Diallo,Gabriel Diallo,0
-2024-10-14,Maximilian Marterer,Damir Dzumhur,Maximilian Marterer,1
-2024-10-14,Jiri Lehecka,Roberto Bautista Agut,Roberto Bautista Agut,0
-2024-10-14,Roberto Bautista Agut,Hugo Gaston,Roberto Bautista Agut,1
-2024-10-14,Marcos Giron,Jiri Lehecka,Jiri Lehecka,0
-2024-10-14,Hugo Gaston,Alex De Minaur,Hugo Gaston,1
-2024-10-14,Felix Auger Aliassime,Roberto Bautista Agut,Roberto Bautista Agut,0
-2024-10-14,Marcos Giron,Zizou Bergs,Marcos Giron,1
-2024-10-14,Stefanos Tsitsipas,Jiri Lehecka,Jiri Lehecka,0
-2024-10-14,Alex De Minaur,Roberto Carballes Baena,Alex De Minaur,1
-2024-10-14,Mariano Navone,Hugo Gaston,Hugo Gaston,0
-2024-10-14,Felix Auger Aliassime,Marton Fucsovics,Felix Auger Aliassime,1
-2024-10-14,Tomas Martin Etcheverry,Roberto Bautista Agut,Roberto Bautista Agut,0
-2024-10-14,Marcos Giron,Arthur Rinderknech,Marcos Giron,1
-2024-10-14,Sebastian Baez,Zizou Bergs,Zizou Bergs,0
-2024-10-14,Jiri Lehecka,Daniel Altmaier,Jiri Lehecka,1
-2024-10-14,Thiago Seyboth Wild,Stefanos Tsitsipas,Stefanos Tsitsipas,0
-2024-10-14,Roberto Carballes Baena,Dominik Koepfer,Roberto Carballes Baena,1
-2024-10-14,Alexey Vatutin,Hugo Gaston,Hugo Gaston,0
-2024-10-14,Mariano Navone,Thiago Monteiro,Mariano Navone,1
-2024-10-14,Raphael Collignon,Marton Fucsovics,Marton Fucsovics,0
-2024-10-14,Roberto Bautista Agut,Luca Van Assche,Roberto Bautista Agut,1
-2024-10-14,Richard Gasquet,Tomas Martin Etcheverry,Tomas Martin Etcheverry,0
-2024-10-14,Marcos Giron,Botic Van De Zandschulp,Marcos Giron,1
-2024-10-14,Alexander Blockx,Arthur Rinderknech,Arthur Rinderknech,0
-2024-10-14,Zizou Bergs,Facundo Diaz Acosta,Zizou Bergs,1
-2024-10-14,Jaume Munar,Jiri Lehecka,Jiri Lehecka,0
-2024-10-14,Daniel Altmaier,Gilles Arnaud Bailly,Daniel Altmaier,1
-2024-10-14,Giovanni Mpetshi Perricard,Thiago Seyboth Wild,Thiago Seyboth Wild,0
-2024-10-14,Tommy Paul,Grigor Dimitrov,Tommy Paul,1
-2024-10-14,Stan Wawrinka,Tommy Paul,Tommy Paul,0
-2024-10-14,Grigor Dimitrov,Tallon Griekspoor,Grigor Dimitrov,1
-2024-10-14,Andrey Rublev,Stan Wawrinka,Stan Wawrinka,0
-2024-10-14,Tommy Paul,Miomir Kecmanovic,Tommy Paul,1
-2024-10-14,Dominic Stricker,Grigor Dimitrov,Grigor Dimitrov,0
-2024-10-14,Tallon Griekspoor,Casper Ruud,Tallon Griekspoor,1
-2024-10-14,Alexandre Muller,Andrey Rublev,Andrey Rublev,0
-2024-10-14,Stan Wawrinka,Alejandro Davidovich Fokina,Stan Wawrinka,1
-2024-10-14,Laslo Djere,Tommy Paul,Tommy Paul,0
-2024-10-14,Miomir Kecmanovic,Nicolas Jarry,Miomir Kecmanovic,1
-2024-10-14,Matteo Berrettini,Dominic Stricker,Dominic Stricker,0
-2024-10-14,Grigor Dimitrov,Quentin Halys,Grigor Dimitrov,1
-2024-10-14,Jacob Fearnley,Tallon Griekspoor,Tallon Griekspoor,0
-2024-10-14,Casper Ruud,Lorenzo Sonego,Casper Ruud,1
-2024-10-14,Leo Borg,Alexandre Muller,Alexandre Muller,0
-2024-10-14,Alejandro Davidovich Fokina,Thiago Agustin Tirante,Alejandro Davidovich Fokina,1
-2024-10-14,Brandon Nakashima,Stan Wawrinka,Stan Wawrinka,0
-2024-10-14,Laslo Djere,Pedro Martinez,Laslo Djere,1
-2024-10-14,Cameron Norrie,Miomir Kecmanovic,Miomir Kecmanovic,0
-2024-10-14,Nicolas Jarry,Elias Ymer,Nicolas Jarry,1
-2024-10-14,Luciano Darderi,Matteo Berrettini,Matteo Berrettini,0
-2024-10-14,Dominic Stricker,Aleksandar Kovacevic,Dominic Stricker,1
-2024-10-14,Sumit Nagal,Quentin Halys,Quentin Halys,0
-2024-10-14,Tallon Griekspoor,Pavel Kotov,Tallon Griekspoor,1
-2024-10-14,Corentin Moutet,Jacob Fearnley,Jacob Fearnley,0
-2024-10-14,Lorenzo Sonego,Marc Andrea Huesler,Lorenzo Sonego,1
-2024-10-21,Ben Shelton,Giovanni Mpetshi Perricard,Giovanni Mpetshi Perricard,0
-2024-10-21,Ben Shelton,Arthur Fils,Ben Shelton,1
-2024-10-21,Holger Rune,Giovanni Mpetshi Perricard,Giovanni Mpetshi Perricard,0
-2024-10-21,Ben Shelton,Andrey Rublev,Ben Shelton,1
-2024-10-21,Stefanos Tsitsipas,Arthur Fils,Arthur Fils,0
-2024-10-21,Holger Rune,David Goffin,Holger Rune,1
-2024-10-21,Denis Shapovalov,Giovanni Mpetshi Perricard,Giovanni Mpetshi Perricard,0
-2024-10-21,Andrey Rublev,Alejandro Tabilo,Andrey Rublev,1
-2024-10-21,Stan Wawrinka,Ben Shelton,Ben Shelton,0
-2024-10-21,Stefanos Tsitsipas,Botic Van De Zandschulp,Stefanos Tsitsipas,1
-2024-10-21,Pedro Martinez,Arthur Fils,Arthur Fils,0
-2024-10-21,David Goffin,Ugo Humbert,David Goffin,1
-2024-10-21,Dominic Stricker,Holger Rune,Holger Rune,0
-2024-10-21,Giovanni Mpetshi Perricard,Felix Auger Aliassime,Giovanni Mpetshi Perricard,1
-2024-10-21,Roberto Bautista Agut,Denis Shapovalov,Denis Shapovalov,0
-2024-10-21,Andrey Rublev,Nuno Borges,Andrey Rublev,1
-2024-10-21,Marin Cilic,Alejandro Tabilo,Alejandro Tabilo,0
-2024-10-21,Stan Wawrinka,Adrian Mannarino,Stan Wawrinka,1
-2024-10-21,Tomas Martin Etcheverry,Ben Shelton,Ben Shelton,0
-2024-10-21,Stefanos Tsitsipas,Francisco Cerundolo,Stefanos Tsitsipas,1
-2024-10-21,Alexander Bublik,Botic Van De Zandschulp,Botic Van De Zandschulp,0
-2024-10-21,Pedro Martinez,Jiri Lehecka,Pedro Martinez,1
-2024-10-21,Daniel Altmaier,Arthur Fils,Arthur Fils,0
-2024-10-21,Ugo Humbert,Jerome Kym,Ugo Humbert,1
-2024-10-21,Matteo Arnaldi,David Goffin,David Goffin,0
-2024-10-21,Dominic Stricker,Tallon Griekspoor,Dominic Stricker,1
-2024-10-21,Nicolas Jarry,Holger Rune,Holger Rune,0
-2024-10-21,Felix Auger Aliassime,Sebastian Baez,Felix Auger Aliassime,1
-2024-10-21,James Duckworth,Giovanni Mpetshi Perricard,Giovanni Mpetshi Perricard,0
-2024-10-21,Denis Shapovalov,Juncheng Shang,Denis Shapovalov,1
-2024-10-21,Casper Ruud,Roberto Bautista Agut,Roberto Bautista Agut,0
-2024-10-21,Jack Draper,Karen Khachanov,Jack Draper,1
-2024-10-21,Lorenzo Musetti,Jack Draper,Jack Draper,0
-2024-10-21,Karen Khachanov,Alex De Minaur,Karen Khachanov,1
-2024-10-21,Alexander Zverev,Lorenzo Musetti,Lorenzo Musetti,0
-2024-10-21,Jack Draper,Tomas Machac,Jack Draper,1
-2024-10-21,Matteo Berrettini,Karen Khachanov,Karen Khachanov,0
-2024-10-21,Alex De Minaur,Jakub Mensik,Alex De Minaur,1
-2024-10-21,Marcos Giron,Alexander Zverev,Alexander Zverev,0
-2024-10-21,Lorenzo Musetti,Gael Monfils,Lorenzo Musetti,1
-2024-10-21,Grigor Dimitrov,Tomas Machac,Tomas Machac,0
-2024-10-21,Jack Draper,Luciano Darderi,Jack Draper,1
-2024-10-21,Frances Tiafoe,Matteo Berrettini,Matteo Berrettini,0
-2024-10-21,Karen Khachanov,Brandon Nakashima,Karen Khachanov,1
-2024-10-21,Miomir Kecmanovic,Jakub Mensik,Jakub Mensik,0
-2024-10-21,Alex De Minaur,Flavio Cobolli,Alex De Minaur,1
-2024-10-21,Joel Schwaerzler,Alexander Zverev,Alexander Zverev,0
-2024-10-21,Marcos Giron,Alex Michelsen,Marcos Giron,1
-2024-10-21,Quentin Halys,Gael Monfils,Gael Monfils,0
-2024-10-21,Lorenzo Musetti,Lorenzo Sonego,Lorenzo Musetti,1
-2024-10-21,Zhizhen Zhang,Grigor Dimitrov,Grigor Dimitrov,0
-2024-10-21,Tomas Machac,Fabian Marozsan,Tomas Machac,1
-2024-10-21,Dominic Thiem,Luciano Darderi,Luciano Darderi,0
-2024-10-21,Jack Draper,Kei Nishikori,Jack Draper,1
-2024-10-21,Cameron Norrie,Frances Tiafoe,Frances Tiafoe,0
-2024-10-21,Matteo Berrettini,Marton Fucsovics,Matteo Berrettini,1
-2024-10-21,Thiago Seyboth Wild,Karen Khachanov,Karen Khachanov,0
-2024-10-21,Brandon Nakashima,Tommy Paul,Brandon Nakashima,1
-2024-10-21,Alexei Popyrin,Jakub Mensik,Jakub Mensik,0
-2024-10-21,Miomir Kecmanovic,Mariano Navone,Miomir Kecmanovic,1
-2024-10-21,Alejandro Davidovich Fokina,Flavio Cobolli,Flavio Cobolli,0
-2024-10-21,Alex De Minaur,Jan Lennard Struff,Alex De Minaur,1
-2024-10-28,Ugo Humbert,Alexander Zverev,Alexander Zverev,0
-2024-10-28,Alexander Zverev,Holger Rune,Alexander Zverev,1
-2024-10-28,Karen Khachanov,Ugo Humbert,Ugo Humbert,0
-2024-10-28,Holger Rune,Alex De Minaur,Holger Rune,1
-2024-10-28,Stefanos Tsitsipas,Alexander Zverev,Alexander Zverev,0
-2024-10-28,Karen Khachanov,Grigor Dimitrov,Karen Khachanov,1
-2024-10-28,Jordan Thompson,Ugo Humbert,Ugo Humbert,0
-2024-10-28,Holger Rune,Arthur Cazaux,Holger Rune,1
-2024-10-28,Jack Draper,Alex De Minaur,Alex De Minaur,0
-2024-10-28,Alexander Zverev,Arthur Fils,Alexander Zverev,1
-2024-10-28,Francisco Cerundolo,Stefanos Tsitsipas,Stefanos Tsitsipas,0
-2024-10-28,Grigor Dimitrov,Arthur Rinderknech,Grigor Dimitrov,1
-2024-10-28,Alexei Popyrin,Karen Khachanov,Karen Khachanov,0
-2024-10-28,Jordan Thompson,Adrian Mannarino,Jordan Thompson,1
-2024-10-28,Carlos Alcaraz,Ugo Humbert,Ugo Humbert,0
-2024-10-28,Arthur Cazaux,Ben Shelton,Arthur Cazaux,1
-2024-10-28,Alexander Bublik,Holger Rune,Holger Rune,0
-2024-10-28,Alex De Minaur,Miomir Kecmanovic,Alex De Minaur,1
-2024-10-28,Taylor Fritz,Jack Draper,Jack Draper,0
-2024-10-28,Alexander Zverev,Tallon Griekspoor,Alexander Zverev,1
-2024-10-28,Jan Lennard Struff,Arthur Fils,Arthur Fils,0
-2024-10-28,Stefanos Tsitsipas,Alejandro Tabilo,Stefanos Tsitsipas,1
-2024-10-28,Andrey Rublev,Francisco Cerundolo,Francisco Cerundolo,0
-2024-10-28,Grigor Dimitrov,Tomas Martin Etcheverry,Grigor Dimitrov,1
-2024-10-28,Alex Michelsen,Arthur Rinderknech,Arthur Rinderknech,0
-2024-10-28,Karen Khachanov,Giovanni Mpetshi Perricard,Karen Khachanov,1
-2024-10-28,Daniil Medvedev,Alexei Popyrin,Alexei Popyrin,0
-2024-10-28,Jordan Thompson,Casper Ruud,Jordan Thompson,1
-2024-10-28,Zizou Bergs,Adrian Mannarino,Adrian Mannarino,0
-2024-10-28,Ugo Humbert,Marcos Giron,Ugo Humbert,1
-2024-10-28,Nicolas Jarry,Carlos Alcaraz,Carlos Alcaraz,0
-2024-10-28,Ben Shelton,Corentin Moutet,Ben Shelton,1
-2024-10-28,Fabio Fognini,Alexander Bublik,Alexander Bublik,0
-2024-10-28,Holger Rune,Matteo Arnaldi,Holger Rune,1
-2024-10-28,Mariano Navone,Alex De Minaur,Alex De Minaur,0
-2024-10-28,Miomir Kecmanovic,Sebastian Baez,Miomir Kecmanovic,1
-2024-10-28,Jiri Lehecka,Jack Draper,Jack Draper,0
-2024-10-28,Tallon Griekspoor,Luciano Darderi,Tallon Griekspoor,1
-2024-10-28,Marin Cilic,Arthur Fils,Arthur Fils,0
-2024-10-28,Jan Lennard Struff,Lorenzo Musetti,Jan Lennard Struff,1
-2024-10-28,Roberto Carballes Baena,Stefanos Tsitsipas,Stefanos Tsitsipas,0
-2024-10-28,Alejandro Tabilo,Nuno Borges,Alejandro Tabilo,1
-2024-10-28,Quentin Halys,Francisco Cerundolo,Francisco Cerundolo,0
-2024-10-28,Tomas Martin Etcheverry,Zhizhen Zhang,Tomas Martin Etcheverry,1
-2024-10-28,Tomas Machac,Arthur Rinderknech,Arthur Rinderknech,0
-2024-10-28,Alex Michelsen,Hubert Hurkacz,Alex Michelsen,1
-2024-10-28,Frances Tiafoe,Giovanni Mpetshi Perricard,Giovanni Mpetshi Perricard,0
-2024-10-28,Karen Khachanov,Christopher Oconnell,Karen Khachanov,1
-2024-10-28,Matteo Berrettini,Alexei Popyrin,Alexei Popyrin,0
-2024-10-28,Jordan Thompson,Pedro Martinez,Jordan Thompson,1
-2024-10-28,Richard Gasquet,Zizou Bergs,Zizou Bergs,0
-2024-10-28,Adrian Mannarino,Tommy Paul,Adrian Mannarino,1
-2024-10-28,Brandon Nakashima,Ugo Humbert,Ugo Humbert,0
-2024-10-28,Marcos Giron,Juncheng Shang,Marcos Giron,1
-2024-10-28,Lorenzo Sonego,Nicolas Jarry,Nicolas Jarry,0
-2024-11-04,Denis Shapovalov,Hamad Medjedovic,Denis Shapovalov,1
-2024-11-04,Laslo Djere,Hamad Medjedovic,Hamad Medjedovic,0
-2024-11-04,Denis Shapovalov,Jiri Lehecka,Denis Shapovalov,1
-2024-11-04,Fabian Marozsan,Laslo Djere,Laslo Djere,0
-2024-11-04,Hamad Medjedovic,Francisco Cerundolo,Hamad Medjedovic,1
-2024-11-04,Lukas Klein,Jiri Lehecka,Jiri Lehecka,0
-2024-11-04,Denis Shapovalov,Christopher Oconnell,Denis Shapovalov,1
-2024-11-04,Duje Ajdukovic,Laslo Djere,Laslo Djere,0
-2024-11-04,Fabian Marozsan,Dusan Lajovic,Fabian Marozsan,1
-2024-11-04,Roman Safiullin,Francisco Cerundolo,Francisco Cerundolo,0
-2024-11-04,Hamad Medjedovic,Aleksandar Kovacevic,Hamad Medjedovic,1
-2024-11-04,Tomas Martin Etcheverry,Lukas Klein,Lukas Klein,0
-2024-11-04,Jiri Lehecka,Marin Cilic,Jiri Lehecka,1
-2024-11-04,Daniel Altmaier,Christopher Oconnell,Christopher Oconnell,0
-2024-11-04,Denis Shapovalov,Nuno Borges,Denis Shapovalov,1
-2024-11-04,Stan Wawrinka,Laslo Djere,Laslo Djere,0
-2024-11-04,Fabian Marozsan,Juncheng Shang,Fabian Marozsan,1
-2024-11-04,Mariano Navone,Dusan Lajovic,Dusan Lajovic,0
-2024-11-04,Roman Safiullin,Fabio Fognini,Roman Safiullin,1
-2024-11-04,Branko Djuric,Aleksandar Kovacevic,Aleksandar Kovacevic,0
-2024-11-04,Hamad Medjedovic,Brandon Nakashima,Hamad Medjedovic,1
-2024-11-04,Pavel Kotov,Tomas Martin Etcheverry,Tomas Martin Etcheverry,0
-2024-11-04,Lukas Klein,James Duckworth,Lukas Klein,1
-2024-11-04,Alexandre Muller,Marin Cilic,Marin Cilic,0
-2024-11-04,Daniel Altmaier,Luciano Darderi,Daniel Altmaier,1
-2024-11-04,Miomir Kecmanovic,Christopher Oconnell,Christopher Oconnell,0
-2024-11-04,Denis Shapovalov,Marton Fucsovics,Denis Shapovalov,1
-2024-11-04,Cameron Norrie,Benjamin Bonzi,Benjamin Bonzi,0
-2024-11-04,Cameron Norrie,Corentin Moutet,Cameron Norrie,1
-2024-11-04,Alex Michelsen,Benjamin Bonzi,Benjamin Bonzi,0
-2024-11-04,Corentin Moutet,Andrey Rublev,Corentin Moutet,1
-2024-11-04,Zizou Bergs,Cameron Norrie,Cameron Norrie,0
-2024-11-04,Alex Michelsen,Bu Yunchaokete,Alex Michelsen,1
-2024-11-04,Quentin Halys,Benjamin Bonzi,Benjamin Bonzi,0
-2024-11-04,Andrey Rublev,Lorenzo Sonego,Andrey Rublev,1
-2024-11-04,Jan Lennard Struff,Corentin Moutet,Corentin Moutet,0
-2024-11-04,Cameron Norrie,Luca Van Assche,Cameron Norrie,1
-2024-11-04,Hugo Gaston,Zizou Bergs,Zizou Bergs,0
-2024-11-04,Alex Michelsen,Richard Gasquet,Alex Michelsen,1
-2024-11-04,Jesper De Jong,Bu Yunchaokete,Bu Yunchaokete,0
-2024-11-04,Quentin Halys,Pierre Hugues Herbert,Quentin Halys,1
-2024-11-04,Casper Ruud,Benjamin Bonzi,Benjamin Bonzi,0
-2024-11-04,Lorenzo Sonego,Gregoire Barrere,Lorenzo Sonego,1
-2024-11-04,Sumit Nagal,Corentin Moutet,Corentin Moutet,0
-2024-11-04,Jan Lennard Struff,Alexander Shevchenko,Jan Lennard Struff,1
-2024-11-04,Roberto Carballes Baena,Cameron Norrie,Cameron Norrie,0
-2024-11-04,Zizou Bergs,Manuel Guinard,Zizou Bergs,1
-2024-11-04,Titouan Droguet,Hugo Gaston,Hugo Gaston,0
-2024-11-04,Alex Michelsen,Harold Mayot,Alex Michelsen,1
-2024-11-04,Thiago Monteiro,Richard Gasquet,Richard Gasquet,0
-2024-11-04,Bu Yunchaokete,Adrian Mannarino,Bu Yunchaokete,1
-2024-11-04,Pedro Martinez,Pierre Hugues Herbert,Pierre Hugues Herbert,0
-2024-11-04,Quentin Halys,Theo Papamalamis,Quentin Halys,1
-2024-11-04,Roberto Bautista Agut,Benjamin Bonzi,Benjamin Bonzi,0
-2024-11-11,Jannik Sinner,Taylor Fritz,Jannik Sinner,1
-2024-11-11,Casper Ruud,Jannik Sinner,Jannik Sinner,0
-2024-11-11,Taylor Fritz,Alexander Zverev,Taylor Fritz,1
-2024-11-11,Daniil Medvedev,Jannik Sinner,Jannik Sinner,0
-2024-11-11,Jannik Sinner,Taylor Fritz,Jannik Sinner,1
-2024-11-11,Alex De Minaur,Jannik Sinner,Jannik Sinner,0
-2024-11-11,Taylor Fritz,Daniil Medvedev,Taylor Fritz,1
-2024-11-11,Alex De Minaur,Daniil Medvedev,Daniil Medvedev,0
-2024-11-11,Taylor Fritz,Alex De Minaur,Taylor Fritz,1
-2024-11-11,Carlos Alcaraz,Alexander Zverev,Alexander Zverev,0
-2024-11-11,Alexander Zverev,Casper Ruud,Alexander Zverev,1
-2024-11-11,Andrey Rublev,Alexander Zverev,Alexander Zverev,0
-2024-11-11,Casper Ruud,Carlos Alcaraz,Casper Ruud,1
-2024-11-11,Andrey Rublev,Carlos Alcaraz,Carlos Alcaraz,0
-2024-11-11,Casper Ruud,Andrey Rublev,Casper Ruud,1
-2024-11-19,Botic Van De Zandschulp,Rafael Nadal,Botic Van De Zandschulp,1
-2024-11-19,Tallon Griekspoor,Carlos Alcaraz,Carlos Alcaraz,0
-2024-11-20,Daniel Altmaier,Gabriel Diallo,Daniel Altmaier,1
-2024-11-20,Denis Shapovalov,Jan Lennard Struff,Jan Lennard Struff,0
-2024-11-21,Francisco Cerundolo,Lorenzo Musetti,Francisco Cerundolo,1
-2024-11-21,Sebastian Baez,Jannik Sinner,Jannik Sinner,0
-2024-11-21,Thanasi Kokkinakis,Ben Shelton,Thanasi Kokkinakis,1
-2024-11-21,Alex De Minaur,Taylor Fritz,Taylor Fritz,0
-2024-11-22,Botic Van De Zandschulp,Daniel Altmaier,Botic Van De Zandschulp,1
-2024-11-22,Jan Lennard Struff,Tallon Griekspoor,Tallon Griekspoor,0
-2024-11-23,Matteo Berrettini,Thanasi Kokkinakis,Matteo Berrettini,1
-2024-11-23,Alex De Minaur,Jannik Sinner,Jannik Sinner,0
-2024-11-24,Matteo Berrettini,Botic Van De Zandschulp,Matteo Berrettini,1
-2024-11-24,Tallon Griekspoor,Jannik Sinner,Jannik Sinner,0
-2024-12-18,Learner Tien,Joao Fonseca,Joao Fonseca,0
-2024-12-18,Joao Fonseca,Luca Van Assche,Joao Fonseca,1
-2024-12-18,Alex Michelsen,Learner Tien,Learner Tien,0
-2024-12-18,Arthur Fils,Jakub Mensik,Arthur Fils,1
-2024-12-18,Arthur Fils,Learner Tien,Learner Tien,0
-2024-12-18,Joao Fonseca,Arthur Fils,Joao Fonseca,1
-2024-12-18,Jakub Mensik,Learner Tien,Learner Tien,0
-2024-12-18,Joao Fonseca,Jakub Mensik,Joao Fonseca,1
-2024-12-18,Learner Tien,Joao Fonseca,Joao Fonseca,0
-2024-12-18,Alex Michelsen,Juncheng Shang,Alex Michelsen,1
-2024-12-18,Luca Van Assche,Alex Michelsen,Alex Michelsen,0
-2024-12-18,Alex Michelsen,Nishesh Basavareddy,Alex Michelsen,1
-2024-12-18,Juncheng Shang,Luca Van Assche,Luca Van Assche,0
-2024-12-18,Nishesh Basavareddy,Juncheng Shang,Nishesh Basavareddy,1
-2024-12-18,Nishesh Basavareddy,Luca Van Assche,Luca Van Assche,0
+date,player_1,player_2,winner,p1_rank,p2_rank,target
+2024-09-20,Alejandro Tabilo,Grigor Dimitrov,Grigor Dimitrov,22.0,10.0,0
+2024-09-20,Stefanos Tsitsipas,Thanasi Kokkinakis,Stefanos Tsitsipas,12.0,78.0,1
+2024-09-25,Ugo Humbert,Arthur Fils,Arthur Fils,18.0,24.0,0
+2024-09-25,Arthur Fils,Holger Rune,Arthur Fils,24.0,14.0,1
+2024-09-25,Tomas Machac,Ugo Humbert,Ugo Humbert,34.0,18.0,0
+2024-09-25,Holger Rune,Kei Nishikori,Holger Rune,14.0,200.0,1
+2024-09-25,Ben Shelton,Arthur Fils,Arthur Fils,17.0,24.0,0
+2024-09-25,Ugo Humbert,Jack Draper,Ugo Humbert,18.0,20.0,1
+2024-09-25,Alex Michelsen,Tomas Machac,Tomas Machac,49.0,34.0,0
+2024-09-25,Jack Draper,Hubert Hurkacz,Jack Draper,20.0,8.0,1
+2024-09-25,Tommy Paul,Tomas Machac,Tomas Machac,13.0,34.0,0
+2024-09-25,Holger Rune,Yoshihito Nishioka,Holger Rune,14.0,59.0,1
+2024-09-25,Mariano Navone,Ben Shelton,Ben Shelton,40.0,17.0,0
+2024-09-25,Arthur Fils,Matteo Berrettini,Arthur Fils,24.0,45.0,1
+2024-09-25,Brandon Nakashima,Ugo Humbert,Ugo Humbert,36.0,18.0,0
+2024-09-25,Alex Michelsen,Christopher Oconnell,Alex Michelsen,49.0,79.0,1
+2024-09-25,Jordan Thompson,Kei Nishikori,Kei Nishikori,29.0,200.0,0
+2024-09-25,Arthur Fils,Taylor Fritz,Arthur Fils,24.0,7.0,1
+2024-09-25,Marcos Giron,Hubert Hurkacz,Hubert Hurkacz,47.0,8.0,0
+2024-09-25,Jordan Thompson,Casper Ruud,Jordan Thompson,29.0,9.0,1
+2024-09-25,Stefanos Tsitsipas,Alex Michelsen,Alex Michelsen,12.0,49.0,0
+2024-09-25,Tommy Paul,Matteo Arnaldi,Tommy Paul,13.0,33.0,1
+2024-09-25,Alejandro Tabilo,Holger Rune,Holger Rune,22.0,14.0,0
+2024-09-25,Brandon Nakashima,Frances Tiafoe,Brandon Nakashima,36.0,15.0,1
+2024-09-25,Reilly Opelka,Ben Shelton,Ben Shelton,306.0,17.0,0
+2024-09-25,Matteo Berrettini,Botic Van De Zandschulp,Matteo Berrettini,45.0,67.0,1
+2024-09-25,Mattia Bellucci,Jack Draper,Jack Draper,103.0,20.0,0
+2024-09-25,Ugo Humbert,Shintaro Mochizuki,Ugo Humbert,18.0,146.0,1
+2024-09-25,Alexei Popyrin,Tomas Machac,Tomas Machac,23.0,34.0,0
+2024-09-25,Mariano Navone,Luciano Darderi,Mariano Navone,40.0,41.0,1
+2024-09-25,Marin Cilic,Kei Nishikori,Kei Nishikori,373.0,200.0,0
+2024-09-25,Yoshihito Nishioka,Felix Auger Aliassime,Yoshihito Nishioka,59.0,21.0,1
+2024-09-25,Tomas Martin Etcheverry,Christopher Oconnell,Christopher Oconnell,35.0,79.0,0
+2024-09-26,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,3.0,1.0,1
+2024-09-26,Bu Yunchaokete,Jannik Sinner,Jannik Sinner,96.0,1.0,0
+2024-09-26,Carlos Alcaraz,Daniil Medvedev,Carlos Alcaraz,3.0,5.0,1
+2024-09-26,Jiri Lehecka,Jannik Sinner,Jannik Sinner,37.0,1.0,0
+2024-09-26,Carlos Alcaraz,Karen Khachanov,Carlos Alcaraz,3.0,27.0,1
+2024-09-26,Flavio Cobolli,Daniil Medvedev,Daniil Medvedev,32.0,5.0,0
+2024-09-26,Bu Yunchaokete,Andrey Rublev,Bu Yunchaokete,96.0,6.0,1
+2024-09-26,Roman Safiullin,Jannik Sinner,Jannik Sinner,69.0,1.0,0
+2024-09-26,Carlos Alcaraz,Tallon Griekspoor,Carlos Alcaraz,3.0,39.0,1
+2024-09-26,Adrian Mannarino,Daniil Medvedev,Daniil Medvedev,44.0,5.0,0
+2024-09-26,Andrey Rublev,Alejandro Davidovich Fokina,Andrey Rublev,6.0,64.0,1
+2024-09-26,Lorenzo Musetti,Bu Yunchaokete,Bu Yunchaokete,19.0,96.0,0
+2024-09-26,Karen Khachanov,Francisco Cerundolo,Karen Khachanov,27.0,31.0,1
+2024-09-26,Pavel Kotov,Flavio Cobolli,Flavio Cobolli,63.0,32.0,0
+2024-09-26,Jiri Lehecka,Roberto Bautista Agut,Jiri Lehecka,37.0,61.0,1
+2024-09-26,Nicolas Jarry,Jannik Sinner,Jannik Sinner,28.0,1.0,0
+2024-09-26,Carlos Alcaraz,Giovanni Mpetshi Perricard,Carlos Alcaraz,3.0,51.0,1
+2024-09-26,Gael Monfils,Daniil Medvedev,Daniil Medvedev,46.0,5.0,0
+2024-09-26,Andrey Rublev,Pablo Carreno Busta,Andrey Rublev,6.0,201.0,1
+2024-09-26,Zizou Bergs,Lorenzo Musetti,Lorenzo Musetti,74.0,19.0,0
+2024-09-26,Karen Khachanov,Roberto Carballes Baena,Karen Khachanov,27.0,53.0,1
+2024-09-26,Alexander Bublik,Flavio Cobolli,Flavio Cobolli,26.0,32.0,0
+2024-09-26,Roberto Bautista Agut,Arthur Rinderknech,Roberto Bautista Agut,61.0,60.0,1
+2024-09-26,Juncheng Shang,Bu Yunchaokete,Bu Yunchaokete,55.0,96.0,0
+2024-09-26,Francisco Cerundolo,Jakub Mensik,Francisco Cerundolo,31.0,66.0,1
+2024-09-26,Zhizhen Zhang,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,43.0,64.0,0
+2024-09-26,Tallon Griekspoor,Miomir Kecmanovic,Tallon Griekspoor,39.0,54.0,1
+2024-09-26,Yi Zhou,Pavel Kotov,Pavel Kotov,446.0,63.0,0
+2024-09-26,Jiri Lehecka,Pedro Martinez,Jiri Lehecka,37.0,42.0,1
+2024-09-26,Lorenzo Sonego,Adrian Mannarino,Adrian Mannarino,50.0,44.0,0
+2024-09-26,Roman Safiullin,Stan Wawrinka,Roman Safiullin,69.0,233.0,1
+2024-10-02,Novak Djokovic,Jannik Sinner,Jannik Sinner,4.0,1.0,0
+2024-10-02,Jannik Sinner,Tomas Machac,Jannik Sinner,1.0,33.0,1
+2024-10-02,Taylor Fritz,Novak Djokovic,Novak Djokovic,7.0,4.0,0
+2024-10-02,Jannik Sinner,Daniil Medvedev,Jannik Sinner,1.0,5.0,1
+2024-10-02,Carlos Alcaraz,Tomas Machac,Tomas Machac,2.0,33.0,0
+2024-10-02,Novak Djokovic,Jakub Mensik,Novak Djokovic,4.0,65.0,1
+2024-10-02,David Goffin,Taylor Fritz,Taylor Fritz,66.0,7.0,0
+2024-10-02,Jannik Sinner,Ben Shelton,Jannik Sinner,1.0,16.0,1
+2024-10-02,Stefanos Tsitsipas,Daniil Medvedev,Daniil Medvedev,12.0,5.0,0
+2024-10-02,Carlos Alcaraz,Gael Monfils,Carlos Alcaraz,2.0,46.0,1
+2024-10-02,Tommy Paul,Tomas Machac,Tomas Machac,13.0,33.0,0
+2024-10-02,Jakub Mensik,Grigor Dimitrov,Jakub Mensik,65.0,10.0,1
+2024-10-02,Roman Safiullin,Novak Djokovic,Novak Djokovic,61.0,4.0,0
+2024-10-02,Taylor Fritz,Holger Rune,Taylor Fritz,7.0,14.0,1
+2024-10-02,Alexander Zverev,David Goffin,David Goffin,3.0,66.0,0
+2024-10-02,Jannik Sinner,Tomas Martin Etcheverry,Jannik Sinner,1.0,37.0,1
+2024-10-02,Roberto Carballes Baena,Ben Shelton,Ben Shelton,54.0,16.0,0
+2024-10-02,Stefanos Tsitsipas,Alexandre Muller,Stefanos Tsitsipas,12.0,74.0,1
+2024-10-02,Matteo Arnaldi,Daniil Medvedev,Daniil Medvedev,36.0,5.0,0
+2024-10-02,Carlos Alcaraz,Yibing Wu,Carlos Alcaraz,2.0,560.0,1
+2024-10-02,Ugo Humbert,Gael Monfils,Gael Monfils,15.0,46.0,0
+2024-10-02,Tommy Paul,Alejandro Tabilo,Tommy Paul,13.0,23.0,1
+2024-10-02,Aleksandar Vukic,Tomas Machac,Tomas Machac,91.0,33.0,0
+2024-10-02,Jakub Mensik,Alexander Shevchenko,Jakub Mensik,65.0,58.0,1
+2024-10-02,Alexei Popyrin,Grigor Dimitrov,Grigor Dimitrov,24.0,10.0,0
+2024-10-02,Roman Safiullin,Frances Tiafoe,Roman Safiullin,61.0,17.0,1
+2024-10-02,Flavio Cobolli,Novak Djokovic,Novak Djokovic,30.0,4.0,0
+2024-10-02,Taylor Fritz,Yosuke Watanuki,Taylor Fritz,7.0,336.0,1
+2024-10-02,Jiri Lehecka,Holger Rune,Holger Rune,34.0,14.0,0
+2024-10-02,David Goffin,Marcos Giron,David Goffin,66.0,47.0,1
+2024-10-02,Tallon Griekspoor,Alexander Zverev,Alexander Zverev,40.0,3.0,0
+2024-10-02,Jannik Sinner,Taro Daniel,Jannik Sinner,1.0,93.0,1
+2024-10-02,Botic Van De Zandschulp,Tomas Martin Etcheverry,Tomas Martin Etcheverry,67.0,37.0,0
+2024-10-02,Roberto Carballes Baena,Arthur Fils,Roberto Carballes Baena,54.0,21.0,1
+2024-10-02,Denis Shapovalov,Ben Shelton,Ben Shelton,102.0,16.0,0
+2024-10-02,Stefanos Tsitsipas,Kei Nishikori,Stefanos Tsitsipas,12.0,153.0,1
+2024-10-02,Felix Auger Aliassime,Alexandre Muller,Alexandre Muller,22.0,74.0,0
+2024-10-02,Matteo Arnaldi,Zachary Svajda,Matteo Arnaldi,36.0,131.0,1
+2024-10-02,Thiago Seyboth Wild,Daniil Medvedev,Daniil Medvedev,88.0,5.0,0
+2024-10-02,Carlos Alcaraz,Juncheng Shang,Carlos Alcaraz,2.0,51.0,1
+2024-10-02,Nicolas Jarry,Yibing Wu,Yibing Wu,29.0,560.0,0
+2024-10-02,Gael Monfils,Sebastian Baez,Gael Monfils,46.0,26.0,1
+2024-10-02,Arthur Cazaux,Ugo Humbert,Ugo Humbert,92.0,15.0,0
+2024-10-02,Tommy Paul,Fabio Fognini,Tommy Paul,13.0,81.0,1
+2024-10-02,Arthur Rinderknech,Alejandro Tabilo,Alejandro Tabilo,62.0,23.0,0
+2024-10-02,Tomas Machac,Alejandro Davidovich Fokina,Tomas Machac,33.0,64.0,1
+2024-10-02,Casper Ruud,Aleksandar Vukic,Aleksandar Vukic,9.0,91.0,0
+2024-10-02,Jakub Mensik,Andrey Rublev,Jakub Mensik,65.0,6.0,1
+2024-10-02,Francisco Cerundolo,Alexander Shevchenko,Alexander Shevchenko,31.0,58.0,0
+2024-10-02,Alexei Popyrin,Miomir Kecmanovic,Alexei Popyrin,24.0,55.0,1
+2024-10-02,Zizou Bergs,Grigor Dimitrov,Grigor Dimitrov,73.0,10.0,0
+2024-10-02,Frances Tiafoe,Yi Zhou,Frances Tiafoe,17.0,440.0,1
+2024-10-02,Alexander Bublik,Roman Safiullin,Roman Safiullin,27.0,61.0,0
+2024-10-02,Flavio Cobolli,Stan Wawrinka,Flavio Cobolli,30.0,236.0,1
+2024-10-02,Alex Michelsen,Novak Djokovic,Novak Djokovic,43.0,4.0,0
+2024-10-02,Taylor Fritz,Terence Atmane,Taylor Fritz,7.0,161.0,1
+2024-10-02,Brandon Nakashima,Yosuke Watanuki,Yosuke Watanuki,35.0,336.0,0
+2024-10-02,Jiri Lehecka,Jaume Munar,Jiri Lehecka,34.0,63.0,1
+2024-10-02,Matteo Berrettini,Holger Rune,Holger Rune,44.0,14.0,0
+2024-10-02,David Goffin,Lorenzo Musetti,David Goffin,66.0,18.0,1
+2024-10-02,Karen Khachanov,Marcos Giron,Marcos Giron,25.0,47.0,0
+2024-10-02,Tallon Griekspoor,Jordan Thompson,Tallon Griekspoor,40.0,28.0,1
+2024-10-02,Mattia Bellucci,Alexander Zverev,Alexander Zverev,101.0,3.0,0
+2024-10-02,Taro Daniel,Egor Gerasimov,Taro Daniel,93.0,304.0,1
+2024-10-02,Pablo Carreno Busta,Botic Van De Zandschulp,Botic Van De Zandschulp,203.0,67.0,0
+2024-10-02,Roberto Carballes Baena,Roberto Bautista Agut,Roberto Carballes Baena,54.0,57.0,1
+2024-10-02,Lorenzo Sonego,Denis Shapovalov,Denis Shapovalov,49.0,102.0,0
+2024-10-02,Kei Nishikori,Mariano Navone,Kei Nishikori,153.0,38.0,1
+2024-10-02,Luca Nardi,Alexandre Muller,Alexandre Muller,89.0,74.0,0
+2024-10-02,Zachary Svajda,Adrian Mannarino,Zachary Svajda,131.0,53.0,1
+2024-10-02,Daniel Evans,Thiago Seyboth Wild,Thiago Seyboth Wild,170.0,88.0,0
+2024-10-02,Juncheng Shang,Coleman Wong,Juncheng Shang,51.0,128.0,1
+2024-10-02,Sumit Nagal,Yibing Wu,Yibing Wu,83.0,560.0,0
+2024-10-02,Gael Monfils,Damir Dzumhur,Gael Monfils,46.0,96.0,1
+2024-10-02,Marin Cilic,Arthur Cazaux,Arthur Cazaux,211.0,92.0,0
+2024-10-02,Fabio Fognini,Luciano Darderi,Fabio Fognini,81.0,42.0,1
+2024-10-02,Reilly Opelka,Arthur Rinderknech,Arthur Rinderknech,309.0,62.0,0
+2024-10-02,Alejandro Davidovich Fokina,Gabriel Diallo,Alejandro Davidovich Fokina,64.0,105.0,1
+2024-10-02,Corentin Moutet,Aleksandar Vukic,Aleksandar Vukic,72.0,91.0,0
+2024-10-02,Jakub Mensik,Pedro Martinez,Jakub Mensik,65.0,45.0,1
+2024-10-02,Ramkumar Ramanathan,Alexander Shevchenko,Alexander Shevchenko,332.0,58.0,0
+2024-10-02,Miomir Kecmanovic,Rinky Hijikata,Miomir Kecmanovic,55.0,78.0,1
+2024-10-02,Zhizhen Zhang,Zizou Bergs,Zizou Bergs,41.0,73.0,0
+2024-10-02,Yi Zhou,Yoshihito Nishioka,Yi Zhou,440.0,60.0,1
+2024-10-02,Beibit Zhukayev,Roman Safiullin,Roman Safiullin,196.0,61.0,0
+2024-10-02,Stan Wawrinka,Giovanni Mpetshi Perricard,Stan Wawrinka,236.0,50.0,1
+2024-10-02,Bu Yunchaokete,Alex Michelsen,Alex Michelsen,69.0,43.0,0
+2024-10-02,Terence Atmane,Aleksandar Kovacevic,Terence Atmane,161.0,76.0,1
+2024-10-02,Pavel Kotov,Yosuke Watanuki,Yosuke Watanuki,56.0,336.0,0
+2024-10-02,Jaume Munar,Hugo Gaston,Jaume Munar,63.0,80.0,1
+2024-10-02,Christopher Oconnell,Matteo Berrettini,Matteo Berrettini,71.0,44.0,0
+2024-10-02,David Goffin,James Duckworth,David Goffin,66.0,75.0,1
+2024-10-02,Li Tu,Marcos Giron,Marcos Giron,191.0,47.0,0
+2024-10-02,Tallon Griekspoor,Facundo Diaz Acosta,Tallon Griekspoor,40.0,59.0,1
+2024-10-02,Billy Harris,Mattia Bellucci,Mattia Bellucci,106.0,101.0,0
+2024-10-14,Karen Khachanov,Gabriel Diallo,Karen Khachanov,26.0,118.0,1
+2024-10-14,Aleksandar Vukic,Karen Khachanov,Karen Khachanov,85.0,26.0,0
+2024-10-14,Gabriel Diallo,Francisco Cerundolo,Gabriel Diallo,118.0,31.0,1
+2024-10-14,Frances Tiafoe,Aleksandar Vukic,Aleksandar Vukic,15.0,85.0,0
+2024-10-14,Karen Khachanov,Beibit Zhukayev,Karen Khachanov,26.0,213.0,1
+2024-10-14,Alexander Shevchenko,Francisco Cerundolo,Francisco Cerundolo,61.0,31.0,0
+2024-10-14,Gabriel Diallo,Alejandro Tabilo,Gabriel Diallo,118.0,23.0,1
+2024-10-14,Daniel Evans,Frances Tiafoe,Frances Tiafoe,180.0,15.0,0
+2024-10-14,Aleksandar Vukic,Adrian Mannarino,Aleksandar Vukic,85.0,56.0,1
+2024-10-14,Otto Virtanen,Karen Khachanov,Karen Khachanov,116.0,26.0,0
+2024-10-14,Beibit Zhukayev,Tomas Machac,Beibit Zhukayev,213.0,25.0,1
+2024-10-14,Aslan Karatsev,Alexander Shevchenko,Alexander Shevchenko,139.0,61.0,0
+2024-10-14,Francisco Cerundolo,Justin Engel,Francisco Cerundolo,31.0,458.0,1
+2024-10-14,Borna Coric,Gabriel Diallo,Gabriel Diallo,96.0,118.0,0
+2024-10-14,Alejandro Tabilo,Maximilian Marterer,Alejandro Tabilo,23.0,114.0,1
+2024-10-14,Taro Daniel,Daniel Evans,Daniel Evans,89.0,180.0,0
+2024-10-14,Aleksandar Vukic,James Duckworth,Aleksandar Vukic,85.0,63.0,1
+2024-10-14,Roman Safiullin,Adrian Mannarino,Adrian Mannarino,58.0,56.0,0
+2024-10-14,Otto Virtanen,Fabio Fognini,Otto Virtanen,116.0,76.0,1
+2024-10-14,Benjamin Hassan,Beibit Zhukayev,Beibit Zhukayev,245.0,213.0,0
+2024-10-14,Tomas Machac,Timofey Skatov,Tomas Machac,25.0,192.0,1
+2024-10-14,Zhizhen Zhang,Aslan Karatsev,Aslan Karatsev,46.0,139.0,0
+2024-10-14,Alexander Shevchenko,Mikhail Kukushkin,Alexander Shevchenko,61.0,111.0,1
+2024-10-14,Coleman Wong,Justin Engel,Justin Engel,133.0,458.0,0
+2024-10-14,Borna Coric,Fabian Marozsan,Borna Coric,96.0,57.0,1
+2024-10-14,Christopher Oconnell,Gabriel Diallo,Gabriel Diallo,72.0,118.0,0
+2024-10-14,Maximilian Marterer,Damir Dzumhur,Maximilian Marterer,114.0,100.0,1
+2024-10-14,Jiri Lehecka,Roberto Bautista Agut,Roberto Bautista Agut,33.0,60.0,0
+2024-10-14,Roberto Bautista Agut,Hugo Gaston,Roberto Bautista Agut,60.0,77.0,1
+2024-10-14,Marcos Giron,Jiri Lehecka,Jiri Lehecka,47.0,33.0,0
+2024-10-14,Hugo Gaston,Alex De Minaur,Hugo Gaston,77.0,9.0,1
+2024-10-14,Felix Auger Aliassime,Roberto Bautista Agut,Roberto Bautista Agut,21.0,60.0,0
+2024-10-14,Marcos Giron,Zizou Bergs,Marcos Giron,47.0,69.0,1
+2024-10-14,Stefanos Tsitsipas,Jiri Lehecka,Jiri Lehecka,11.0,33.0,0
+2024-10-14,Alex De Minaur,Roberto Carballes Baena,Alex De Minaur,9.0,54.0,1
+2024-10-14,Mariano Navone,Hugo Gaston,Hugo Gaston,43.0,77.0,0
+2024-10-14,Felix Auger Aliassime,Marton Fucsovics,Felix Auger Aliassime,21.0,93.0,1
+2024-10-14,Tomas Martin Etcheverry,Roberto Bautista Agut,Roberto Bautista Agut,35.0,60.0,0
+2024-10-14,Marcos Giron,Arthur Rinderknech,Marcos Giron,47.0,62.0,1
+2024-10-14,Sebastian Baez,Zizou Bergs,Zizou Bergs,27.0,69.0,0
+2024-10-14,Jiri Lehecka,Daniel Altmaier,Jiri Lehecka,33.0,84.0,1
+2024-10-14,Thiago Seyboth Wild,Stefanos Tsitsipas,Stefanos Tsitsipas,80.0,11.0,0
+2024-10-14,Roberto Carballes Baena,Dominik Koepfer,Roberto Carballes Baena,54.0,81.0,1
+2024-10-14,Alexey Vatutin,Hugo Gaston,Hugo Gaston,336.0,77.0,0
+2024-10-14,Mariano Navone,Thiago Monteiro,Mariano Navone,43.0,88.0,1
+2024-10-14,Raphael Collignon,Marton Fucsovics,Marton Fucsovics,164.0,93.0,0
+2024-10-14,Roberto Bautista Agut,Luca Van Assche,Roberto Bautista Agut,60.0,119.0,1
+2024-10-14,Richard Gasquet,Tomas Martin Etcheverry,Tomas Martin Etcheverry,135.0,35.0,0
+2024-10-14,Marcos Giron,Botic Van De Zandschulp,Marcos Giron,47.0,68.0,1
+2024-10-14,Alexander Blockx,Arthur Rinderknech,Arthur Rinderknech,231.0,62.0,0
+2024-10-14,Zizou Bergs,Facundo Diaz Acosta,Zizou Bergs,69.0,67.0,1
+2024-10-14,Jaume Munar,Jiri Lehecka,Jiri Lehecka,65.0,33.0,0
+2024-10-14,Daniel Altmaier,Gilles Arnaud Bailly,Daniel Altmaier,84.0,869.0,1
+2024-10-14,Giovanni Mpetshi Perricard,Thiago Seyboth Wild,Thiago Seyboth Wild,48.0,80.0,0
+2024-10-14,Tommy Paul,Grigor Dimitrov,Tommy Paul,13.0,10.0,1
+2024-10-14,Stan Wawrinka,Tommy Paul,Tommy Paul,217.0,13.0,0
+2024-10-14,Grigor Dimitrov,Tallon Griekspoor,Grigor Dimitrov,10.0,37.0,1
+2024-10-14,Andrey Rublev,Stan Wawrinka,Stan Wawrinka,7.0,217.0,0
+2024-10-14,Tommy Paul,Miomir Kecmanovic,Tommy Paul,13.0,55.0,1
+2024-10-14,Dominic Stricker,Grigor Dimitrov,Grigor Dimitrov,317.0,10.0,0
+2024-10-14,Tallon Griekspoor,Casper Ruud,Tallon Griekspoor,37.0,8.0,1
+2024-10-14,Alexandre Muller,Andrey Rublev,Andrey Rublev,70.0,7.0,0
+2024-10-14,Stan Wawrinka,Alejandro Davidovich Fokina,Stan Wawrinka,217.0,64.0,1
+2024-10-14,Laslo Djere,Tommy Paul,Tommy Paul,113.0,13.0,0
+2024-10-14,Miomir Kecmanovic,Nicolas Jarry,Miomir Kecmanovic,55.0,34.0,1
+2024-10-14,Matteo Berrettini,Dominic Stricker,Dominic Stricker,42.0,317.0,0
+2024-10-14,Grigor Dimitrov,Quentin Halys,Grigor Dimitrov,10.0,95.0,1
+2024-10-14,Jacob Fearnley,Tallon Griekspoor,Tallon Griekspoor,99.0,37.0,0
+2024-10-14,Casper Ruud,Lorenzo Sonego,Casper Ruud,8.0,50.0,1
+2024-10-14,Leo Borg,Alexandre Muller,Alexandre Muller,590.0,70.0,0
+2024-10-14,Alejandro Davidovich Fokina,Thiago Agustin Tirante,Alejandro Davidovich Fokina,64.0,121.0,1
+2024-10-14,Brandon Nakashima,Stan Wawrinka,Stan Wawrinka,38.0,217.0,0
+2024-10-14,Laslo Djere,Pedro Martinez,Laslo Djere,113.0,39.0,1
+2024-10-14,Cameron Norrie,Miomir Kecmanovic,Miomir Kecmanovic,52.0,55.0,0
+2024-10-14,Nicolas Jarry,Elias Ymer,Nicolas Jarry,34.0,252.0,1
+2024-10-14,Luciano Darderi,Matteo Berrettini,Matteo Berrettini,44.0,42.0,0
+2024-10-14,Dominic Stricker,Aleksandar Kovacevic,Dominic Stricker,317.0,90.0,1
+2024-10-14,Sumit Nagal,Quentin Halys,Quentin Halys,78.0,95.0,0
+2024-10-14,Tallon Griekspoor,Pavel Kotov,Tallon Griekspoor,37.0,59.0,1
+2024-10-14,Corentin Moutet,Jacob Fearnley,Jacob Fearnley,71.0,99.0,0
+2024-10-14,Lorenzo Sonego,Marc Andrea Huesler,Lorenzo Sonego,50.0,152.0,1
+2024-10-21,Ben Shelton,Giovanni Mpetshi Perricard,Giovanni Mpetshi Perricard,23.0,50.0,0
+2024-10-21,Ben Shelton,Arthur Fils,Ben Shelton,23.0,20.0,1
+2024-10-21,Holger Rune,Giovanni Mpetshi Perricard,Giovanni Mpetshi Perricard,14.0,50.0,0
+2024-10-21,Ben Shelton,Andrey Rublev,Ben Shelton,23.0,7.0,1
+2024-10-21,Stefanos Tsitsipas,Arthur Fils,Arthur Fils,11.0,20.0,0
+2024-10-21,Holger Rune,David Goffin,Holger Rune,14.0,54.0,1
+2024-10-21,Denis Shapovalov,Giovanni Mpetshi Perricard,Giovanni Mpetshi Perricard,95.0,50.0,0
+2024-10-21,Andrey Rublev,Alejandro Tabilo,Andrey Rublev,7.0,21.0,1
+2024-10-21,Stan Wawrinka,Ben Shelton,Ben Shelton,169.0,23.0,0
+2024-10-21,Stefanos Tsitsipas,Botic Van De Zandschulp,Stefanos Tsitsipas,11.0,67.0,1
+2024-10-21,Pedro Martinez,Arthur Fils,Arthur Fils,39.0,20.0,0
+2024-10-21,David Goffin,Ugo Humbert,David Goffin,54.0,16.0,1
+2024-10-21,Dominic Stricker,Holger Rune,Holger Rune,258.0,14.0,0
+2024-10-21,Giovanni Mpetshi Perricard,Felix Auger Aliassime,Giovanni Mpetshi Perricard,50.0,19.0,1
+2024-10-21,Roberto Bautista Agut,Denis Shapovalov,Denis Shapovalov,45.0,95.0,0
+2024-10-21,Andrey Rublev,Nuno Borges,Andrey Rublev,7.0,33.0,1
+2024-10-21,Marin Cilic,Alejandro Tabilo,Alejandro Tabilo,202.0,21.0,0
+2024-10-21,Stan Wawrinka,Adrian Mannarino,Stan Wawrinka,169.0,57.0,1
+2024-10-21,Tomas Martin Etcheverry,Ben Shelton,Ben Shelton,36.0,23.0,0
+2024-10-21,Stefanos Tsitsipas,Francisco Cerundolo,Stefanos Tsitsipas,11.0,30.0,1
+2024-10-21,Alexander Bublik,Botic Van De Zandschulp,Botic Van De Zandschulp,32.0,67.0,0
+2024-10-21,Pedro Martinez,Jiri Lehecka,Pedro Martinez,39.0,28.0,1
+2024-10-21,Daniel Altmaier,Arthur Fils,Arthur Fils,82.0,20.0,0
+2024-10-21,Ugo Humbert,Jerome Kym,Ugo Humbert,16.0,140.0,1
+2024-10-21,Matteo Arnaldi,David Goffin,David Goffin,37.0,54.0,0
+2024-10-21,Dominic Stricker,Tallon Griekspoor,Dominic Stricker,258.0,35.0,1
+2024-10-21,Nicolas Jarry,Holger Rune,Holger Rune,34.0,14.0,0
+2024-10-21,Felix Auger Aliassime,Sebastian Baez,Felix Auger Aliassime,19.0,26.0,1
+2024-10-21,James Duckworth,Giovanni Mpetshi Perricard,Giovanni Mpetshi Perricard,69.0,50.0,0
+2024-10-21,Denis Shapovalov,Juncheng Shang,Denis Shapovalov,95.0,47.0,1
+2024-10-21,Casper Ruud,Roberto Bautista Agut,Roberto Bautista Agut,8.0,45.0,0
+2024-10-21,Jack Draper,Karen Khachanov,Jack Draper,18.0,24.0,1
+2024-10-21,Lorenzo Musetti,Jack Draper,Jack Draper,17.0,18.0,0
+2024-10-21,Karen Khachanov,Alex De Minaur,Karen Khachanov,24.0,10.0,1
+2024-10-21,Alexander Zverev,Lorenzo Musetti,Lorenzo Musetti,3.0,17.0,0
+2024-10-21,Jack Draper,Tomas Machac,Jack Draper,18.0,27.0,1
+2024-10-21,Matteo Berrettini,Karen Khachanov,Karen Khachanov,41.0,24.0,0
+2024-10-21,Alex De Minaur,Jakub Mensik,Alex De Minaur,10.0,51.0,1
+2024-10-21,Marcos Giron,Alexander Zverev,Alexander Zverev,48.0,3.0,0
+2024-10-21,Lorenzo Musetti,Gael Monfils,Lorenzo Musetti,17.0,52.0,1
+2024-10-21,Grigor Dimitrov,Tomas Machac,Tomas Machac,9.0,27.0,0
+2024-10-21,Jack Draper,Luciano Darderi,Jack Draper,18.0,42.0,1
+2024-10-21,Frances Tiafoe,Matteo Berrettini,Matteo Berrettini,15.0,41.0,0
+2024-10-21,Karen Khachanov,Brandon Nakashima,Karen Khachanov,24.0,38.0,1
+2024-10-21,Miomir Kecmanovic,Jakub Mensik,Jakub Mensik,58.0,51.0,0
+2024-10-21,Alex De Minaur,Flavio Cobolli,Alex De Minaur,10.0,31.0,1
+2024-10-21,Joel Schwaerzler,Alexander Zverev,Alexander Zverev,347.0,3.0,0
+2024-10-21,Marcos Giron,Alex Michelsen,Marcos Giron,48.0,43.0,1
+2024-10-21,Quentin Halys,Gael Monfils,Gael Monfils,90.0,52.0,0
+2024-10-21,Lorenzo Musetti,Lorenzo Sonego,Lorenzo Musetti,17.0,49.0,1
+2024-10-21,Zhizhen Zhang,Grigor Dimitrov,Grigor Dimitrov,46.0,9.0,0
+2024-10-21,Tomas Machac,Fabian Marozsan,Tomas Machac,27.0,56.0,1
+2024-10-21,Dominic Thiem,Luciano Darderi,Luciano Darderi,318.0,42.0,0
+2024-10-21,Jack Draper,Kei Nishikori,Jack Draper,18.0,141.0,1
+2024-10-21,Cameron Norrie,Frances Tiafoe,Frances Tiafoe,53.0,15.0,0
+2024-10-21,Matteo Berrettini,Marton Fucsovics,Matteo Berrettini,41.0,88.0,1
+2024-10-21,Thiago Seyboth Wild,Karen Khachanov,Karen Khachanov,78.0,24.0,0
+2024-10-21,Brandon Nakashima,Tommy Paul,Brandon Nakashima,38.0,12.0,1
+2024-10-21,Alexei Popyrin,Jakub Mensik,Jakub Mensik,25.0,51.0,0
+2024-10-21,Miomir Kecmanovic,Mariano Navone,Miomir Kecmanovic,58.0,44.0,1
+2024-10-21,Alejandro Davidovich Fokina,Flavio Cobolli,Flavio Cobolli,62.0,31.0,0
+2024-10-21,Alex De Minaur,Jan Lennard Struff,Alex De Minaur,10.0,40.0,1
+2024-10-28,Ugo Humbert,Alexander Zverev,Alexander Zverev,18.0,3.0,0
+2024-10-28,Alexander Zverev,Holger Rune,Alexander Zverev,3.0,13.0,1
+2024-10-28,Karen Khachanov,Ugo Humbert,Ugo Humbert,21.0,18.0,0
+2024-10-28,Holger Rune,Alex De Minaur,Holger Rune,13.0,10.0,1
+2024-10-28,Stefanos Tsitsipas,Alexander Zverev,Alexander Zverev,11.0,3.0,0
+2024-10-28,Karen Khachanov,Grigor Dimitrov,Karen Khachanov,21.0,9.0,1
+2024-10-28,Jordan Thompson,Ugo Humbert,Ugo Humbert,28.0,18.0,0
+2024-10-28,Holger Rune,Arthur Cazaux,Holger Rune,13.0,85.0,1
+2024-10-28,Jack Draper,Alex De Minaur,Alex De Minaur,15.0,10.0,0
+2024-10-28,Alexander Zverev,Arthur Fils,Alexander Zverev,3.0,20.0,1
+2024-10-28,Francisco Cerundolo,Stefanos Tsitsipas,Stefanos Tsitsipas,29.0,11.0,0
+2024-10-28,Grigor Dimitrov,Arthur Rinderknech,Grigor Dimitrov,9.0,60.0,1
+2024-10-28,Alexei Popyrin,Karen Khachanov,Karen Khachanov,24.0,21.0,0
+2024-10-28,Jordan Thompson,Adrian Mannarino,Jordan Thompson,28.0,58.0,1
+2024-10-28,Carlos Alcaraz,Ugo Humbert,Ugo Humbert,2.0,18.0,0
+2024-10-28,Arthur Cazaux,Ben Shelton,Arthur Cazaux,85.0,19.0,1
+2024-10-28,Alexander Bublik,Holger Rune,Holger Rune,33.0,13.0,0
+2024-10-28,Alex De Minaur,Miomir Kecmanovic,Alex De Minaur,10.0,55.0,1
+2024-10-28,Taylor Fritz,Jack Draper,Jack Draper,6.0,15.0,0
+2024-10-28,Alexander Zverev,Tallon Griekspoor,Alexander Zverev,3.0,39.0,1
+2024-10-28,Jan Lennard Struff,Arthur Fils,Arthur Fils,42.0,20.0,0
+2024-10-28,Stefanos Tsitsipas,Alejandro Tabilo,Stefanos Tsitsipas,11.0,22.0,1
+2024-10-28,Andrey Rublev,Francisco Cerundolo,Francisco Cerundolo,7.0,29.0,0
+2024-10-28,Grigor Dimitrov,Tomas Martin Etcheverry,Grigor Dimitrov,9.0,40.0,1
+2024-10-28,Alex Michelsen,Arthur Rinderknech,Arthur Rinderknech,44.0,60.0,0
+2024-10-28,Karen Khachanov,Giovanni Mpetshi Perricard,Karen Khachanov,21.0,31.0,1
+2024-10-28,Daniil Medvedev,Alexei Popyrin,Alexei Popyrin,5.0,24.0,0
+2024-10-28,Jordan Thompson,Casper Ruud,Jordan Thompson,28.0,8.0,1
+2024-10-28,Zizou Bergs,Adrian Mannarino,Adrian Mannarino,65.0,58.0,0
+2024-10-28,Ugo Humbert,Marcos Giron,Ugo Humbert,18.0,49.0,1
+2024-10-28,Nicolas Jarry,Carlos Alcaraz,Carlos Alcaraz,37.0,2.0,0
+2024-10-28,Ben Shelton,Corentin Moutet,Ben Shelton,19.0,70.0,1
+2024-10-28,Fabio Fognini,Alexander Bublik,Alexander Bublik,79.0,33.0,0
+2024-10-28,Holger Rune,Matteo Arnaldi,Holger Rune,13.0,38.0,1
+2024-10-28,Mariano Navone,Alex De Minaur,Alex De Minaur,45.0,10.0,0
+2024-10-28,Miomir Kecmanovic,Sebastian Baez,Miomir Kecmanovic,55.0,26.0,1
+2024-10-28,Jiri Lehecka,Jack Draper,Jack Draper,30.0,15.0,0
+2024-10-28,Tallon Griekspoor,Luciano Darderi,Tallon Griekspoor,39.0,43.0,1
+2024-10-28,Marin Cilic,Arthur Fils,Arthur Fils,201.0,20.0,0
+2024-10-28,Jan Lennard Struff,Lorenzo Musetti,Jan Lennard Struff,42.0,16.0,1
+2024-10-28,Roberto Carballes Baena,Stefanos Tsitsipas,Stefanos Tsitsipas,54.0,11.0,0
+2024-10-28,Alejandro Tabilo,Nuno Borges,Alejandro Tabilo,22.0,34.0,1
+2024-10-28,Quentin Halys,Francisco Cerundolo,Francisco Cerundolo,90.0,29.0,0
+2024-10-28,Tomas Martin Etcheverry,Zhizhen Zhang,Tomas Martin Etcheverry,40.0,47.0,1
+2024-10-28,Tomas Machac,Arthur Rinderknech,Arthur Rinderknech,25.0,60.0,0
+2024-10-28,Alex Michelsen,Hubert Hurkacz,Alex Michelsen,44.0,14.0,1
+2024-10-28,Frances Tiafoe,Giovanni Mpetshi Perricard,Giovanni Mpetshi Perricard,17.0,31.0,0
+2024-10-28,Karen Khachanov,Christopher Oconnell,Karen Khachanov,21.0,71.0,1
+2024-10-28,Matteo Berrettini,Alexei Popyrin,Alexei Popyrin,36.0,24.0,0
+2024-10-28,Jordan Thompson,Pedro Martinez,Jordan Thompson,28.0,41.0,1
+2024-10-28,Richard Gasquet,Zizou Bergs,Zizou Bergs,133.0,65.0,0
+2024-10-28,Adrian Mannarino,Tommy Paul,Adrian Mannarino,58.0,12.0,1
+2024-10-28,Brandon Nakashima,Ugo Humbert,Ugo Humbert,35.0,18.0,0
+2024-10-28,Marcos Giron,Juncheng Shang,Marcos Giron,49.0,51.0,1
+2024-10-28,Lorenzo Sonego,Nicolas Jarry,Nicolas Jarry,52.0,37.0,0
+2024-11-04,Denis Shapovalov,Hamad Medjedovic,Denis Shapovalov,78.0,156.0,1
+2024-11-04,Laslo Djere,Hamad Medjedovic,Hamad Medjedovic,141.0,156.0,0
+2024-11-04,Denis Shapovalov,Jiri Lehecka,Denis Shapovalov,78.0,31.0,1
+2024-11-04,Fabian Marozsan,Laslo Djere,Laslo Djere,59.0,141.0,0
+2024-11-04,Hamad Medjedovic,Francisco Cerundolo,Hamad Medjedovic,156.0,29.0,1
+2024-11-04,Lukas Klein,Jiri Lehecka,Jiri Lehecka,153.0,31.0,0
+2024-11-04,Denis Shapovalov,Christopher Oconnell,Denis Shapovalov,78.0,71.0,1
+2024-11-04,Duje Ajdukovic,Laslo Djere,Laslo Djere,115.0,141.0,0
+2024-11-04,Fabian Marozsan,Dusan Lajovic,Fabian Marozsan,59.0,86.0,1
+2024-11-04,Roman Safiullin,Francisco Cerundolo,Francisco Cerundolo,60.0,29.0,0
+2024-11-04,Hamad Medjedovic,Aleksandar Kovacevic,Hamad Medjedovic,156.0,101.0,1
+2024-11-04,Tomas Martin Etcheverry,Lukas Klein,Lukas Klein,39.0,153.0,0
+2024-11-04,Jiri Lehecka,Marin Cilic,Jiri Lehecka,31.0,196.0,1
+2024-11-04,Daniel Altmaier,Christopher Oconnell,Christopher Oconnell,93.0,71.0,0
+2024-11-04,Denis Shapovalov,Nuno Borges,Denis Shapovalov,78.0,33.0,1
+2024-11-04,Stan Wawrinka,Laslo Djere,Laslo Djere,148.0,141.0,0
+2024-11-04,Fabian Marozsan,Juncheng Shang,Fabian Marozsan,59.0,50.0,1
+2024-11-04,Mariano Navone,Dusan Lajovic,Dusan Lajovic,45.0,86.0,0
+2024-11-04,Roman Safiullin,Fabio Fognini,Roman Safiullin,60.0,74.0,1
+2024-11-04,Branko Djuric,Aleksandar Kovacevic,Aleksandar Kovacevic,781.0,101.0,0
+2024-11-04,Hamad Medjedovic,Brandon Nakashima,Hamad Medjedovic,156.0,37.0,1
+2024-11-04,Pavel Kotov,Tomas Martin Etcheverry,Tomas Martin Etcheverry,75.0,39.0,0
+2024-11-04,Lukas Klein,James Duckworth,Lukas Klein,153.0,77.0,1
+2024-11-04,Alexandre Muller,Marin Cilic,Marin Cilic,68.0,196.0,0
+2024-11-04,Daniel Altmaier,Luciano Darderi,Daniel Altmaier,93.0,43.0,1
+2024-11-04,Miomir Kecmanovic,Christopher Oconnell,Christopher Oconnell,53.0,71.0,0
+2024-11-04,Denis Shapovalov,Marton Fucsovics,Denis Shapovalov,78.0,91.0,1
+2024-11-04,Cameron Norrie,Benjamin Bonzi,Benjamin Bonzi,57.0,124.0,0
+2024-11-04,Cameron Norrie,Corentin Moutet,Cameron Norrie,57.0,66.0,1
+2024-11-04,Alex Michelsen,Benjamin Bonzi,Benjamin Bonzi,44.0,124.0,0
+2024-11-04,Corentin Moutet,Andrey Rublev,Corentin Moutet,66.0,9.0,1
+2024-11-04,Zizou Bergs,Cameron Norrie,Cameron Norrie,61.0,57.0,0
+2024-11-04,Alex Michelsen,Bu Yunchaokete,Alex Michelsen,44.0,72.0,1
+2024-11-04,Quentin Halys,Benjamin Bonzi,Benjamin Bonzi,84.0,124.0,0
+2024-11-04,Andrey Rublev,Lorenzo Sonego,Andrey Rublev,9.0,51.0,1
+2024-11-04,Jan Lennard Struff,Corentin Moutet,Corentin Moutet,40.0,66.0,0
+2024-11-04,Cameron Norrie,Luca Van Assche,Cameron Norrie,57.0,112.0,1
+2024-11-04,Hugo Gaston,Zizou Bergs,Zizou Bergs,81.0,61.0,0
+2024-11-04,Alex Michelsen,Richard Gasquet,Alex Michelsen,44.0,133.0,1
+2024-11-04,Jesper De Jong,Bu Yunchaokete,Bu Yunchaokete,109.0,72.0,0
+2024-11-04,Quentin Halys,Pierre Hugues Herbert,Quentin Halys,84.0,127.0,1
+2024-11-04,Casper Ruud,Benjamin Bonzi,Benjamin Bonzi,7.0,124.0,0
+2024-11-04,Lorenzo Sonego,Gregoire Barrere,Lorenzo Sonego,51.0,166.0,1
+2024-11-04,Sumit Nagal,Corentin Moutet,Corentin Moutet,83.0,66.0,0
+2024-11-04,Jan Lennard Struff,Alexander Shevchenko,Jan Lennard Struff,40.0,64.0,1
+2024-11-04,Roberto Carballes Baena,Cameron Norrie,Cameron Norrie,56.0,57.0,0
+2024-11-04,Zizou Bergs,Manuel Guinard,Zizou Bergs,61.0,264.0,1
+2024-11-04,Titouan Droguet,Hugo Gaston,Hugo Gaston,174.0,81.0,0
+2024-11-04,Alex Michelsen,Harold Mayot,Alex Michelsen,44.0,107.0,1
+2024-11-04,Thiago Monteiro,Richard Gasquet,Richard Gasquet,100.0,133.0,0
+2024-11-04,Bu Yunchaokete,Adrian Mannarino,Bu Yunchaokete,72.0,54.0,1
+2024-11-04,Pedro Martinez,Pierre Hugues Herbert,Pierre Hugues Herbert,42.0,127.0,0
+2024-11-04,Quentin Halys,Theo Papamalamis,Quentin Halys,84.0,721.0,1
+2024-11-04,Roberto Bautista Agut,Benjamin Bonzi,Benjamin Bonzi,47.0,124.0,0
+2024-11-11,Jannik Sinner,Taylor Fritz,Jannik Sinner,1.0,5.0,1
+2024-11-11,Casper Ruud,Jannik Sinner,Jannik Sinner,7.0,1.0,0
+2024-11-11,Taylor Fritz,Alexander Zverev,Taylor Fritz,5.0,2.0,1
+2024-11-11,Daniil Medvedev,Jannik Sinner,Jannik Sinner,4.0,1.0,0
+2024-11-11,Jannik Sinner,Taylor Fritz,Jannik Sinner,1.0,5.0,1
+2024-11-11,Alex De Minaur,Jannik Sinner,Jannik Sinner,9.0,1.0,0
+2024-11-11,Taylor Fritz,Daniil Medvedev,Taylor Fritz,5.0,4.0,1
+2024-11-11,Alex De Minaur,Daniil Medvedev,Daniil Medvedev,9.0,4.0,0
+2024-11-11,Taylor Fritz,Alex De Minaur,Taylor Fritz,5.0,9.0,1
+2024-11-11,Carlos Alcaraz,Alexander Zverev,Alexander Zverev,3.0,2.0,0
+2024-11-11,Alexander Zverev,Casper Ruud,Alexander Zverev,2.0,7.0,1
+2024-11-11,Andrey Rublev,Alexander Zverev,Alexander Zverev,8.0,2.0,0
+2024-11-11,Casper Ruud,Carlos Alcaraz,Casper Ruud,7.0,3.0,1
+2024-11-11,Andrey Rublev,Carlos Alcaraz,Carlos Alcaraz,8.0,3.0,0
+2024-11-11,Casper Ruud,Andrey Rublev,Casper Ruud,7.0,8.0,1
+2024-11-19,Botic Van De Zandschulp,Rafael Nadal,Botic Van De Zandschulp,80.0,154.0,1
+2024-11-19,Tallon Griekspoor,Carlos Alcaraz,Carlos Alcaraz,40.0,3.0,0
+2024-11-20,Daniel Altmaier,Gabriel Diallo,Daniel Altmaier,88.0,86.0,1
+2024-11-20,Denis Shapovalov,Jan Lennard Struff,Jan Lennard Struff,56.0,43.0,0
+2024-11-21,Francisco Cerundolo,Lorenzo Musetti,Francisco Cerundolo,30.0,17.0,1
+2024-11-21,Sebastian Baez,Jannik Sinner,Jannik Sinner,27.0,1.0,0
+2024-11-21,Thanasi Kokkinakis,Ben Shelton,Thanasi Kokkinakis,77.0,21.0,1
+2024-11-21,Alex De Minaur,Taylor Fritz,Taylor Fritz,9.0,4.0,0
+2024-11-22,Botic Van De Zandschulp,Daniel Altmaier,Botic Van De Zandschulp,80.0,88.0,1
+2024-11-22,Jan Lennard Struff,Tallon Griekspoor,Tallon Griekspoor,43.0,40.0,0
+2024-11-23,Matteo Berrettini,Thanasi Kokkinakis,Matteo Berrettini,35.0,77.0,1
+2024-11-23,Alex De Minaur,Jannik Sinner,Jannik Sinner,9.0,1.0,0
+2024-11-24,Matteo Berrettini,Botic Van De Zandschulp,Matteo Berrettini,35.0,80.0,1
+2024-11-24,Tallon Griekspoor,Jannik Sinner,Jannik Sinner,40.0,1.0,0
+2024-12-18,Learner Tien,Joao Fonseca,Joao Fonseca,122.0,145.0,0
+2024-12-18,Joao Fonseca,Luca Van Assche,Joao Fonseca,145.0,128.0,1
+2024-12-18,Alex Michelsen,Learner Tien,Learner Tien,41.0,122.0,0
+2024-12-18,Arthur Fils,Jakub Mensik,Arthur Fils,20.0,48.0,1
+2024-12-18,Arthur Fils,Learner Tien,Learner Tien,20.0,122.0,0
+2024-12-18,Joao Fonseca,Arthur Fils,Joao Fonseca,145.0,20.0,1
+2024-12-18,Jakub Mensik,Learner Tien,Learner Tien,48.0,122.0,0
+2024-12-18,Joao Fonseca,Jakub Mensik,Joao Fonseca,145.0,48.0,1
+2024-12-18,Learner Tien,Joao Fonseca,Joao Fonseca,122.0,145.0,0
+2024-12-18,Alex Michelsen,Juncheng Shang,Alex Michelsen,41.0,50.0,1
+2024-12-18,Luca Van Assche,Alex Michelsen,Alex Michelsen,128.0,41.0,0
+2024-12-18,Alex Michelsen,Nishesh Basavareddy,Alex Michelsen,41.0,138.0,1
+2024-12-18,Juncheng Shang,Luca Van Assche,Luca Van Assche,50.0,128.0,0
+2024-12-18,Nishesh Basavareddy,Juncheng Shang,Nishesh Basavareddy,138.0,50.0,1
+2024-12-18,Nishesh Basavareddy,Luca Van Assche,Luca Van Assche,138.0,128.0,0

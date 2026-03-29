@@ -1,15 +1,18 @@
 {
   "model_name": "baseline_xgb",
-  "n_train_rows": 2153,
-  "n_val_rows": 461,
-  "log_loss": 0.91004785598109,
-  "accuracy": 0.5509761388286334,
+  "n_train_rows": 2121,
+  "n_val_rows": 454,
+  "log_loss": 0.8485004654919464,
+  "accuracy": 0.5484581497797357,
   "feature_names": [
     "p1_win_rate",
     "p2_win_rate",
     "p1_matches",
     "p2_matches",
     "win_rate_diff",
-    "matches_diff"
+    "matches_diff",
+    "p1_rank",
+    "p2_rank",
+    "rank_diff"
   ]
 }

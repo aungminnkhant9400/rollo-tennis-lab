@@ -5,8 +5,8 @@ import pandas as pd
 
 INPUT_PATH = Path("data/tennis_atp/atp_matches_2024.csv")
 OUTPUT_PATH = Path("data/raw_matches.csv")
-REQUIRED_COLUMNS = ["tourney_date", "winner_name", "loser_name"]
-OUTPUT_COLUMNS = ["date", "player_1", "player_2", "winner"]
+REQUIRED_COLUMNS = ["tourney_date", "winner_name", "loser_name", "winner_rank", "loser_rank"]
+OUTPUT_COLUMNS = ["date", "player_1", "player_2", "winner", "p1_rank", "p2_rank"]
 
 
 def load_input(path: Path) -> pd.DataFrame:
@@ -34,8 +34,12 @@ def convert_matches(df: pd.DataFrame) -> pd.DataFrame:
     even_index = converted.index % 2 == 0
     converted["player_1"] = converted["loser_name"]
     converted["player_2"] = converted["winner_name"]
+    converted["p1_rank"] = converted["loser_rank"]
+    converted["p2_rank"] = converted["winner_rank"]
     converted.loc[even_index, "player_1"] = converted.loc[even_index, "winner_name"]
     converted.loc[even_index, "player_2"] = converted.loc[even_index, "loser_name"]
+    converted.loc[even_index, "p1_rank"] = converted.loc[even_index, "winner_rank"]
+    converted.loc[even_index, "p2_rank"] = converted.loc[even_index, "loser_rank"]
     converted["winner"] = converted["winner_name"]
     converted["date"] = converted["date"].dt.strftime("%Y-%m-%d")
 

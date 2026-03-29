@@ -5,8 +5,8 @@ import pandas as pd
 
 INPUT_PATH = Path("data/raw_matches.csv")
 OUTPUT_DIR = Path("data/processed")
-REQUIRED_COLUMNS = ["date", "player_1", "player_2", "winner"]
-OUTPUT_COLUMNS = ["date", "player_1", "player_2", "winner", "target"]
+REQUIRED_COLUMNS = ["date", "player_1", "player_2", "winner", "p1_rank", "p2_rank"]
+OUTPUT_COLUMNS = ["date", "player_1", "player_2", "winner", "p1_rank", "p2_rank", "target"]
 
 
 def load_raw_data(input_path: Path) -> pd.DataFrame:

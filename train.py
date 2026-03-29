@@ -10,7 +10,7 @@ from xgboost import XGBClassifier
 TRAIN_PATH = Path("data/processed/train.csv")
 VAL_PATH = Path("data/processed/val.csv")
 OUTPUT_DIR = Path("experiments/baseline_xgb")
-REQUIRED_COLUMNS = ["date", "player_1", "player_2", "target"]
+REQUIRED_COLUMNS = ["date", "player_1", "player_2", "target", "p1_rank", "p2_rank"]
 ALPHA = 10.0
 FEATURE_NAMES = [
     "p1_win_rate",
@@ -19,6 +19,9 @@ FEATURE_NAMES = [
     "p2_matches",
     "win_rate_diff",
     "matches_diff",
+    "p1_rank",
+    "p2_rank",
+    "rank_diff",
 ]
 
 
@@ -71,6 +74,8 @@ def create_features(df: pd.DataFrame, player_stats: pd.DataFrame) -> pd.DataFram
     p2_matches = df["player_2"].map(matches_map).fillna(0).astype(float)
     p1_win_rate = df["player_1"].map(win_rate_map).fillna(0.5).astype(float)
     p2_win_rate = df["player_2"].map(win_rate_map).fillna(0.5).astype(float)
+    p1_rank = df["p1_rank"].astype(float)
+    p2_rank = df["p2_rank"].astype(float)
 
     features = pd.DataFrame(
         {
@@ -80,6 +85,9 @@ def create_features(df: pd.DataFrame, player_stats: pd.DataFrame) -> pd.DataFram
             "p2_matches": p2_matches,
             "win_rate_diff": p1_win_rate - p2_win_rate,
             "matches_diff": p1_matches - p2_matches,
+            "p1_rank": p1_rank,
+            "p2_rank": p2_rank,
+            "rank_diff": p2_rank - p1_rank,
         }
     )
     return features[FEATURE_NAMES]
