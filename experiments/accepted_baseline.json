@@ -1,9 +1,9 @@
 {
   "model_name": "baseline_xgb",
-  "val_log_loss": 0.8377671796802622,
-  "val_accuracy": 0.5352422907488987,
-  "test_log_loss": 0.7648468766315133,
-  "test_accuracy": 0.5934065934065934,
+  "val_log_loss": 0.8390635655433751,
+  "val_accuracy": 0.552863436123348,
+  "test_log_loss": 0.7663024477837884,
+  "test_accuracy": 0.5956043956043956,
   "feature_names": [
     "p1_win_rate",
     "p2_win_rate",
