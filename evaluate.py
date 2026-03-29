@@ -13,6 +13,7 @@ OUTPUT_DIR = Path("experiments/baseline_xgb")
 REQUIRED_COLUMNS = ["date", "player_1", "player_2", "target", "p1_rank", "p2_rank"]
 ALPHA = 10.0
 RECENT_ALPHA = 5.0
+RECENT_COUNT_BETA = 5.0
 FEATURE_NAMES = [
     "p1_win_rate",
     "p2_win_rate",
@@ -26,7 +27,9 @@ FEATURE_NAMES = [
     "p1_recent_win_rate",
     "p2_recent_win_rate",
     "recent_win_rate_diff",
-    "p1_is_favorite",
+    "p1_recent_count_strength",
+    "p2_recent_count_strength",
+    "recent_count_strength_diff",
 ]
 
 
@@ -120,7 +123,11 @@ def create_features(
     p2_rank = df["p2_rank"].astype(float)
     p1_recent_win_rate = df["player_1"].map(recent_win_rate_map).fillna(0.5).astype(float)
     p2_recent_win_rate = df["player_2"].map(recent_win_rate_map).fillna(0.5).astype(float)
-    p1_is_favorite = (p1_rank < p2_rank).astype(float)
+    recent_matches_map = recent_player_stats["matches"].to_dict()
+    p1_recent_matches = df["player_1"].map(recent_matches_map).fillna(0).astype(float)
+    p2_recent_matches = df["player_2"].map(recent_matches_map).fillna(0).astype(float)
+    p1_recent_count_strength = p1_recent_matches / (p1_recent_matches + RECENT_COUNT_BETA)
+    p2_recent_count_strength = p2_recent_matches / (p2_recent_matches + RECENT_COUNT_BETA)
 
     features = pd.DataFrame(
         {
@@ -136,7 +143,9 @@ def create_features(
             "p1_recent_win_rate": p1_recent_win_rate,
             "p2_recent_win_rate": p2_recent_win_rate,
             "recent_win_rate_diff": p1_recent_win_rate - p2_recent_win_rate,
-            "p1_is_favorite": p1_is_favorite,
+            "p1_recent_count_strength": p1_recent_count_strength,
+            "p2_recent_count_strength": p2_recent_count_strength,
+            "recent_count_strength_diff": p1_recent_count_strength - p2_recent_count_strength,
         }
     )
     return features[FEATURE_NAMES]
