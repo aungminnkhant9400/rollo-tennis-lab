@@ -1,0 +1,75 @@
+{
+  "project": "rollo-tennis-lab",
+  "baseline_reference": "experiments/accepted_baseline.json",
+  "selection_rule": "Accept only if validation log loss is strictly lower than the accepted baseline.",
+  "allowed_edit_files": [
+    "train.py",
+    "evaluate.py"
+  ],
+  "candidates": [
+    {
+      "id": "EXP001",
+      "name": "Opponent-strength rolling average",
+      "status": "queued",
+      "hypothesis": "A rolling win-rate estimate weighted by the quality of recently faced opponents may capture form more precisely than an unweighted recent summary and improve validation log loss.",
+      "planned_change": "Add a train-only rolling feature that summarizes recent results against stronger and weaker opponents using historical rank-based weights. Reuse the current recent-window structure and keep the feature set incremental.",
+      "risk": "medium"
+    },
+    {
+      "id": "EXP002",
+      "name": "Rank-gap magnitude",
+      "status": "queued",
+      "hypothesis": "The absolute size of the ranking gap may carry predictive signal beyond the signed difference, especially when mismatches are large.",
+      "planned_change": "Add a numeric feature based on the absolute difference between p1_rank and p2_rank. Keep the existing rank features unchanged and evaluate only the extra magnitude signal.",
+      "risk": "low"
+    },
+    {
+      "id": "EXP003",
+      "name": "Favorite underdog flag",
+      "status": "queued",
+      "hypothesis": "A simple binary indicator for whether player_1 is the ranking favorite may help the model separate close matches from clear favorite situations.",
+      "planned_change": "Add a float indicator for player_1 being better ranked than player_2, plus the complementary indicator if needed through existing features. Do not alter current rank features or target logic.",
+      "risk": "low"
+    },
+    {
+      "id": "EXP004",
+      "name": "Smoothed recent match count",
+      "status": "queued",
+      "hypothesis": "Recent-form estimates are more reliable when backed by more recent matches, so an explicit smoothed recent sample-size feature may improve calibration and lower validation log loss.",
+      "planned_change": "Add recent match count features derived from the same train-only recent window already used for recent win rate. Apply simple smoothing so low-count players are not treated as equally reliable as active players.",
+      "risk": "low"
+    },
+    {
+      "id": "EXP005",
+      "name": "Recent form volatility",
+      "status": "queued",
+      "hypothesis": "Players with unstable recent results may be harder to predict, and a volatility feature from the recent window may help the model calibrate uncertainty.",
+      "planned_change": "Add a train-only feature measuring variation in recent match outcomes over the current rolling window. Keep the implementation lightweight and based only on already available match results.",
+      "risk": "medium"
+    },
+    {
+      "id": "EXP006",
+      "name": "Overall recent blend",
+      "status": "queued",
+      "hypothesis": "A blended estimate combining overall strength and recent form may outperform either signal alone by balancing stability and responsiveness.",
+      "planned_change": "Add blended win-rate features that combine the current smoothed overall win rate and current smoothed recent win rate with a fixed weighting. Preserve the original component features for direct comparison.",
+      "risk": "low"
+    },
+    {
+      "id": "EXP007",
+      "name": "Top-rank upset sensitivity",
+      "status": "queued",
+      "hypothesis": "Matches involving top-ranked players may behave differently, and explicit upset-sensitivity features may help the model handle those edge cases better.",
+      "planned_change": "Add simple indicators for top-ranked players facing materially lower-ranked opponents and for underdogs facing elite opponents. Keep the logic rule-based and limited to existing rank columns.",
+      "risk": "medium"
+    },
+    {
+      "id": "EXP008",
+      "name": "Recency-decayed history",
+      "status": "queued",
+      "hypothesis": "Older historical matches may be less informative than newer ones, so a time-decayed version of historical strength features may reduce stale signal and improve validation log loss.",
+      "planned_change": "Modify historical-stat feature construction to test a train-only recency decay on past matches while keeping the same core feature family. Apply the decay in a controlled way and compare directly against the accepted baseline.",
+      "risk": "high"
+    }
+  ]
+}
